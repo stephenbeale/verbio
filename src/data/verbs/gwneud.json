@@ -1,0 +1,235 @@
+{
+  "id": "gwneud",
+  "infinitive": "gwneud",
+  "meaning": "to do / to make",
+  "type": "irregular",
+  "tags": ["essential", "auxiliary"],
+  "notes": "Used as an auxiliary verb for emphasis and in questions/negatives. Also written 'gwnïo' in some dialects. Imperative: 'gwna' (N/S formal), 'gwna' (informal).",
+  "mutations": {
+    "soft": "wneud",
+    "nasal": "ngwneud",
+    "aspirate": null
+  },
+  "tenses": {
+    "present": {
+      "label": "Present",
+      "label_cy": "Presennol",
+      "north": {
+        "formal": {
+          "1sg": "gwnaf i",
+          "2sg": "gwnei di",
+          "3sg_m": "gwna ef",
+          "3sg_f": "gwna hi",
+          "1pl": "gwnawn ni",
+          "2pl": "gwnewch chi",
+          "3pl": "gwnânt hwy"
+        },
+        "informal": {
+          "1sg": "dw i'n gneud",
+          "2sg": "ti'n gneud",
+          "3sg_m": "mae o'n gneud",
+          "3sg_f": "mae hi'n gneud",
+          "1pl": "dan ni'n gneud",
+          "2pl": "dach chi'n gneud",
+          "3pl": "maen nhw'n gneud"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "gwnaf i",
+          "2sg": "gwnei di",
+          "3sg_m": "gwna ef",
+          "3sg_f": "gwna hi",
+          "1pl": "gwnawn ni",
+          "2pl": "gwnewch chi",
+          "3pl": "gwnânt hwy"
+        },
+        "informal": {
+          "1sg": "dw i'n gwneud",
+          "2sg": "rwyt ti'n gwneud",
+          "3sg_m": "mae e'n gwneud",
+          "3sg_f": "mae hi'n gwneud",
+          "1pl": "r'yn ni'n gwneud",
+          "2pl": "r'ych chi'n gwneud",
+          "3pl": "maen nhw'n gwneud"
+        }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)",
+      "label_cy": "Gorffennol",
+      "north": {
+        "formal": {
+          "1sg": "gwneuthum i",
+          "2sg": "gwnaethost ti",
+          "3sg_m": "gwnaeth ef",
+          "3sg_f": "gwnaeth hi",
+          "1pl": "gwnaethom ni",
+          "2pl": "gwnaethoch chi",
+          "3pl": "gwnaethant hwy"
+        },
+        "informal": {
+          "1sg": "nes i",
+          "2sg": "nest ti",
+          "3sg_m": "naeth o",
+          "3sg_f": "naeth hi",
+          "1pl": "naethon ni",
+          "2pl": "naethoch chi",
+          "3pl": "naethon nhw"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "gwneuthum i",
+          "2sg": "gwnaethost ti",
+          "3sg_m": "gwnaeth ef",
+          "3sg_f": "gwnaeth hi",
+          "1pl": "gwnaethom ni",
+          "2pl": "gwnaethoch chi",
+          "3pl": "gwnaethant hwy"
+        },
+        "informal": {
+          "1sg": "nethes i / des i",
+          "2sg": "nethest ti",
+          "3sg_m": "naeth e / gwnaeth e",
+          "3sg_f": "naeth hi / gwnaeth hi",
+          "1pl": "naethon ni",
+          "2pl": "naethoch chi",
+          "3pl": "naethon nhw"
+        }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect",
+      "label_cy": "Amherffaith",
+      "north": {
+        "formal": {
+          "1sg": "gwnawn i",
+          "2sg": "gwnait ti",
+          "3sg_m": "gwnâi ef",
+          "3sg_f": "gwnâi hi",
+          "1pl": "gwnaem ni",
+          "2pl": "gwnaech chi",
+          "3pl": "gwnaent hwy"
+        },
+        "informal": {
+          "1sg": "ro'n i'n gneud",
+          "2sg": "ro't ti'n gneud",
+          "3sg_m": "roedd o'n gneud",
+          "3sg_f": "roedd hi'n gneud",
+          "1pl": "roedden ni'n gneud",
+          "2pl": "roeddech chi'n gneud",
+          "3pl": "roedden nhw'n gneud"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "gwnawn i",
+          "2sg": "gwnait ti",
+          "3sg_m": "gwnâi ef",
+          "3sg_f": "gwnâi hi",
+          "1pl": "gwnaem ni",
+          "2pl": "gwnaech chi",
+          "3pl": "gwnaent hwy"
+        },
+        "informal": {
+          "1sg": "ro'n i'n gwneud",
+          "2sg": "ro't ti'n gwneud",
+          "3sg_m": "roedd e'n gwneud",
+          "3sg_f": "roedd hi'n gwneud",
+          "1pl": "roedden ni'n gwneud",
+          "2pl": "roeddech chi'n gwneud",
+          "3pl": "roedden nhw'n gwneud"
+        }
+      }
+    },
+    "future": {
+      "label": "Future",
+      "label_cy": "Dyfodol",
+      "north": {
+        "formal": {
+          "1sg": "gwnaf i",
+          "2sg": "gwnei di",
+          "3sg_m": "gwna ef",
+          "3sg_f": "gwna hi",
+          "1pl": "gwnawn ni",
+          "2pl": "gwnewch chi",
+          "3pl": "gwnânt hwy"
+        },
+        "informal": {
+          "1sg": "na' i",
+          "2sg": "nei di",
+          "3sg_m": "neith o",
+          "3sg_f": "neith hi",
+          "1pl": "nawn ni",
+          "2pl": "newch chi",
+          "3pl": "nân nhw"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "gwnaf i",
+          "2sg": "gwnei di",
+          "3sg_m": "gwna ef",
+          "3sg_f": "gwna hi",
+          "1pl": "gwnawn ni",
+          "2pl": "gwnewch chi",
+          "3pl": "gwnânt hwy"
+        },
+        "informal": {
+          "1sg": "gwna i",
+          "2sg": "gwnei di",
+          "3sg_m": "gwnaiff e",
+          "3sg_f": "gwnaiff hi",
+          "1pl": "gwnawn ni",
+          "2pl": "gwnewch chi",
+          "3pl": "gwnân nhw"
+        }
+      }
+    },
+    "conditional": {
+      "label": "Conditional",
+      "label_cy": "Amodol",
+      "north": {
+        "formal": {
+          "1sg": "gwnawn i",
+          "2sg": "gwnait ti",
+          "3sg_m": "gwnâi ef",
+          "3sg_f": "gwnâi hi",
+          "1pl": "gwnaem ni",
+          "2pl": "gwnaech chi",
+          "3pl": "gwnaent hwy"
+        },
+        "informal": {
+          "1sg": "baswn i'n gneud",
+          "2sg": "baset ti'n gneud",
+          "3sg_m": "basai fo'n gneud",
+          "3sg_f": "basai hi'n gneud",
+          "1pl": "basen ni'n gneud",
+          "2pl": "basech chi'n gneud",
+          "3pl": "basen nhw'n gneud"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "gwnawn i",
+          "2sg": "gwnait ti",
+          "3sg_m": "gwnâi ef",
+          "3sg_f": "gwnâi hi",
+          "1pl": "gwnaem ni",
+          "2pl": "gwnaech chi",
+          "3pl": "gwnaent hwy"
+        },
+        "informal": {
+          "1sg": "byddwn i'n gwneud",
+          "2sg": "byddet ti'n gwneud",
+          "3sg_m": "byddai fe'n gwneud",
+          "3sg_f": "byddai hi'n gwneud",
+          "1pl": "bydden ni'n gwneud",
+          "2pl": "byddech chi'n gwneud",
+          "3pl": "bydden nhw'n gwneud"
+        }
+      }
+    }
+  }
+}

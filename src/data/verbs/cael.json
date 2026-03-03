@@ -1,0 +1,235 @@
+{
+  "id": "cael",
+  "infinitive": "cael",
+  "meaning": "to have / to get / to receive",
+  "type": "irregular",
+  "tags": ["essential", "auxiliary"],
+  "notes": "Used as an auxiliary to form the passive voice ('Mae'r llyfr yn cael ei ddarllen' = 'The book is being read'). Also means 'to be allowed'. Irregular throughout.",
+  "mutations": {
+    "soft": "gael",
+    "nasal": "nghael",
+    "aspirate": "chael"
+  },
+  "tenses": {
+    "present": {
+      "label": "Present",
+      "label_cy": "Presennol",
+      "north": {
+        "formal": {
+          "1sg": "caf i",
+          "2sg": "cei di",
+          "3sg_m": "caiff ef",
+          "3sg_f": "caiff hi",
+          "1pl": "cawn ni",
+          "2pl": "cewch chi",
+          "3pl": "cânt hwy"
+        },
+        "informal": {
+          "1sg": "dw i'n cael",
+          "2sg": "ti'n cael",
+          "3sg_m": "mae o'n cael",
+          "3sg_f": "mae hi'n cael",
+          "1pl": "dan ni'n cael",
+          "2pl": "dach chi'n cael",
+          "3pl": "maen nhw'n cael"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "caf i",
+          "2sg": "cei di",
+          "3sg_m": "caiff ef",
+          "3sg_f": "caiff hi",
+          "1pl": "cawn ni",
+          "2pl": "cewch chi",
+          "3pl": "cânt hwy"
+        },
+        "informal": {
+          "1sg": "dw i'n cael",
+          "2sg": "rwyt ti'n cael",
+          "3sg_m": "mae e'n cael",
+          "3sg_f": "mae hi'n cael",
+          "1pl": "r'yn ni'n cael",
+          "2pl": "r'ych chi'n cael",
+          "3pl": "maen nhw'n cael"
+        }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)",
+      "label_cy": "Gorffennol",
+      "north": {
+        "formal": {
+          "1sg": "cefais i",
+          "2sg": "cefaist ti",
+          "3sg_m": "cafodd ef",
+          "3sg_f": "cafodd hi",
+          "1pl": "cawsom ni",
+          "2pl": "cawsoch chi",
+          "3pl": "cawsant hwy"
+        },
+        "informal": {
+          "1sg": "ges i / ces i",
+          "2sg": "gest ti / cest ti",
+          "3sg_m": "gafodd o / cafodd o",
+          "3sg_f": "gafodd hi / cafodd hi",
+          "1pl": "gawson ni",
+          "2pl": "gawsoch chi",
+          "3pl": "gawson nhw"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "cefais i",
+          "2sg": "cefaist ti",
+          "3sg_m": "cafodd ef",
+          "3sg_f": "cafodd hi",
+          "1pl": "cawsom ni",
+          "2pl": "cawsoch chi",
+          "3pl": "cawsant hwy"
+        },
+        "informal": {
+          "1sg": "ges i / ces i",
+          "2sg": "gest ti",
+          "3sg_m": "gafodd e / cafodd e",
+          "3sg_f": "gafodd hi",
+          "1pl": "gawson ni",
+          "2pl": "gawsoch chi",
+          "3pl": "gawson nhw"
+        }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect",
+      "label_cy": "Amherffaith",
+      "north": {
+        "formal": {
+          "1sg": "cawn i",
+          "2sg": "cait ti",
+          "3sg_m": "câi ef",
+          "3sg_f": "câi hi",
+          "1pl": "caem ni",
+          "2pl": "caech chi",
+          "3pl": "caent hwy"
+        },
+        "informal": {
+          "1sg": "ro'n i'n cael",
+          "2sg": "ro't ti'n cael",
+          "3sg_m": "roedd o'n cael",
+          "3sg_f": "roedd hi'n cael",
+          "1pl": "roedden ni'n cael",
+          "2pl": "roeddech chi'n cael",
+          "3pl": "roedden nhw'n cael"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "cawn i",
+          "2sg": "cait ti",
+          "3sg_m": "câi ef",
+          "3sg_f": "câi hi",
+          "1pl": "caem ni",
+          "2pl": "caech chi",
+          "3pl": "caent hwy"
+        },
+        "informal": {
+          "1sg": "ro'n i'n cael",
+          "2sg": "ro't ti'n cael",
+          "3sg_m": "roedd e'n cael",
+          "3sg_f": "roedd hi'n cael",
+          "1pl": "roedden ni'n cael",
+          "2pl": "roeddech chi'n cael",
+          "3pl": "roedden nhw'n cael"
+        }
+      }
+    },
+    "future": {
+      "label": "Future",
+      "label_cy": "Dyfodol",
+      "north": {
+        "formal": {
+          "1sg": "caf i",
+          "2sg": "cei di",
+          "3sg_m": "caiff ef",
+          "3sg_f": "caiff hi",
+          "1pl": "cawn ni",
+          "2pl": "cewch chi",
+          "3pl": "cânt hwy"
+        },
+        "informal": {
+          "1sg": "ca' i",
+          "2sg": "cei di",
+          "3sg_m": "caiff o / geith o",
+          "3sg_f": "caiff hi / geith hi",
+          "1pl": "cawn ni",
+          "2pl": "cewch chi",
+          "3pl": "cân nhw"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "caf i",
+          "2sg": "cei di",
+          "3sg_m": "caiff ef",
+          "3sg_f": "caiff hi",
+          "1pl": "cawn ni",
+          "2pl": "cewch chi",
+          "3pl": "cânt hwy"
+        },
+        "informal": {
+          "1sg": "ca' i",
+          "2sg": "cei di",
+          "3sg_m": "caiff e",
+          "3sg_f": "caiff hi",
+          "1pl": "cawn ni",
+          "2pl": "cewch chi",
+          "3pl": "cân nhw"
+        }
+      }
+    },
+    "conditional": {
+      "label": "Conditional",
+      "label_cy": "Amodol",
+      "north": {
+        "formal": {
+          "1sg": "cawn i",
+          "2sg": "cait ti",
+          "3sg_m": "câi ef",
+          "3sg_f": "câi hi",
+          "1pl": "caem ni",
+          "2pl": "caech chi",
+          "3pl": "caent hwy"
+        },
+        "informal": {
+          "1sg": "baswn i'n cael",
+          "2sg": "baset ti'n cael",
+          "3sg_m": "basai fo'n cael",
+          "3sg_f": "basai hi'n cael",
+          "1pl": "basen ni'n cael",
+          "2pl": "basech chi'n cael",
+          "3pl": "basen nhw'n cael"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "cawn i",
+          "2sg": "cait ti",
+          "3sg_m": "câi ef",
+          "3sg_f": "câi hi",
+          "1pl": "caem ni",
+          "2pl": "caech chi",
+          "3pl": "caent hwy"
+        },
+        "informal": {
+          "1sg": "byddwn i'n cael",
+          "2sg": "byddet ti'n cael",
+          "3sg_m": "byddai fe'n cael",
+          "3sg_f": "byddai hi'n cael",
+          "1pl": "bydden ni'n cael",
+          "2pl": "byddech chi'n cael",
+          "3pl": "bydden nhw'n cael"
+        }
+      }
+    }
+  }
+}

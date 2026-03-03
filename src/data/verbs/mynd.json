@@ -1,0 +1,235 @@
+{
+  "id": "mynd",
+  "infinitive": "mynd",
+  "meaning": "to go",
+  "type": "irregular",
+  "tags": ["essential"],
+  "notes": "Highly irregular. The stem changes significantly across tenses. The imperative form is 'dos' (go!).",
+  "mutations": {
+    "soft": "fynd",
+    "nasal": "mynd",
+    "aspirate": null
+  },
+  "tenses": {
+    "present": {
+      "label": "Present",
+      "label_cy": "Presennol",
+      "north": {
+        "formal": {
+          "1sg": "af i",
+          "2sg": "ei di",
+          "3sg_m": "aiff ef",
+          "3sg_f": "aiff hi",
+          "1pl": "awn ni",
+          "2pl": "ewch chi",
+          "3pl": "ânt hwy"
+        },
+        "informal": {
+          "1sg": "dw i'n mynd",
+          "2sg": "ti'n mynd",
+          "3sg_m": "mae o'n mynd",
+          "3sg_f": "mae hi'n mynd",
+          "1pl": "dan ni'n mynd",
+          "2pl": "dach chi'n mynd",
+          "3pl": "maen nhw'n mynd"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "af i",
+          "2sg": "ei di",
+          "3sg_m": "aiff ef",
+          "3sg_f": "aiff hi",
+          "1pl": "awn ni",
+          "2pl": "ewch chi",
+          "3pl": "ânt hwy"
+        },
+        "informal": {
+          "1sg": "dw i'n mynd",
+          "2sg": "rwyt ti'n mynd",
+          "3sg_m": "mae e'n mynd",
+          "3sg_f": "mae hi'n mynd",
+          "1pl": "r'yn ni'n mynd",
+          "2pl": "r'ych chi'n mynd",
+          "3pl": "maen nhw'n mynd"
+        }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)",
+      "label_cy": "Gorffennol",
+      "north": {
+        "formal": {
+          "1sg": "euthum i",
+          "2sg": "aethost ti",
+          "3sg_m": "aeth ef",
+          "3sg_f": "aeth hi",
+          "1pl": "aethom ni",
+          "2pl": "aethoch chi",
+          "3pl": "aethant hwy"
+        },
+        "informal": {
+          "1sg": "es i",
+          "2sg": "est ti",
+          "3sg_m": "aeth o",
+          "3sg_f": "aeth hi",
+          "1pl": "aethon ni",
+          "2pl": "aethoch chi",
+          "3pl": "aethon nhw"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "euthum i",
+          "2sg": "aethost ti",
+          "3sg_m": "aeth ef",
+          "3sg_f": "aeth hi",
+          "1pl": "aethom ni",
+          "2pl": "aethoch chi",
+          "3pl": "aethant hwy"
+        },
+        "informal": {
+          "1sg": "es i / nethes i",
+          "2sg": "est ti",
+          "3sg_m": "aeth e",
+          "3sg_f": "aeth hi",
+          "1pl": "aethon ni",
+          "2pl": "aethoch chi",
+          "3pl": "aethon nhw"
+        }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect",
+      "label_cy": "Amherffaith",
+      "north": {
+        "formal": {
+          "1sg": "awn i",
+          "2sg": "ait ti",
+          "3sg_m": "âi ef",
+          "3sg_f": "âi hi",
+          "1pl": "aem ni",
+          "2pl": "aech chi",
+          "3pl": "aent hwy"
+        },
+        "informal": {
+          "1sg": "ro'n i'n mynd",
+          "2sg": "ro't ti'n mynd",
+          "3sg_m": "roedd o'n mynd",
+          "3sg_f": "roedd hi'n mynd",
+          "1pl": "roedden ni'n mynd",
+          "2pl": "roeddech chi'n mynd",
+          "3pl": "roedden nhw'n mynd"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "awn i",
+          "2sg": "ait ti",
+          "3sg_m": "âi ef",
+          "3sg_f": "âi hi",
+          "1pl": "aem ni",
+          "2pl": "aech chi",
+          "3pl": "aent hwy"
+        },
+        "informal": {
+          "1sg": "ro'n i'n mynd",
+          "2sg": "ro't ti'n mynd",
+          "3sg_m": "roedd e'n mynd",
+          "3sg_f": "roedd hi'n mynd",
+          "1pl": "roedden ni'n mynd",
+          "2pl": "roeddech chi'n mynd",
+          "3pl": "roedden nhw'n mynd"
+        }
+      }
+    },
+    "future": {
+      "label": "Future",
+      "label_cy": "Dyfodol",
+      "north": {
+        "formal": {
+          "1sg": "af i",
+          "2sg": "ei di",
+          "3sg_m": "aiff ef",
+          "3sg_f": "aiff hi",
+          "1pl": "awn ni",
+          "2pl": "ewch chi",
+          "3pl": "ânt hwy"
+        },
+        "informal": {
+          "1sg": "a' i",
+          "2sg": "ei di",
+          "3sg_m": "aiff o / eith o",
+          "3sg_f": "aiff hi / eith hi",
+          "1pl": "awn ni",
+          "2pl": "ewch chi",
+          "3pl": "ân nhw"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "af i",
+          "2sg": "ei di",
+          "3sg_m": "aiff ef",
+          "3sg_f": "aiff hi",
+          "1pl": "awn ni",
+          "2pl": "ewch chi",
+          "3pl": "ânt hwy"
+        },
+        "informal": {
+          "1sg": "a' i",
+          "2sg": "ei di",
+          "3sg_m": "aiff e",
+          "3sg_f": "aiff hi",
+          "1pl": "awn ni",
+          "2pl": "ewch chi",
+          "3pl": "ân nhw"
+        }
+      }
+    },
+    "conditional": {
+      "label": "Conditional",
+      "label_cy": "Amodol",
+      "north": {
+        "formal": {
+          "1sg": "awn i",
+          "2sg": "ait ti",
+          "3sg_m": "âi ef",
+          "3sg_f": "âi hi",
+          "1pl": "aem ni",
+          "2pl": "aech chi",
+          "3pl": "aent hwy"
+        },
+        "informal": {
+          "1sg": "baswn i'n mynd",
+          "2sg": "baset ti'n mynd",
+          "3sg_m": "basai fo'n mynd",
+          "3sg_f": "basai hi'n mynd",
+          "1pl": "basen ni'n mynd",
+          "2pl": "basech chi'n mynd",
+          "3pl": "basen nhw'n mynd"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "awn i",
+          "2sg": "ait ti",
+          "3sg_m": "âi ef",
+          "3sg_f": "âi hi",
+          "1pl": "aem ni",
+          "2pl": "aech chi",
+          "3pl": "aent hwy"
+        },
+        "informal": {
+          "1sg": "byddwn i'n mynd",
+          "2sg": "byddet ti'n mynd",
+          "3sg_m": "byddai fe'n mynd",
+          "3sg_f": "byddai hi'n mynd",
+          "1pl": "bydden ni'n mynd",
+          "2pl": "byddech chi'n mynd",
+          "3pl": "bydden nhw'n mynd"
+        }
+      }
+    }
+  }
+}

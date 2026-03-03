@@ -1,0 +1,235 @@
+{
+  "id": "bod",
+  "infinitive": "bod",
+  "meaning": "to be",
+  "type": "irregular",
+  "tags": ["essential", "auxiliary"],
+  "notes": "The most important verb in Welsh. Used as both the main verb 'to be' and as an auxiliary to form compound tenses. Highly irregular throughout.",
+  "mutations": {
+    "soft": "fod",
+    "nasal": "mod",
+    "aspirate": null
+  },
+  "tenses": {
+    "present": {
+      "label": "Present",
+      "label_cy": "Presennol",
+      "north": {
+        "formal": {
+          "1sg": "yr wyf i",
+          "2sg": "yr wyt ti",
+          "3sg_m": "y mae ef",
+          "3sg_f": "y mae hi",
+          "1pl": "yr ydym ni",
+          "2pl": "yr ydych chi",
+          "3pl": "y maent hwy"
+        },
+        "informal": {
+          "1sg": "dw i",
+          "2sg": "rwyt ti / ti'n",
+          "3sg_m": "mae o",
+          "3sg_f": "mae hi",
+          "1pl": "dan ni",
+          "2pl": "dach chi",
+          "3pl": "maen nhw"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "yr wyf i",
+          "2sg": "yr wyt ti",
+          "3sg_m": "y mae ef",
+          "3sg_f": "y mae hi",
+          "1pl": "yr ydym ni",
+          "2pl": "yr ydych chi",
+          "3pl": "y maent hwy"
+        },
+        "informal": {
+          "1sg": "rwy i / dw i",
+          "2sg": "rwyt ti",
+          "3sg_m": "mae e",
+          "3sg_f": "mae hi",
+          "1pl": "r'yn ni",
+          "2pl": "r'ych chi",
+          "3pl": "maen nhw"
+        }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect",
+      "label_cy": "Amherffaith",
+      "north": {
+        "formal": {
+          "1sg": "yr oeddwn i",
+          "2sg": "yr oeddet ti",
+          "3sg_m": "yr oedd ef",
+          "3sg_f": "yr oedd hi",
+          "1pl": "yr oeddem ni",
+          "2pl": "yr oeddech chi",
+          "3pl": "yr oeddent hwy"
+        },
+        "informal": {
+          "1sg": "ro'n i / roeddwn i",
+          "2sg": "ro't ti / roeddet ti",
+          "3sg_m": "roedd o",
+          "3sg_f": "roedd hi",
+          "1pl": "roedden ni",
+          "2pl": "roeddech chi",
+          "3pl": "roedden nhw"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "yr oeddwn i",
+          "2sg": "yr oeddet ti",
+          "3sg_m": "yr oedd ef",
+          "3sg_f": "yr oedd hi",
+          "1pl": "yr oeddem ni",
+          "2pl": "yr oeddech chi",
+          "3pl": "yr oeddent hwy"
+        },
+        "informal": {
+          "1sg": "ro'n i / o'n i",
+          "2sg": "ro't ti / o't ti",
+          "3sg_m": "roedd e / o'dd e",
+          "3sg_f": "roedd hi / o'dd hi",
+          "1pl": "roedden ni / o'n ni",
+          "2pl": "roeddech chi / o'ch chi",
+          "3pl": "roedden nhw / o'n nhw"
+        }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)",
+      "label_cy": "Gorffennol",
+      "north": {
+        "formal": {
+          "1sg": "bûm i",
+          "2sg": "buost ti",
+          "3sg_m": "bu ef",
+          "3sg_f": "bu hi",
+          "1pl": "buom ni",
+          "2pl": "buoch chi",
+          "3pl": "buont hwy"
+        },
+        "informal": {
+          "1sg": "bues i / bûm i",
+          "2sg": "buest ti",
+          "3sg_m": "buodd o",
+          "3sg_f": "buodd hi",
+          "1pl": "buon ni",
+          "2pl": "buoch chi",
+          "3pl": "buon nhw"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "bûm i",
+          "2sg": "buost ti",
+          "3sg_m": "bu ef",
+          "3sg_f": "bu hi",
+          "1pl": "buom ni",
+          "2pl": "buoch chi",
+          "3pl": "buont hwy"
+        },
+        "informal": {
+          "1sg": "bues i / o'n i",
+          "2sg": "buest ti",
+          "3sg_m": "buodd e",
+          "3sg_f": "buodd hi",
+          "1pl": "buon ni",
+          "2pl": "buoch chi",
+          "3pl": "buon nhw"
+        }
+      }
+    },
+    "future": {
+      "label": "Future",
+      "label_cy": "Dyfodol",
+      "north": {
+        "formal": {
+          "1sg": "byddaf i",
+          "2sg": "byddi di",
+          "3sg_m": "bydd ef",
+          "3sg_f": "bydd hi",
+          "1pl": "byddwn ni",
+          "2pl": "byddwch chi",
+          "3pl": "byddant hwy"
+        },
+        "informal": {
+          "1sg": "bydda i",
+          "2sg": "byddi di",
+          "3sg_m": "bydd o",
+          "3sg_f": "bydd hi",
+          "1pl": "byddwn ni",
+          "2pl": "byddwch chi",
+          "3pl": "byddan nhw"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "byddaf i",
+          "2sg": "byddi di",
+          "3sg_m": "bydd ef",
+          "3sg_f": "bydd hi",
+          "1pl": "byddwn ni",
+          "2pl": "byddwch chi",
+          "3pl": "byddant hwy"
+        },
+        "informal": {
+          "1sg": "bydda i",
+          "2sg": "byddi di",
+          "3sg_m": "bydd e",
+          "3sg_f": "bydd hi",
+          "1pl": "byddwn ni",
+          "2pl": "byddwch chi",
+          "3pl": "byddan nhw"
+        }
+      }
+    },
+    "conditional": {
+      "label": "Conditional",
+      "label_cy": "Amodol",
+      "north": {
+        "formal": {
+          "1sg": "byddwn i",
+          "2sg": "byddet ti",
+          "3sg_m": "byddai ef",
+          "3sg_f": "byddai hi",
+          "1pl": "byddem ni",
+          "2pl": "byddech chi",
+          "3pl": "byddent hwy"
+        },
+        "informal": {
+          "1sg": "baswn i",
+          "2sg": "baset ti",
+          "3sg_m": "basai fo",
+          "3sg_f": "basai hi",
+          "1pl": "basen ni",
+          "2pl": "basech chi",
+          "3pl": "basen nhw"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "byddwn i",
+          "2sg": "byddet ti",
+          "3sg_m": "byddai ef",
+          "3sg_f": "byddai hi",
+          "1pl": "byddem ni",
+          "2pl": "byddech chi",
+          "3pl": "byddent hwy"
+        },
+        "informal": {
+          "1sg": "byddwn i / se i",
+          "2sg": "byddet ti / set ti",
+          "3sg_m": "byddai fe / se fe",
+          "3sg_f": "byddai hi / se hi",
+          "1pl": "bydden ni / sen ni",
+          "2pl": "byddech chi / sech chi",
+          "3pl": "bydden nhw / sen nhw"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "id": "siarad",
+  "infinitive": "siarad",
+  "meaning": "to speak / to talk",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "A regular verb — useful as a template for how regular Welsh verbs conjugate. The stem is 'siarad-'. Note that regular verbs mostly use periphrastic (compound) forms in informal speech.",
+  "mutations": {
+    "soft": "siarad",
+    "nasal": "siarad",
+    "aspirate": "siarad"
+  },
+  "tenses": {
+    "present": {
+      "label": "Present",
+      "label_cy": "Presennol",
+      "north": {
+        "formal": {
+          "1sg": "siaradaf i",
+          "2sg": "siaradi di",
+          "3sg_m": "siareda ef",
+          "3sg_f": "siareda hi",
+          "1pl": "siaradwn ni",
+          "2pl": "siaradwch chi",
+          "3pl": "siaradant hwy"
+        },
+        "informal": {
+          "1sg": "dw i'n siarad",
+          "2sg": "ti'n siarad",
+          "3sg_m": "mae o'n siarad",
+          "3sg_f": "mae hi'n siarad",
+          "1pl": "dan ni'n siarad",
+          "2pl": "dach chi'n siarad",
+          "3pl": "maen nhw'n siarad"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "siaradaf i",
+          "2sg": "siaradi di",
+          "3sg_m": "siareda ef",
+          "3sg_f": "siareda hi",
+          "1pl": "siaradwn ni",
+          "2pl": "siaradwch chi",
+          "3pl": "siaradant hwy"
+        },
+        "informal": {
+          "1sg": "dw i'n siarad",
+          "2sg": "rwyt ti'n siarad",
+          "3sg_m": "mae e'n siarad",
+          "3sg_f": "mae hi'n siarad",
+          "1pl": "r'yn ni'n siarad",
+          "2pl": "r'ych chi'n siarad",
+          "3pl": "maen nhw'n siarad"
+        }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)",
+      "label_cy": "Gorffennol",
+      "north": {
+        "formal": {
+          "1sg": "siaradais i",
+          "2sg": "siaradaist ti",
+          "3sg_m": "siaradodd ef",
+          "3sg_f": "siaradodd hi",
+          "1pl": "siaradom ni",
+          "2pl": "siaradoch chi",
+          "3pl": "siaradont hwy"
+        },
+        "informal": {
+          "1sg": "siaradais i",
+          "2sg": "siaradaist ti",
+          "3sg_m": "siaradodd o",
+          "3sg_f": "siaradodd hi",
+          "1pl": "siaradon ni",
+          "2pl": "siaradoch chi",
+          "3pl": "siaradon nhw"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "siaradais i",
+          "2sg": "siaradaist ti",
+          "3sg_m": "siaradodd ef",
+          "3sg_f": "siaradodd hi",
+          "1pl": "siaradom ni",
+          "2pl": "siaradoch chi",
+          "3pl": "siaradont hwy"
+        },
+        "informal": {
+          "1sg": "siarades i",
+          "2sg": "siaradest ti",
+          "3sg_m": "siaradodd e",
+          "3sg_f": "siaradodd hi",
+          "1pl": "siaradon ni",
+          "2pl": "siaradoch chi",
+          "3pl": "siaradon nhw"
+        }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect",
+      "label_cy": "Amherffaith",
+      "north": {
+        "formal": {
+          "1sg": "siaradwn i",
+          "2sg": "siaradet ti",
+          "3sg_m": "siaradai ef",
+          "3sg_f": "siaradai hi",
+          "1pl": "siaradem ni",
+          "2pl": "siaradech chi",
+          "3pl": "siaradent hwy"
+        },
+        "informal": {
+          "1sg": "ro'n i'n siarad",
+          "2sg": "ro't ti'n siarad",
+          "3sg_m": "roedd o'n siarad",
+          "3sg_f": "roedd hi'n siarad",
+          "1pl": "roedden ni'n siarad",
+          "2pl": "roeddech chi'n siarad",
+          "3pl": "roedden nhw'n siarad"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "siaradwn i",
+          "2sg": "siaradet ti",
+          "3sg_m": "siaradai ef",
+          "3sg_f": "siaradai hi",
+          "1pl": "siaradem ni",
+          "2pl": "siaradech chi",
+          "3pl": "siaradent hwy"
+        },
+        "informal": {
+          "1sg": "ro'n i'n siarad",
+          "2sg": "ro't ti'n siarad",
+          "3sg_m": "roedd e'n siarad",
+          "3sg_f": "roedd hi'n siarad",
+          "1pl": "roedden ni'n siarad",
+          "2pl": "roeddech chi'n siarad",
+          "3pl": "roedden nhw'n siarad"
+        }
+      }
+    },
+    "future": {
+      "label": "Future",
+      "label_cy": "Dyfodol",
+      "north": {
+        "formal": {
+          "1sg": "siaradaf i",
+          "2sg": "siaradi di",
+          "3sg_m": "siareda ef",
+          "3sg_f": "siareda hi",
+          "1pl": "siaradwn ni",
+          "2pl": "siaradwch chi",
+          "3pl": "siaradant hwy"
+        },
+        "informal": {
+          "1sg": "bydda i'n siarad",
+          "2sg": "byddi di'n siarad",
+          "3sg_m": "bydd o'n siarad",
+          "3sg_f": "bydd hi'n siarad",
+          "1pl": "byddwn ni'n siarad",
+          "2pl": "byddwch chi'n siarad",
+          "3pl": "byddan nhw'n siarad"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "siaradaf i",
+          "2sg": "siaradi di",
+          "3sg_m": "siareda ef",
+          "3sg_f": "siareda hi",
+          "1pl": "siaradwn ni",
+          "2pl": "siaradwch chi",
+          "3pl": "siaradant hwy"
+        },
+        "informal": {
+          "1sg": "bydda i'n siarad",
+          "2sg": "byddi di'n siarad",
+          "3sg_m": "bydd e'n siarad",
+          "3sg_f": "bydd hi'n siarad",
+          "1pl": "byddwn ni'n siarad",
+          "2pl": "byddwch chi'n siarad",
+          "3pl": "byddan nhw'n siarad"
+        }
+      }
+    },
+    "conditional": {
+      "label": "Conditional",
+      "label_cy": "Amodol",
+      "north": {
+        "formal": {
+          "1sg": "siaradwn i",
+          "2sg": "siaradet ti",
+          "3sg_m": "siaradai ef",
+          "3sg_f": "siaradai hi",
+          "1pl": "siaradem ni",
+          "2pl": "siaradech chi",
+          "3pl": "siaradent hwy"
+        },
+        "informal": {
+          "1sg": "baswn i'n siarad",
+          "2sg": "baset ti'n siarad",
+          "3sg_m": "basai fo'n siarad",
+          "3sg_f": "basai hi'n siarad",
+          "1pl": "basen ni'n siarad",
+          "2pl": "basech chi'n siarad",
+          "3pl": "basen nhw'n siarad"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "siaradwn i",
+          "2sg": "siaradet ti",
+          "3sg_m": "siaradai ef",
+          "3sg_f": "siaradai hi",
+          "1pl": "siaradem ni",
+          "2pl": "siaradech chi",
+          "3pl": "siaradent hwy"
+        },
+        "informal": {
+          "1sg": "byddwn i'n siarad",
+          "2sg": "byddet ti'n siarad",
+          "3sg_m": "byddai fe'n siarad",
+          "3sg_f": "byddai hi'n siarad",
+          "1pl": "bydden ni'n siarad",
+          "2pl": "byddech chi'n siarad",
+          "3pl": "bydden nhw'n siarad"
+        }
+      }
+    }
+  }
+}

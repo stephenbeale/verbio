@@ -1,0 +1,235 @@
+{
+  "id": "dod",
+  "infinitive": "dod",
+  "meaning": "to come",
+  "type": "irregular",
+  "tags": ["essential"],
+  "notes": "Also written as 'dyfod' in formal/literary Welsh. Irregular throughout. Imperative: 'tyrd' (N) / 'dere' (S).",
+  "mutations": {
+    "soft": "ddod",
+    "nasal": "nod",
+    "aspirate": null
+  },
+  "tenses": {
+    "present": {
+      "label": "Present",
+      "label_cy": "Presennol",
+      "north": {
+        "formal": {
+          "1sg": "deuaf i",
+          "2sg": "deui di",
+          "3sg_m": "daw ef",
+          "3sg_f": "daw hi",
+          "1pl": "deuwn ni",
+          "2pl": "deuwch chi",
+          "3pl": "deuant hwy"
+        },
+        "informal": {
+          "1sg": "dw i'n dŵad",
+          "2sg": "ti'n dŵad",
+          "3sg_m": "mae o'n dŵad",
+          "3sg_f": "mae hi'n dŵad",
+          "1pl": "dan ni'n dŵad",
+          "2pl": "dach chi'n dŵad",
+          "3pl": "maen nhw'n dŵad"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "deuaf i",
+          "2sg": "deui di",
+          "3sg_m": "daw ef",
+          "3sg_f": "daw hi",
+          "1pl": "deuwn ni",
+          "2pl": "deuwch chi",
+          "3pl": "deuant hwy"
+        },
+        "informal": {
+          "1sg": "dw i'n dod",
+          "2sg": "rwyt ti'n dod",
+          "3sg_m": "mae e'n dod",
+          "3sg_f": "mae hi'n dod",
+          "1pl": "r'yn ni'n dod",
+          "2pl": "r'ych chi'n dod",
+          "3pl": "maen nhw'n dod"
+        }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)",
+      "label_cy": "Gorffennol",
+      "north": {
+        "formal": {
+          "1sg": "deuthum i",
+          "2sg": "daethost ti",
+          "3sg_m": "daeth ef",
+          "3sg_f": "daeth hi",
+          "1pl": "daethom ni",
+          "2pl": "daethoch chi",
+          "3pl": "daethant hwy"
+        },
+        "informal": {
+          "1sg": "des i / dois i",
+          "2sg": "dest ti / doist ti",
+          "3sg_m": "daeth o",
+          "3sg_f": "daeth hi",
+          "1pl": "daethon ni",
+          "2pl": "daethoch chi",
+          "3pl": "daethon nhw"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "deuthum i",
+          "2sg": "daethost ti",
+          "3sg_m": "daeth ef",
+          "3sg_f": "daeth hi",
+          "1pl": "daethom ni",
+          "2pl": "daethoch chi",
+          "3pl": "daethant hwy"
+        },
+        "informal": {
+          "1sg": "des i / nethes i ddod",
+          "2sg": "dest ti",
+          "3sg_m": "daeth e",
+          "3sg_f": "daeth hi",
+          "1pl": "daethon ni",
+          "2pl": "daethoch chi",
+          "3pl": "daethon nhw"
+        }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect",
+      "label_cy": "Amherffaith",
+      "north": {
+        "formal": {
+          "1sg": "deuawn i",
+          "2sg": "deuait ti",
+          "3sg_m": "deuai ef",
+          "3sg_f": "deuai hi",
+          "1pl": "deuaem ni",
+          "2pl": "deuaech chi",
+          "3pl": "deuaent hwy"
+        },
+        "informal": {
+          "1sg": "ro'n i'n dŵad",
+          "2sg": "ro't ti'n dŵad",
+          "3sg_m": "roedd o'n dŵad",
+          "3sg_f": "roedd hi'n dŵad",
+          "1pl": "roedden ni'n dŵad",
+          "2pl": "roeddech chi'n dŵad",
+          "3pl": "roedden nhw'n dŵad"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "deuawn i",
+          "2sg": "deuait ti",
+          "3sg_m": "deuai ef",
+          "3sg_f": "deuai hi",
+          "1pl": "deuaem ni",
+          "2pl": "deuaech chi",
+          "3pl": "deuaent hwy"
+        },
+        "informal": {
+          "1sg": "ro'n i'n dod",
+          "2sg": "ro't ti'n dod",
+          "3sg_m": "roedd e'n dod",
+          "3sg_f": "roedd hi'n dod",
+          "1pl": "roedden ni'n dod",
+          "2pl": "roeddech chi'n dod",
+          "3pl": "roedden nhw'n dod"
+        }
+      }
+    },
+    "future": {
+      "label": "Future",
+      "label_cy": "Dyfodol",
+      "north": {
+        "formal": {
+          "1sg": "deuaf i",
+          "2sg": "deui di",
+          "3sg_m": "daw ef",
+          "3sg_f": "daw hi",
+          "1pl": "deuwn ni",
+          "2pl": "deuwch chi",
+          "3pl": "deuant hwy"
+        },
+        "informal": {
+          "1sg": "do' i",
+          "2sg": "doi di",
+          "3sg_m": "daw o",
+          "3sg_f": "daw hi",
+          "1pl": "down ni",
+          "2pl": "dewch chi",
+          "3pl": "dôn nhw"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "deuaf i",
+          "2sg": "deui di",
+          "3sg_m": "daw ef",
+          "3sg_f": "daw hi",
+          "1pl": "deuwn ni",
+          "2pl": "deuwch chi",
+          "3pl": "deuant hwy"
+        },
+        "informal": {
+          "1sg": "do' i",
+          "2sg": "doi di",
+          "3sg_m": "daw e",
+          "3sg_f": "daw hi",
+          "1pl": "down ni",
+          "2pl": "dewch chi",
+          "3pl": "dôn nhw"
+        }
+      }
+    },
+    "conditional": {
+      "label": "Conditional",
+      "label_cy": "Amodol",
+      "north": {
+        "formal": {
+          "1sg": "deuawn i",
+          "2sg": "deuait ti",
+          "3sg_m": "deuai ef",
+          "3sg_f": "deuai hi",
+          "1pl": "deuaem ni",
+          "2pl": "deuaech chi",
+          "3pl": "deuaent hwy"
+        },
+        "informal": {
+          "1sg": "baswn i'n dŵad",
+          "2sg": "baset ti'n dŵad",
+          "3sg_m": "basai fo'n dŵad",
+          "3sg_f": "basai hi'n dŵad",
+          "1pl": "basen ni'n dŵad",
+          "2pl": "basech chi'n dŵad",
+          "3pl": "basen nhw'n dŵad"
+        }
+      },
+      "south": {
+        "formal": {
+          "1sg": "deuawn i",
+          "2sg": "deuait ti",
+          "3sg_m": "deuai ef",
+          "3sg_f": "deuai hi",
+          "1pl": "deuaem ni",
+          "2pl": "deuaech chi",
+          "3pl": "deuaent hwy"
+        },
+        "informal": {
+          "1sg": "byddwn i'n dod",
+          "2sg": "byddet ti'n dod",
+          "3sg_m": "byddai fe'n dod",
+          "3sg_f": "byddai hi'n dod",
+          "1pl": "bydden ni'n dod",
+          "2pl": "byddech chi'n dod",
+          "3pl": "bydden nhw'n dod"
+        }
+      }
+    }
+  }
+}
