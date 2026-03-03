@@ -1,0 +1,66 @@
+{
+  "id": "rhedeg",
+  "infinitive": "rhedeg",
+  "meaning": "to run",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: rhed-.",
+  "mutations": { "soft": "redeg", "nasal": "nredeg", "aspirate": "rhredeg" },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "rhedaf i", "2sg": "rhedi di", "3sg_m": "rhed ef", "3sg_f": "rhed hi", "1pl": "rhedwn ni", "2pl": "rhedwch chi", "3pl": "rhedant hwy" },
+        "informal": { "1sg": "dw i'n rhedeg", "2sg": "ti'n rhedeg", "3sg_m": "mae o'n rhedeg", "3sg_f": "mae hi'n rhedeg", "1pl": "dan ni'n rhedeg", "2pl": "dach chi'n rhedeg", "3pl": "maen nhw'n rhedeg" }
+      },
+      "south": {
+        "formal":   { "1sg": "rhedaf i", "2sg": "rhedi di", "3sg_m": "rhed ef", "3sg_f": "rhed hi", "1pl": "rhedwn ni", "2pl": "rhedwch chi", "3pl": "rhedant hwy" },
+        "informal": { "1sg": "dw i'n rhedeg", "2sg": "rwyt ti'n rhedeg", "3sg_m": "mae e'n rhedeg", "3sg_f": "mae hi'n rhedeg", "1pl": "r'yn ni'n rhedeg", "2pl": "r'ych chi'n rhedeg", "3pl": "maen nhw'n rhedeg" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "rhedais i", "2sg": "rhedaist ti", "3sg_m": "rhedodd ef", "3sg_f": "rhedodd hi", "1pl": "rhedom ni", "2pl": "rhedoch chi", "3pl": "rhedont hwy" },
+        "informal": { "1sg": "rhedais i", "2sg": "rhedaist ti", "3sg_m": "rhedodd o", "3sg_f": "rhedodd hi", "1pl": "rhedon ni", "2pl": "rhedoch chi", "3pl": "rhedon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "rhedais i", "2sg": "rhedaist ti", "3sg_m": "rhedodd ef", "3sg_f": "rhedodd hi", "1pl": "rhedom ni", "2pl": "rhedoch chi", "3pl": "rhedont hwy" },
+        "informal": { "1sg": "rhedes i", "2sg": "rhedest ti", "3sg_m": "rhedodd e", "3sg_f": "rhedodd hi", "1pl": "rhedon ni", "2pl": "rhedoch chi", "3pl": "rhedon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "rhedwn i", "2sg": "rhedet ti", "3sg_m": "rhedai ef", "3sg_f": "rhedai hi", "1pl": "rhedem ni", "2pl": "rhedech chi", "3pl": "rhedent hwy" },
+        "informal": { "1sg": "ro'n i'n rhedeg", "2sg": "ro't ti'n rhedeg", "3sg_m": "roedd o'n rhedeg", "3sg_f": "roedd hi'n rhedeg", "1pl": "roedden ni'n rhedeg", "2pl": "roeddech chi'n rhedeg", "3pl": "roedden nhw'n rhedeg" }
+      },
+      "south": {
+        "formal":   { "1sg": "rhedwn i", "2sg": "rhedet ti", "3sg_m": "rhedai ef", "3sg_f": "rhedai hi", "1pl": "rhedem ni", "2pl": "rhedech chi", "3pl": "rhedent hwy" },
+        "informal": { "1sg": "ro'n i'n rhedeg", "2sg": "ro't ti'n rhedeg", "3sg_m": "roedd e'n rhedeg", "3sg_f": "roedd hi'n rhedeg", "1pl": "roedden ni'n rhedeg", "2pl": "roeddech chi'n rhedeg", "3pl": "roedden nhw'n rhedeg" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "rhedaf i", "2sg": "rhedi di", "3sg_m": "rhed ef", "3sg_f": "rhed hi", "1pl": "rhedwn ni", "2pl": "rhedwch chi", "3pl": "rhedant hwy" },
+        "informal": { "1sg": "bydda i'n rhedeg", "2sg": "byddi di'n rhedeg", "3sg_m": "bydd o'n rhedeg", "3sg_f": "bydd hi'n rhedeg", "1pl": "byddwn ni'n rhedeg", "2pl": "byddwch chi'n rhedeg", "3pl": "byddan nhw'n rhedeg" }
+      },
+      "south": {
+        "formal":   { "1sg": "rhedaf i", "2sg": "rhedi di", "3sg_m": "rhed ef", "3sg_f": "rhed hi", "1pl": "rhedwn ni", "2pl": "rhedwch chi", "3pl": "rhedant hwy" },
+        "informal": { "1sg": "bydda i'n rhedeg", "2sg": "byddi di'n rhedeg", "3sg_m": "bydd e'n rhedeg", "3sg_f": "bydd hi'n rhedeg", "1pl": "byddwn ni'n rhedeg", "2pl": "byddwch chi'n rhedeg", "3pl": "byddan nhw'n rhedeg" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "rhedwn i", "2sg": "rhedet ti", "3sg_m": "rhedai ef", "3sg_f": "rhedai hi", "1pl": "rhedem ni", "2pl": "rhedech chi", "3pl": "rhedent hwy" },
+        "informal": { "1sg": "baswn i'n rhedeg", "2sg": "baset ti'n rhedeg", "3sg_m": "basai fo'n rhedeg", "3sg_f": "basai hi'n rhedeg", "1pl": "basen ni'n rhedeg", "2pl": "basech chi'n rhedeg", "3pl": "basen nhw'n rhedeg" }
+      },
+      "south": {
+        "formal":   { "1sg": "rhedwn i", "2sg": "rhedet ti", "3sg_m": "rhedai ef", "3sg_f": "rhedai hi", "1pl": "rhedem ni", "2pl": "rhedech chi", "3pl": "rhedent hwy" },
+        "informal": { "1sg": "byddwn i'n rhedeg", "2sg": "byddet ti'n rhedeg", "3sg_m": "byddai fe'n rhedeg", "3sg_f": "byddai hi'n rhedeg", "1pl": "bydden ni'n rhedeg", "2pl": "byddech chi'n rhedeg", "3pl": "bydden nhw'n rhedeg" }
+      }
+    }
+  }
+}

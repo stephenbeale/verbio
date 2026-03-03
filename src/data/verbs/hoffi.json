@@ -1,0 +1,66 @@
+{
+  "id": "hoffi",
+  "infinitive": "hoffi",
+  "meaning": "to like",
+  "type": "regular",
+  "tags": ["essential", "common"],
+  "notes": "Regular verb. Stem: hoff-. Very commonly used with a following noun: 'dw i'n hoffi coffi' (I like coffee).",
+  "mutations": { "soft": "hoffi", "nasal": "hoffi", "aspirate": "hoffi" },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "hoffaf i", "2sg": "hoffi di", "3sg_m": "hoffa ef", "3sg_f": "hoffa hi", "1pl": "hoffwn ni", "2pl": "hoffwch chi", "3pl": "hoffant hwy" },
+        "informal": { "1sg": "dw i'n hoffi", "2sg": "ti'n hoffi", "3sg_m": "mae o'n hoffi", "3sg_f": "mae hi'n hoffi", "1pl": "dan ni'n hoffi", "2pl": "dach chi'n hoffi", "3pl": "maen nhw'n hoffi" }
+      },
+      "south": {
+        "formal":   { "1sg": "hoffaf i", "2sg": "hoffi di", "3sg_m": "hoffa ef", "3sg_f": "hoffa hi", "1pl": "hoffwn ni", "2pl": "hoffwch chi", "3pl": "hoffant hwy" },
+        "informal": { "1sg": "dw i'n hoffi", "2sg": "rwyt ti'n hoffi", "3sg_m": "mae e'n hoffi", "3sg_f": "mae hi'n hoffi", "1pl": "r'yn ni'n hoffi", "2pl": "r'ych chi'n hoffi", "3pl": "maen nhw'n hoffi" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "hoffais i", "2sg": "hoffaist ti", "3sg_m": "hoffodd ef", "3sg_f": "hoffodd hi", "1pl": "hoffom ni", "2pl": "hoffoch chi", "3pl": "hoffont hwy" },
+        "informal": { "1sg": "hoffais i", "2sg": "hoffaist ti", "3sg_m": "hoffodd o", "3sg_f": "hoffodd hi", "1pl": "hoffon ni", "2pl": "hoffoch chi", "3pl": "hoffon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "hoffais i", "2sg": "hoffaist ti", "3sg_m": "hoffodd ef", "3sg_f": "hoffodd hi", "1pl": "hoffom ni", "2pl": "hoffoch chi", "3pl": "hoffont hwy" },
+        "informal": { "1sg": "hoffes i", "2sg": "hoffest ti", "3sg_m": "hoffodd e", "3sg_f": "hoffodd hi", "1pl": "hoffon ni", "2pl": "hoffoch chi", "3pl": "hoffon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "hoffwn i", "2sg": "hoffet ti", "3sg_m": "hoffai ef", "3sg_f": "hoffai hi", "1pl": "hoffem ni", "2pl": "hoffech chi", "3pl": "hoffent hwy" },
+        "informal": { "1sg": "ro'n i'n hoffi", "2sg": "ro't ti'n hoffi", "3sg_m": "roedd o'n hoffi", "3sg_f": "roedd hi'n hoffi", "1pl": "roedden ni'n hoffi", "2pl": "roeddech chi'n hoffi", "3pl": "roedden nhw'n hoffi" }
+      },
+      "south": {
+        "formal":   { "1sg": "hoffwn i", "2sg": "hoffet ti", "3sg_m": "hoffai ef", "3sg_f": "hoffai hi", "1pl": "hoffem ni", "2pl": "hoffech chi", "3pl": "hoffent hwy" },
+        "informal": { "1sg": "ro'n i'n hoffi", "2sg": "ro't ti'n hoffi", "3sg_m": "roedd e'n hoffi", "3sg_f": "roedd hi'n hoffi", "1pl": "roedden ni'n hoffi", "2pl": "roeddech chi'n hoffi", "3pl": "roedden nhw'n hoffi" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "hoffaf i", "2sg": "hoffi di", "3sg_m": "hoffa ef", "3sg_f": "hoffa hi", "1pl": "hoffwn ni", "2pl": "hoffwch chi", "3pl": "hoffant hwy" },
+        "informal": { "1sg": "bydda i'n hoffi", "2sg": "byddi di'n hoffi", "3sg_m": "bydd o'n hoffi", "3sg_f": "bydd hi'n hoffi", "1pl": "byddwn ni'n hoffi", "2pl": "byddwch chi'n hoffi", "3pl": "byddan nhw'n hoffi" }
+      },
+      "south": {
+        "formal":   { "1sg": "hoffaf i", "2sg": "hoffi di", "3sg_m": "hoffa ef", "3sg_f": "hoffa hi", "1pl": "hoffwn ni", "2pl": "hoffwch chi", "3pl": "hoffant hwy" },
+        "informal": { "1sg": "bydda i'n hoffi", "2sg": "byddi di'n hoffi", "3sg_m": "bydd e'n hoffi", "3sg_f": "bydd hi'n hoffi", "1pl": "byddwn ni'n hoffi", "2pl": "byddwch chi'n hoffi", "3pl": "byddan nhw'n hoffi" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "hoffwn i", "2sg": "hoffet ti", "3sg_m": "hoffai ef", "3sg_f": "hoffai hi", "1pl": "hoffem ni", "2pl": "hoffech chi", "3pl": "hoffent hwy" },
+        "informal": { "1sg": "baswn i'n hoffi", "2sg": "baset ti'n hoffi", "3sg_m": "basai fo'n hoffi", "3sg_f": "basai hi'n hoffi", "1pl": "basen ni'n hoffi", "2pl": "basech chi'n hoffi", "3pl": "basen nhw'n hoffi" }
+      },
+      "south": {
+        "formal":   { "1sg": "hoffwn i", "2sg": "hoffet ti", "3sg_m": "hoffai ef", "3sg_f": "hoffai hi", "1pl": "hoffem ni", "2pl": "hoffech chi", "3pl": "hoffent hwy" },
+        "informal": { "1sg": "byddwn i'n hoffi", "2sg": "byddet ti'n hoffi", "3sg_m": "byddai fe'n hoffi", "3sg_f": "byddai hi'n hoffi", "1pl": "bydden ni'n hoffi", "2pl": "byddech chi'n hoffi", "3pl": "bydden nhw'n hoffi" }
+      }
+    }
+  }
+}

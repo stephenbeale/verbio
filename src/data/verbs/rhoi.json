@@ -1,0 +1,66 @@
+{
+  "id": "rhoi",
+  "infinitive": "rhoi",
+  "meaning": "to give / to put",
+  "type": "irregular",
+  "tags": ["essential", "common"],
+  "notes": "Irregular verb. Also written 'rhoddi' in formal Welsh. The stem shifts between rho-/rhodd- across tenses. Commonly means both 'to give' and 'to put' in colloquial Welsh.",
+  "mutations": { "soft": "roi", "nasal": "nrhoi", "aspirate": null },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "rhof i", "2sg": "rhoi di", "3sg_m": "rhydd ef", "3sg_f": "rhydd hi", "1pl": "rhown ni", "2pl": "rhowch chi", "3pl": "rhoddant hwy" },
+        "informal": { "1sg": "dw i'n rhoi", "2sg": "ti'n rhoi", "3sg_m": "mae o'n rhoi", "3sg_f": "mae hi'n rhoi", "1pl": "dan ni'n rhoi", "2pl": "dach chi'n rhoi", "3pl": "maen nhw'n rhoi" }
+      },
+      "south": {
+        "formal":   { "1sg": "rhof i", "2sg": "rhoi di", "3sg_m": "rhydd ef", "3sg_f": "rhydd hi", "1pl": "rhown ni", "2pl": "rhowch chi", "3pl": "rhoddant hwy" },
+        "informal": { "1sg": "dw i'n rhoi", "2sg": "rwyt ti'n rhoi", "3sg_m": "mae e'n rhoi", "3sg_f": "mae hi'n rhoi", "1pl": "r'yn ni'n rhoi", "2pl": "r'ych chi'n rhoi", "3pl": "maen nhw'n rhoi" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "rhoddais i", "2sg": "rhoddaist ti", "3sg_m": "rhoddodd ef", "3sg_f": "rhoddodd hi", "1pl": "rhoddom ni", "2pl": "rhoddoch chi", "3pl": "rhoddont hwy" },
+        "informal": { "1sg": "rhoddais i / nes i roi", "2sg": "rhoddaist ti", "3sg_m": "rhoddodd o", "3sg_f": "rhoddodd hi", "1pl": "rhoddon ni", "2pl": "rhoddoch chi", "3pl": "rhoddon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "rhoddais i", "2sg": "rhoddaist ti", "3sg_m": "rhoddodd ef", "3sg_f": "rhoddodd hi", "1pl": "rhoddom ni", "2pl": "rhoddoch chi", "3pl": "rhoddont hwy" },
+        "informal": { "1sg": "rhoddes i / nethes i roi", "2sg": "rhoddest ti", "3sg_m": "rhoddodd e", "3sg_f": "rhoddodd hi", "1pl": "rhoddon ni", "2pl": "rhoddoch chi", "3pl": "rhoddon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "rhoddwn i", "2sg": "rhoddet ti", "3sg_m": "rhoddai ef", "3sg_f": "rhoddai hi", "1pl": "rhoddem ni", "2pl": "rhoddech chi", "3pl": "rhoddent hwy" },
+        "informal": { "1sg": "ro'n i'n rhoi", "2sg": "ro't ti'n rhoi", "3sg_m": "roedd o'n rhoi", "3sg_f": "roedd hi'n rhoi", "1pl": "roedden ni'n rhoi", "2pl": "roeddech chi'n rhoi", "3pl": "roedden nhw'n rhoi" }
+      },
+      "south": {
+        "formal":   { "1sg": "rhoddwn i", "2sg": "rhoddet ti", "3sg_m": "rhoddai ef", "3sg_f": "rhoddai hi", "1pl": "rhoddem ni", "2pl": "rhoddech chi", "3pl": "rhoddent hwy" },
+        "informal": { "1sg": "ro'n i'n rhoi", "2sg": "ro't ti'n rhoi", "3sg_m": "roedd e'n rhoi", "3sg_f": "roedd hi'n rhoi", "1pl": "roedden ni'n rhoi", "2pl": "roeddech chi'n rhoi", "3pl": "roedden nhw'n rhoi" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "rhof i", "2sg": "rhoi di", "3sg_m": "rhydd ef", "3sg_f": "rhydd hi", "1pl": "rhown ni", "2pl": "rhowch chi", "3pl": "rhoddant hwy" },
+        "informal": { "1sg": "bydda i'n rhoi", "2sg": "byddi di'n rhoi", "3sg_m": "bydd o'n rhoi", "3sg_f": "bydd hi'n rhoi", "1pl": "byddwn ni'n rhoi", "2pl": "byddwch chi'n rhoi", "3pl": "byddan nhw'n rhoi" }
+      },
+      "south": {
+        "formal":   { "1sg": "rhof i", "2sg": "rhoi di", "3sg_m": "rhydd ef", "3sg_f": "rhydd hi", "1pl": "rhown ni", "2pl": "rhowch chi", "3pl": "rhoddant hwy" },
+        "informal": { "1sg": "bydda i'n rhoi", "2sg": "byddi di'n rhoi", "3sg_m": "bydd e'n rhoi", "3sg_f": "bydd hi'n rhoi", "1pl": "byddwn ni'n rhoi", "2pl": "byddwch chi'n rhoi", "3pl": "byddan nhw'n rhoi" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "rhoddwn i", "2sg": "rhoddet ti", "3sg_m": "rhoddai ef", "3sg_f": "rhoddai hi", "1pl": "rhoddem ni", "2pl": "rhoddech chi", "3pl": "rhoddent hwy" },
+        "informal": { "1sg": "baswn i'n rhoi", "2sg": "baset ti'n rhoi", "3sg_m": "basai fo'n rhoi", "3sg_f": "basai hi'n rhoi", "1pl": "basen ni'n rhoi", "2pl": "basech chi'n rhoi", "3pl": "basen nhw'n rhoi" }
+      },
+      "south": {
+        "formal":   { "1sg": "rhoddwn i", "2sg": "rhoddet ti", "3sg_m": "rhoddai ef", "3sg_f": "rhoddai hi", "1pl": "rhoddem ni", "2pl": "rhoddech chi", "3pl": "rhoddent hwy" },
+        "informal": { "1sg": "byddwn i'n rhoi", "2sg": "byddet ti'n rhoi", "3sg_m": "byddai fe'n rhoi", "3sg_f": "byddai hi'n rhoi", "1pl": "bydden ni'n rhoi", "2pl": "byddech chi'n rhoi", "3pl": "bydden nhw'n rhoi" }
+      }
+    }
+  }
+}

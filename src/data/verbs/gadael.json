@@ -1,0 +1,66 @@
+{
+  "id": "gadael",
+  "infinitive": "gadael",
+  "meaning": "to leave",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: gadaw-/gadael-. Used for leaving a place or leaving something behind: 'gadael nodyn' (to leave a note), 'gadael yr ysgol' (to leave school). Also means 'to allow/let' in some contexts.",
+  "mutations": { "soft": "adael", "nasal": "ngadael", "aspirate": null },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "gadawaf i", "2sg": "gadawi di", "3sg_m": "gadawa ef", "3sg_f": "gadawa hi", "1pl": "gadawn ni", "2pl": "gadewch chi", "3pl": "gadawant hwy" },
+        "informal": { "1sg": "dw i'n gadael", "2sg": "ti'n gadael", "3sg_m": "mae o'n gadael", "3sg_f": "mae hi'n gadael", "1pl": "dan ni'n gadael", "2pl": "dach chi'n gadael", "3pl": "maen nhw'n gadael" }
+      },
+      "south": {
+        "formal":   { "1sg": "gadawaf i", "2sg": "gadawi di", "3sg_m": "gadawa ef", "3sg_f": "gadawa hi", "1pl": "gadawn ni", "2pl": "gadewch chi", "3pl": "gadawant hwy" },
+        "informal": { "1sg": "dw i'n gadael", "2sg": "rwyt ti'n gadael", "3sg_m": "mae e'n gadael", "3sg_f": "mae hi'n gadael", "1pl": "r'yn ni'n gadael", "2pl": "r'ych chi'n gadael", "3pl": "maen nhw'n gadael" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "gadewais i", "2sg": "gadewaist ti", "3sg_m": "gadawodd ef", "3sg_f": "gadawodd hi", "1pl": "gadawom ni", "2pl": "gadawoch chi", "3pl": "gadawont hwy" },
+        "informal": { "1sg": "gadewais i", "2sg": "gadewaist ti", "3sg_m": "gadawodd o", "3sg_f": "gadawodd hi", "1pl": "gadawon ni", "2pl": "gadawoch chi", "3pl": "gadawon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "gadewais i", "2sg": "gadewaist ti", "3sg_m": "gadawodd ef", "3sg_f": "gadawodd hi", "1pl": "gadawom ni", "2pl": "gadawoch chi", "3pl": "gadawont hwy" },
+        "informal": { "1sg": "gadewes i", "2sg": "gadewest ti", "3sg_m": "gadawodd e", "3sg_f": "gadawodd hi", "1pl": "gadawon ni", "2pl": "gadawoch chi", "3pl": "gadawon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "gadawn i", "2sg": "gadaet ti", "3sg_m": "gadawai ef", "3sg_f": "gadawai hi", "1pl": "gadaem ni", "2pl": "gadaech chi", "3pl": "gadaent hwy" },
+        "informal": { "1sg": "ro'n i'n gadael", "2sg": "ro't ti'n gadael", "3sg_m": "roedd o'n gadael", "3sg_f": "roedd hi'n gadael", "1pl": "roedden ni'n gadael", "2pl": "roeddech chi'n gadael", "3pl": "roedden nhw'n gadael" }
+      },
+      "south": {
+        "formal":   { "1sg": "gadawn i", "2sg": "gadaet ti", "3sg_m": "gadawai ef", "3sg_f": "gadawai hi", "1pl": "gadaem ni", "2pl": "gadaech chi", "3pl": "gadaent hwy" },
+        "informal": { "1sg": "ro'n i'n gadael", "2sg": "ro't ti'n gadael", "3sg_m": "roedd e'n gadael", "3sg_f": "roedd hi'n gadael", "1pl": "roedden ni'n gadael", "2pl": "roeddech chi'n gadael", "3pl": "roedden nhw'n gadael" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "gadawaf i", "2sg": "gadawi di", "3sg_m": "gadawa ef", "3sg_f": "gadawa hi", "1pl": "gadawn ni", "2pl": "gadewch chi", "3pl": "gadawant hwy" },
+        "informal": { "1sg": "bydda i'n gadael", "2sg": "byddi di'n gadael", "3sg_m": "bydd o'n gadael", "3sg_f": "bydd hi'n gadael", "1pl": "byddwn ni'n gadael", "2pl": "byddwch chi'n gadael", "3pl": "byddan nhw'n gadael" }
+      },
+      "south": {
+        "formal":   { "1sg": "gadawaf i", "2sg": "gadawi di", "3sg_m": "gadawa ef", "3sg_f": "gadawa hi", "1pl": "gadawn ni", "2pl": "gadewch chi", "3pl": "gadawant hwy" },
+        "informal": { "1sg": "bydda i'n gadael", "2sg": "byddi di'n gadael", "3sg_m": "bydd e'n gadael", "3sg_f": "bydd hi'n gadael", "1pl": "byddwn ni'n gadael", "2pl": "byddwch chi'n gadael", "3pl": "byddan nhw'n gadael" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "gadawn i", "2sg": "gadaet ti", "3sg_m": "gadawai ef", "3sg_f": "gadawai hi", "1pl": "gadaem ni", "2pl": "gadaech chi", "3pl": "gadaent hwy" },
+        "informal": { "1sg": "baswn i'n gadael", "2sg": "baset ti'n gadael", "3sg_m": "basai fo'n gadael", "3sg_f": "basai hi'n gadael", "1pl": "basen ni'n gadael", "2pl": "basech chi'n gadael", "3pl": "basen nhw'n gadael" }
+      },
+      "south": {
+        "formal":   { "1sg": "gadawn i", "2sg": "gadaet ti", "3sg_m": "gadawai ef", "3sg_f": "gadawai hi", "1pl": "gadaem ni", "2pl": "gadaech chi", "3pl": "gadaent hwy" },
+        "informal": { "1sg": "byddwn i'n gadael", "2sg": "byddet ti'n gadael", "3sg_m": "byddai fe'n gadael", "3sg_f": "byddai hi'n gadael", "1pl": "bydden ni'n gadael", "2pl": "byddech chi'n gadael", "3pl": "bydden nhw'n gadael" }
+      }
+    }
+  }
+}

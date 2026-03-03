@@ -1,0 +1,66 @@
+{
+  "id": "gwerthu",
+  "infinitive": "gwerthu",
+  "meaning": "to sell",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: gwerth-.",
+  "mutations": { "soft": "werthu", "nasal": "ngwerthu", "aspirate": null },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "gwerthaf i", "2sg": "gwerthi di", "3sg_m": "gwerth ef", "3sg_f": "gwerth hi", "1pl": "gwerthwn ni", "2pl": "gwerthwch chi", "3pl": "gwerthant hwy" },
+        "informal": { "1sg": "dw i'n gwerthu", "2sg": "ti'n gwerthu", "3sg_m": "mae o'n gwerthu", "3sg_f": "mae hi'n gwerthu", "1pl": "dan ni'n gwerthu", "2pl": "dach chi'n gwerthu", "3pl": "maen nhw'n gwerthu" }
+      },
+      "south": {
+        "formal":   { "1sg": "gwerthaf i", "2sg": "gwerthi di", "3sg_m": "gwerth ef", "3sg_f": "gwerth hi", "1pl": "gwerthwn ni", "2pl": "gwerthwch chi", "3pl": "gwerthant hwy" },
+        "informal": { "1sg": "dw i'n gwerthu", "2sg": "rwyt ti'n gwerthu", "3sg_m": "mae e'n gwerthu", "3sg_f": "mae hi'n gwerthu", "1pl": "r'yn ni'n gwerthu", "2pl": "r'ych chi'n gwerthu", "3pl": "maen nhw'n gwerthu" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "gwerthais i", "2sg": "gwerthaist ti", "3sg_m": "gwerthodd ef", "3sg_f": "gwerthodd hi", "1pl": "gwerthom ni", "2pl": "gwerthoch chi", "3pl": "gwerthont hwy" },
+        "informal": { "1sg": "gwerthais i", "2sg": "gwerthaist ti", "3sg_m": "gwerthodd o", "3sg_f": "gwerthodd hi", "1pl": "gwerthon ni", "2pl": "gwerthoch chi", "3pl": "gwerthon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "gwerthais i", "2sg": "gwerthaist ti", "3sg_m": "gwerthodd ef", "3sg_f": "gwerthodd hi", "1pl": "gwerthom ni", "2pl": "gwerthoch chi", "3pl": "gwerthont hwy" },
+        "informal": { "1sg": "gwerthes i", "2sg": "gwerthest ti", "3sg_m": "gwerthodd e", "3sg_f": "gwerthodd hi", "1pl": "gwerthon ni", "2pl": "gwerthoch chi", "3pl": "gwerthon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "gwerthwn i", "2sg": "gwerthet ti", "3sg_m": "gwerthai ef", "3sg_f": "gwerthai hi", "1pl": "gwerthem ni", "2pl": "gwerthech chi", "3pl": "gwerthent hwy" },
+        "informal": { "1sg": "ro'n i'n gwerthu", "2sg": "ro't ti'n gwerthu", "3sg_m": "roedd o'n gwerthu", "3sg_f": "roedd hi'n gwerthu", "1pl": "roedden ni'n gwerthu", "2pl": "roeddech chi'n gwerthu", "3pl": "roedden nhw'n gwerthu" }
+      },
+      "south": {
+        "formal":   { "1sg": "gwerthwn i", "2sg": "gwerthet ti", "3sg_m": "gwerthai ef", "3sg_f": "gwerthai hi", "1pl": "gwerthem ni", "2pl": "gwerthech chi", "3pl": "gwerthent hwy" },
+        "informal": { "1sg": "ro'n i'n gwerthu", "2sg": "ro't ti'n gwerthu", "3sg_m": "roedd e'n gwerthu", "3sg_f": "roedd hi'n gwerthu", "1pl": "roedden ni'n gwerthu", "2pl": "roeddech chi'n gwerthu", "3pl": "roedden nhw'n gwerthu" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "gwerthaf i", "2sg": "gwerthi di", "3sg_m": "gwerth ef", "3sg_f": "gwerth hi", "1pl": "gwerthwn ni", "2pl": "gwerthwch chi", "3pl": "gwerthant hwy" },
+        "informal": { "1sg": "bydda i'n gwerthu", "2sg": "byddi di'n gwerthu", "3sg_m": "bydd o'n gwerthu", "3sg_f": "bydd hi'n gwerthu", "1pl": "byddwn ni'n gwerthu", "2pl": "byddwch chi'n gwerthu", "3pl": "byddan nhw'n gwerthu" }
+      },
+      "south": {
+        "formal":   { "1sg": "gwerthaf i", "2sg": "gwerthi di", "3sg_m": "gwerth ef", "3sg_f": "gwerth hi", "1pl": "gwerthwn ni", "2pl": "gwerthwch chi", "3pl": "gwerthant hwy" },
+        "informal": { "1sg": "bydda i'n gwerthu", "2sg": "byddi di'n gwerthu", "3sg_m": "bydd e'n gwerthu", "3sg_f": "bydd hi'n gwerthu", "1pl": "byddwn ni'n gwerthu", "2pl": "byddwch chi'n gwerthu", "3pl": "byddan nhw'n gwerthu" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "gwerthwn i", "2sg": "gwerthet ti", "3sg_m": "gwerthai ef", "3sg_f": "gwerthai hi", "1pl": "gwerthem ni", "2pl": "gwerthech chi", "3pl": "gwerthent hwy" },
+        "informal": { "1sg": "baswn i'n gwerthu", "2sg": "baset ti'n gwerthu", "3sg_m": "basai fo'n gwerthu", "3sg_f": "basai hi'n gwerthu", "1pl": "basen ni'n gwerthu", "2pl": "basech chi'n gwerthu", "3pl": "basen nhw'n gwerthu" }
+      },
+      "south": {
+        "formal":   { "1sg": "gwerthwn i", "2sg": "gwerthet ti", "3sg_m": "gwerthai ef", "3sg_f": "gwerthai hi", "1pl": "gwerthem ni", "2pl": "gwerthech chi", "3pl": "gwerthent hwy" },
+        "informal": { "1sg": "byddwn i'n gwerthu", "2sg": "byddet ti'n gwerthu", "3sg_m": "byddai fe'n gwerthu", "3sg_f": "byddai hi'n gwerthu", "1pl": "bydden ni'n gwerthu", "2pl": "byddech chi'n gwerthu", "3pl": "bydden nhw'n gwerthu" }
+      }
+    }
+  }
+}

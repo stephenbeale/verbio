@@ -1,0 +1,66 @@
+{
+  "id": "clywed",
+  "infinitive": "clywed",
+  "meaning": "to hear",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: clyw-. Also used to mean 'to feel' (especially of physical sensations) in some dialects: 'dw i'n clywed oer' (I feel cold, S. Welsh).",
+  "mutations": { "soft": "glywed", "nasal": "nglywed", "aspirate": "chlywed" },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "clywaf i", "2sg": "clywi di", "3sg_m": "clyw ef", "3sg_f": "clyw hi", "1pl": "clywn ni", "2pl": "clywch chi", "3pl": "clywant hwy" },
+        "informal": { "1sg": "dw i'n clywed", "2sg": "ti'n clywed", "3sg_m": "mae o'n clywed", "3sg_f": "mae hi'n clywed", "1pl": "dan ni'n clywed", "2pl": "dach chi'n clywed", "3pl": "maen nhw'n clywed" }
+      },
+      "south": {
+        "formal":   { "1sg": "clywaf i", "2sg": "clywi di", "3sg_m": "clyw ef", "3sg_f": "clyw hi", "1pl": "clywn ni", "2pl": "clywch chi", "3pl": "clywant hwy" },
+        "informal": { "1sg": "dw i'n clywed", "2sg": "rwyt ti'n clywed", "3sg_m": "mae e'n clywed", "3sg_f": "mae hi'n clywed", "1pl": "r'yn ni'n clywed", "2pl": "r'ych chi'n clywed", "3pl": "maen nhw'n clywed" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "clywais i", "2sg": "clywaist ti", "3sg_m": "clywodd ef", "3sg_f": "clywodd hi", "1pl": "clywom ni", "2pl": "clywoch chi", "3pl": "clywsant hwy" },
+        "informal": { "1sg": "clywais i", "2sg": "clywaist ti", "3sg_m": "clywodd o", "3sg_f": "clywodd hi", "1pl": "clywon ni", "2pl": "clywoch chi", "3pl": "clywon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "clywais i", "2sg": "clywaist ti", "3sg_m": "clywodd ef", "3sg_f": "clywodd hi", "1pl": "clywom ni", "2pl": "clywoch chi", "3pl": "clywsant hwy" },
+        "informal": { "1sg": "clywes i", "2sg": "clywest ti", "3sg_m": "clywodd e", "3sg_f": "clywodd hi", "1pl": "clywon ni", "2pl": "clywoch chi", "3pl": "clywon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "clywn i", "2sg": "clywet ti", "3sg_m": "clywai ef", "3sg_f": "clywai hi", "1pl": "clywem ni", "2pl": "clywech chi", "3pl": "clywent hwy" },
+        "informal": { "1sg": "ro'n i'n clywed", "2sg": "ro't ti'n clywed", "3sg_m": "roedd o'n clywed", "3sg_f": "roedd hi'n clywed", "1pl": "roedden ni'n clywed", "2pl": "roeddech chi'n clywed", "3pl": "roedden nhw'n clywed" }
+      },
+      "south": {
+        "formal":   { "1sg": "clywn i", "2sg": "clywet ti", "3sg_m": "clywai ef", "3sg_f": "clywai hi", "1pl": "clywem ni", "2pl": "clywech chi", "3pl": "clywent hwy" },
+        "informal": { "1sg": "ro'n i'n clywed", "2sg": "ro't ti'n clywed", "3sg_m": "roedd e'n clywed", "3sg_f": "roedd hi'n clywed", "1pl": "roedden ni'n clywed", "2pl": "roeddech chi'n clywed", "3pl": "roedden nhw'n clywed" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "clywaf i", "2sg": "clywi di", "3sg_m": "clyw ef", "3sg_f": "clyw hi", "1pl": "clywn ni", "2pl": "clywch chi", "3pl": "clywant hwy" },
+        "informal": { "1sg": "bydda i'n clywed", "2sg": "byddi di'n clywed", "3sg_m": "bydd o'n clywed", "3sg_f": "bydd hi'n clywed", "1pl": "byddwn ni'n clywed", "2pl": "byddwch chi'n clywed", "3pl": "byddan nhw'n clywed" }
+      },
+      "south": {
+        "formal":   { "1sg": "clywaf i", "2sg": "clywi di", "3sg_m": "clyw ef", "3sg_f": "clyw hi", "1pl": "clywn ni", "2pl": "clywch chi", "3pl": "clywant hwy" },
+        "informal": { "1sg": "bydda i'n clywed", "2sg": "byddi di'n clywed", "3sg_m": "bydd e'n clywed", "3sg_f": "bydd hi'n clywed", "1pl": "byddwn ni'n clywed", "2pl": "byddwch chi'n clywed", "3pl": "byddan nhw'n clywed" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "clywn i", "2sg": "clywet ti", "3sg_m": "clywai ef", "3sg_f": "clywai hi", "1pl": "clywem ni", "2pl": "clywech chi", "3pl": "clywent hwy" },
+        "informal": { "1sg": "baswn i'n clywed", "2sg": "baset ti'n clywed", "3sg_m": "basai fo'n clywed", "3sg_f": "basai hi'n clywed", "1pl": "basen ni'n clywed", "2pl": "basech chi'n clywed", "3pl": "basen nhw'n clywed" }
+      },
+      "south": {
+        "formal":   { "1sg": "clywn i", "2sg": "clywet ti", "3sg_m": "clywai ef", "3sg_f": "clywai hi", "1pl": "clywem ni", "2pl": "clywech chi", "3pl": "clywent hwy" },
+        "informal": { "1sg": "byddwn i'n clywed", "2sg": "byddet ti'n clywed", "3sg_m": "byddai fe'n clywed", "3sg_f": "byddai hi'n clywed", "1pl": "bydden ni'n clywed", "2pl": "byddech chi'n clywed", "3pl": "bydden nhw'n clywed" }
+      }
+    }
+  }
+}

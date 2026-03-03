@@ -1,0 +1,66 @@
+{
+  "id": "marw",
+  "infinitive": "marw",
+  "meaning": "to die",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: marw-. Often used in periphrastic forms in everyday speech. Also used figuratively: 'marw eisiau' (dying to, i.e. really wanting something), 'marw chwerthin' (dying of laughter).",
+  "mutations": { "soft": "farw", "nasal": "marw", "aspirate": null },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "marwaf i", "2sg": "merwi di", "3sg_m": "marw ef", "3sg_f": "marw hi", "1pl": "marwwn ni", "2pl": "marwch chi", "3pl": "marwant hwy" },
+        "informal": { "1sg": "dw i'n marw", "2sg": "ti'n marw", "3sg_m": "mae o'n marw", "3sg_f": "mae hi'n marw", "1pl": "dan ni'n marw", "2pl": "dach chi'n marw", "3pl": "maen nhw'n marw" }
+      },
+      "south": {
+        "formal":   { "1sg": "marwaf i", "2sg": "merwi di", "3sg_m": "marw ef", "3sg_f": "marw hi", "1pl": "marwwn ni", "2pl": "marwch chi", "3pl": "marwant hwy" },
+        "informal": { "1sg": "dw i'n marw", "2sg": "rwyt ti'n marw", "3sg_m": "mae e'n marw", "3sg_f": "mae hi'n marw", "1pl": "r'yn ni'n marw", "2pl": "r'ych chi'n marw", "3pl": "maen nhw'n marw" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "mArwais i", "2sg": "mArwaist ti", "3sg_m": "bu farw ef", "3sg_f": "bu farw hi", "1pl": "buom farw ni", "2pl": "buoch farw chi", "3pl": "buont farw hwy" },
+        "informal": { "1sg": "mArwais i", "2sg": "mArwaist ti", "3sg_m": "bu farw o", "3sg_f": "bu farw hi", "1pl": "buon ni farw", "2pl": "buoch chi farw", "3pl": "buon nhw farw" }
+      },
+      "south": {
+        "formal":   { "1sg": "mArwais i", "2sg": "mArwaist ti", "3sg_m": "bu farw ef", "3sg_f": "bu farw hi", "1pl": "buom farw ni", "2pl": "buoch farw chi", "3pl": "buont farw hwy" },
+        "informal": { "1sg": "marwes i", "2sg": "marwest ti", "3sg_m": "bu farw e", "3sg_f": "bu farw hi", "1pl": "buon ni farw", "2pl": "buoch chi farw", "3pl": "buon nhw farw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "marwwn i", "2sg": "merwet ti", "3sg_m": "mArwai ef", "3sg_f": "mArwai hi", "1pl": "mArwem ni", "2pl": "mArwech chi", "3pl": "mArwent hwy" },
+        "informal": { "1sg": "ro'n i'n marw", "2sg": "ro't ti'n marw", "3sg_m": "roedd o'n marw", "3sg_f": "roedd hi'n marw", "1pl": "roedden ni'n marw", "2pl": "roeddech chi'n marw", "3pl": "roedden nhw'n marw" }
+      },
+      "south": {
+        "formal":   { "1sg": "marwwn i", "2sg": "merwet ti", "3sg_m": "mArwai ef", "3sg_f": "mArwai hi", "1pl": "mArwem ni", "2pl": "mArwech chi", "3pl": "mArwent hwy" },
+        "informal": { "1sg": "ro'n i'n marw", "2sg": "ro't ti'n marw", "3sg_m": "roedd e'n marw", "3sg_f": "roedd hi'n marw", "1pl": "roedden ni'n marw", "2pl": "roeddech chi'n marw", "3pl": "roedden nhw'n marw" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "marwaf i", "2sg": "merwi di", "3sg_m": "marw ef", "3sg_f": "marw hi", "1pl": "marwwn ni", "2pl": "marwch chi", "3pl": "marwant hwy" },
+        "informal": { "1sg": "bydda i'n marw", "2sg": "byddi di'n marw", "3sg_m": "bydd o'n marw", "3sg_f": "bydd hi'n marw", "1pl": "byddwn ni'n marw", "2pl": "byddwch chi'n marw", "3pl": "byddan nhw'n marw" }
+      },
+      "south": {
+        "formal":   { "1sg": "marwaf i", "2sg": "merwi di", "3sg_m": "marw ef", "3sg_f": "marw hi", "1pl": "marwwn ni", "2pl": "marwch chi", "3pl": "marwant hwy" },
+        "informal": { "1sg": "bydda i'n marw", "2sg": "byddi di'n marw", "3sg_m": "bydd e'n marw", "3sg_f": "bydd hi'n marw", "1pl": "byddwn ni'n marw", "2pl": "byddwch chi'n marw", "3pl": "byddan nhw'n marw" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "marwwn i", "2sg": "merwet ti", "3sg_m": "mArwai ef", "3sg_f": "mArwai hi", "1pl": "mArwem ni", "2pl": "mArwech chi", "3pl": "mArwent hwy" },
+        "informal": { "1sg": "baswn i'n marw", "2sg": "baset ti'n marw", "3sg_m": "basai fo'n marw", "3sg_f": "basai hi'n marw", "1pl": "basen ni'n marw", "2pl": "basech chi'n marw", "3pl": "basen nhw'n marw" }
+      },
+      "south": {
+        "formal":   { "1sg": "marwwn i", "2sg": "merwet ti", "3sg_m": "mArwai ef", "3sg_f": "mArwai hi", "1pl": "mArwem ni", "2pl": "mArwech chi", "3pl": "mArwent hwy" },
+        "informal": { "1sg": "byddwn i'n marw", "2sg": "byddet ti'n marw", "3sg_m": "byddai fe'n marw", "3sg_f": "byddai hi'n marw", "1pl": "bydden ni'n marw", "2pl": "byddech chi'n marw", "3pl": "bydden nhw'n marw" }
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "helpu",
+  "infinitive": "helpu",
+  "meaning": "to help",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: help-. A borrowing from English 'help'. Used with 'i' + infinitive: 'helpais i fe i gario'r blychau' (I helped him carry the boxes).",
+  "mutations": { "soft": "helpu", "nasal": "helpu", "aspirate": "helpu" },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "helpaf i", "2sg": "helpi di", "3sg_m": "helpa ef", "3sg_f": "helpa hi", "1pl": "helpwn ni", "2pl": "helpwch chi", "3pl": "helpant hwy" },
+        "informal": { "1sg": "dw i'n helpu", "2sg": "ti'n helpu", "3sg_m": "mae o'n helpu", "3sg_f": "mae hi'n helpu", "1pl": "dan ni'n helpu", "2pl": "dach chi'n helpu", "3pl": "maen nhw'n helpu" }
+      },
+      "south": {
+        "formal":   { "1sg": "helpaf i", "2sg": "helpi di", "3sg_m": "helpa ef", "3sg_f": "helpa hi", "1pl": "helpwn ni", "2pl": "helpwch chi", "3pl": "helpant hwy" },
+        "informal": { "1sg": "dw i'n helpu", "2sg": "rwyt ti'n helpu", "3sg_m": "mae e'n helpu", "3sg_f": "mae hi'n helpu", "1pl": "r'yn ni'n helpu", "2pl": "r'ych chi'n helpu", "3pl": "maen nhw'n helpu" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "helpais i", "2sg": "helpaist ti", "3sg_m": "helpodd ef", "3sg_f": "helpodd hi", "1pl": "helpom ni", "2pl": "helpoch chi", "3pl": "helpont hwy" },
+        "informal": { "1sg": "helpais i", "2sg": "helpaist ti", "3sg_m": "helpodd o", "3sg_f": "helpodd hi", "1pl": "helpon ni", "2pl": "helpoch chi", "3pl": "helpon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "helpais i", "2sg": "helpaist ti", "3sg_m": "helpodd ef", "3sg_f": "helpodd hi", "1pl": "helpom ni", "2pl": "helpoch chi", "3pl": "helpont hwy" },
+        "informal": { "1sg": "helpes i", "2sg": "helpest ti", "3sg_m": "helpodd e", "3sg_f": "helpodd hi", "1pl": "helpon ni", "2pl": "helpoch chi", "3pl": "helpon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "helpwn i", "2sg": "helpet ti", "3sg_m": "helpai ef", "3sg_f": "helpai hi", "1pl": "helpem ni", "2pl": "helpech chi", "3pl": "helpent hwy" },
+        "informal": { "1sg": "ro'n i'n helpu", "2sg": "ro't ti'n helpu", "3sg_m": "roedd o'n helpu", "3sg_f": "roedd hi'n helpu", "1pl": "roedden ni'n helpu", "2pl": "roeddech chi'n helpu", "3pl": "roedden nhw'n helpu" }
+      },
+      "south": {
+        "formal":   { "1sg": "helpwn i", "2sg": "helpet ti", "3sg_m": "helpai ef", "3sg_f": "helpai hi", "1pl": "helpem ni", "2pl": "helpech chi", "3pl": "helpent hwy" },
+        "informal": { "1sg": "ro'n i'n helpu", "2sg": "ro't ti'n helpu", "3sg_m": "roedd e'n helpu", "3sg_f": "roedd hi'n helpu", "1pl": "roedden ni'n helpu", "2pl": "roeddech chi'n helpu", "3pl": "roedden nhw'n helpu" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "helpaf i", "2sg": "helpi di", "3sg_m": "helpa ef", "3sg_f": "helpa hi", "1pl": "helpwn ni", "2pl": "helpwch chi", "3pl": "helpant hwy" },
+        "informal": { "1sg": "bydda i'n helpu", "2sg": "byddi di'n helpu", "3sg_m": "bydd o'n helpu", "3sg_f": "bydd hi'n helpu", "1pl": "byddwn ni'n helpu", "2pl": "byddwch chi'n helpu", "3pl": "byddan nhw'n helpu" }
+      },
+      "south": {
+        "formal":   { "1sg": "helpaf i", "2sg": "helpi di", "3sg_m": "helpa ef", "3sg_f": "helpa hi", "1pl": "helpwn ni", "2pl": "helpwch chi", "3pl": "helpant hwy" },
+        "informal": { "1sg": "bydda i'n helpu", "2sg": "byddi di'n helpu", "3sg_m": "bydd e'n helpu", "3sg_f": "bydd hi'n helpu", "1pl": "byddwn ni'n helpu", "2pl": "byddwch chi'n helpu", "3pl": "byddan nhw'n helpu" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "helpwn i", "2sg": "helpet ti", "3sg_m": "helpai ef", "3sg_f": "helpai hi", "1pl": "helpem ni", "2pl": "helpech chi", "3pl": "helpent hwy" },
+        "informal": { "1sg": "baswn i'n helpu", "2sg": "baset ti'n helpu", "3sg_m": "basai fo'n helpu", "3sg_f": "basai hi'n helpu", "1pl": "basen ni'n helpu", "2pl": "basech chi'n helpu", "3pl": "basen nhw'n helpu" }
+      },
+      "south": {
+        "formal":   { "1sg": "helpwn i", "2sg": "helpet ti", "3sg_m": "helpai ef", "3sg_f": "helpai hi", "1pl": "helpem ni", "2pl": "helpech chi", "3pl": "helpent hwy" },
+        "informal": { "1sg": "byddwn i'n helpu", "2sg": "byddet ti'n helpu", "3sg_m": "byddai fe'n helpu", "3sg_f": "byddai hi'n helpu", "1pl": "bydden ni'n helpu", "2pl": "byddech chi'n helpu", "3pl": "bydden nhw'n helpu" }
+      }
+    }
+  }
+}

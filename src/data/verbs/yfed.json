@@ -1,0 +1,66 @@
+{
+  "id": "yfed",
+  "infinitive": "yfed",
+  "meaning": "to drink",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: yf-.",
+  "mutations": { "soft": "yfed", "nasal": "yfed", "aspirate": "yfed" },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "yfaf i", "2sg": "yfi di", "3sg_m": "yf ef", "3sg_f": "yf hi", "1pl": "yfwn ni", "2pl": "yfwch chi", "3pl": "yfant hwy" },
+        "informal": { "1sg": "dw i'n yfed", "2sg": "ti'n yfed", "3sg_m": "mae o'n yfed", "3sg_f": "mae hi'n yfed", "1pl": "dan ni'n yfed", "2pl": "dach chi'n yfed", "3pl": "maen nhw'n yfed" }
+      },
+      "south": {
+        "formal":   { "1sg": "yfaf i", "2sg": "yfi di", "3sg_m": "yf ef", "3sg_f": "yf hi", "1pl": "yfwn ni", "2pl": "yfwch chi", "3pl": "yfant hwy" },
+        "informal": { "1sg": "dw i'n yfed", "2sg": "rwyt ti'n yfed", "3sg_m": "mae e'n yfed", "3sg_f": "mae hi'n yfed", "1pl": "r'yn ni'n yfed", "2pl": "r'ych chi'n yfed", "3pl": "maen nhw'n yfed" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "yfais i", "2sg": "yfaist ti", "3sg_m": "yfodd ef", "3sg_f": "yfodd hi", "1pl": "yfom ni", "2pl": "yfoch chi", "3pl": "yfont hwy" },
+        "informal": { "1sg": "yfais i", "2sg": "yfaist ti", "3sg_m": "yfodd o", "3sg_f": "yfodd hi", "1pl": "yfon ni", "2pl": "yfoch chi", "3pl": "yfon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "yfais i", "2sg": "yfaist ti", "3sg_m": "yfodd ef", "3sg_f": "yfodd hi", "1pl": "yfom ni", "2pl": "yfoch chi", "3pl": "yfont hwy" },
+        "informal": { "1sg": "yfes i", "2sg": "yfest ti", "3sg_m": "yfodd e", "3sg_f": "yfodd hi", "1pl": "yfon ni", "2pl": "yfoch chi", "3pl": "yfon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "yfwn i", "2sg": "yfet ti", "3sg_m": "yfai ef", "3sg_f": "yfai hi", "1pl": "yfem ni", "2pl": "yfech chi", "3pl": "yfent hwy" },
+        "informal": { "1sg": "ro'n i'n yfed", "2sg": "ro't ti'n yfed", "3sg_m": "roedd o'n yfed", "3sg_f": "roedd hi'n yfed", "1pl": "roedden ni'n yfed", "2pl": "roeddech chi'n yfed", "3pl": "roedden nhw'n yfed" }
+      },
+      "south": {
+        "formal":   { "1sg": "yfwn i", "2sg": "yfet ti", "3sg_m": "yfai ef", "3sg_f": "yfai hi", "1pl": "yfem ni", "2pl": "yfech chi", "3pl": "yfent hwy" },
+        "informal": { "1sg": "ro'n i'n yfed", "2sg": "ro't ti'n yfed", "3sg_m": "roedd e'n yfed", "3sg_f": "roedd hi'n yfed", "1pl": "roedden ni'n yfed", "2pl": "roeddech chi'n yfed", "3pl": "roedden nhw'n yfed" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "yfaf i", "2sg": "yfi di", "3sg_m": "yf ef", "3sg_f": "yf hi", "1pl": "yfwn ni", "2pl": "yfwch chi", "3pl": "yfant hwy" },
+        "informal": { "1sg": "bydda i'n yfed", "2sg": "byddi di'n yfed", "3sg_m": "bydd o'n yfed", "3sg_f": "bydd hi'n yfed", "1pl": "byddwn ni'n yfed", "2pl": "byddwch chi'n yfed", "3pl": "byddan nhw'n yfed" }
+      },
+      "south": {
+        "formal":   { "1sg": "yfaf i", "2sg": "yfi di", "3sg_m": "yf ef", "3sg_f": "yf hi", "1pl": "yfwn ni", "2pl": "yfwch chi", "3pl": "yfant hwy" },
+        "informal": { "1sg": "bydda i'n yfed", "2sg": "byddi di'n yfed", "3sg_m": "bydd e'n yfed", "3sg_f": "bydd hi'n yfed", "1pl": "byddwn ni'n yfed", "2pl": "byddwch chi'n yfed", "3pl": "byddan nhw'n yfed" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "yfwn i", "2sg": "yfet ti", "3sg_m": "yfai ef", "3sg_f": "yfai hi", "1pl": "yfem ni", "2pl": "yfech chi", "3pl": "yfent hwy" },
+        "informal": { "1sg": "baswn i'n yfed", "2sg": "baset ti'n yfed", "3sg_m": "basai fo'n yfed", "3sg_f": "basai hi'n yfed", "1pl": "basen ni'n yfed", "2pl": "basech chi'n yfed", "3pl": "basen nhw'n yfed" }
+      },
+      "south": {
+        "formal":   { "1sg": "yfwn i", "2sg": "yfet ti", "3sg_m": "yfai ef", "3sg_f": "yfai hi", "1pl": "yfem ni", "2pl": "yfech chi", "3pl": "yfent hwy" },
+        "informal": { "1sg": "byddwn i'n yfed", "2sg": "byddet ti'n yfed", "3sg_m": "byddai fe'n yfed", "3sg_f": "byddai hi'n yfed", "1pl": "bydden ni'n yfed", "2pl": "byddech chi'n yfed", "3pl": "bydden nhw'n yfed" }
+      }
+    }
+  }
+}

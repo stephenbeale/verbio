@@ -1,0 +1,66 @@
+{
+  "id": "prynu",
+  "infinitive": "prynu",
+  "meaning": "to buy",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: pryn-.",
+  "mutations": { "soft": "brynu", "nasal": "mhrynu", "aspirate": "phrynu" },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "prynaf i", "2sg": "pryni di", "3sg_m": "pryn ef", "3sg_f": "pryn hi", "1pl": "prynwn ni", "2pl": "prynwch chi", "3pl": "prynant hwy" },
+        "informal": { "1sg": "dw i'n prynu", "2sg": "ti'n prynu", "3sg_m": "mae o'n prynu", "3sg_f": "mae hi'n prynu", "1pl": "dan ni'n prynu", "2pl": "dach chi'n prynu", "3pl": "maen nhw'n prynu" }
+      },
+      "south": {
+        "formal":   { "1sg": "prynaf i", "2sg": "pryni di", "3sg_m": "pryn ef", "3sg_f": "pryn hi", "1pl": "prynwn ni", "2pl": "prynwch chi", "3pl": "prynant hwy" },
+        "informal": { "1sg": "dw i'n prynu", "2sg": "rwyt ti'n prynu", "3sg_m": "mae e'n prynu", "3sg_f": "mae hi'n prynu", "1pl": "r'yn ni'n prynu", "2pl": "r'ych chi'n prynu", "3pl": "maen nhw'n prynu" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "prynais i", "2sg": "prynaist ti", "3sg_m": "prynodd ef", "3sg_f": "prynodd hi", "1pl": "prynom ni", "2pl": "prynoch chi", "3pl": "prynont hwy" },
+        "informal": { "1sg": "prynais i", "2sg": "prynaist ti", "3sg_m": "prynodd o", "3sg_f": "prynodd hi", "1pl": "prynon ni", "2pl": "prynoch chi", "3pl": "prynon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "prynais i", "2sg": "prynaist ti", "3sg_m": "prynodd ef", "3sg_f": "prynodd hi", "1pl": "prynom ni", "2pl": "prynoch chi", "3pl": "prynont hwy" },
+        "informal": { "1sg": "prynes i", "2sg": "prynes ti", "3sg_m": "prynodd e", "3sg_f": "prynodd hi", "1pl": "prynon ni", "2pl": "prynoch chi", "3pl": "prynon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "prynwn i", "2sg": "prynet ti", "3sg_m": "prynai ef", "3sg_f": "prynai hi", "1pl": "prynem ni", "2pl": "prynech chi", "3pl": "prynent hwy" },
+        "informal": { "1sg": "ro'n i'n prynu", "2sg": "ro't ti'n prynu", "3sg_m": "roedd o'n prynu", "3sg_f": "roedd hi'n prynu", "1pl": "roedden ni'n prynu", "2pl": "roeddech chi'n prynu", "3pl": "roedden nhw'n prynu" }
+      },
+      "south": {
+        "formal":   { "1sg": "prynwn i", "2sg": "prynet ti", "3sg_m": "prynai ef", "3sg_f": "prynai hi", "1pl": "prynem ni", "2pl": "prynech chi", "3pl": "prynent hwy" },
+        "informal": { "1sg": "ro'n i'n prynu", "2sg": "ro't ti'n prynu", "3sg_m": "roedd e'n prynu", "3sg_f": "roedd hi'n prynu", "1pl": "roedden ni'n prynu", "2pl": "roeddech chi'n prynu", "3pl": "roedden nhw'n prynu" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "prynaf i", "2sg": "pryni di", "3sg_m": "pryn ef", "3sg_f": "pryn hi", "1pl": "prynwn ni", "2pl": "prynwch chi", "3pl": "prynant hwy" },
+        "informal": { "1sg": "bydda i'n prynu", "2sg": "byddi di'n prynu", "3sg_m": "bydd o'n prynu", "3sg_f": "bydd hi'n prynu", "1pl": "byddwn ni'n prynu", "2pl": "byddwch chi'n prynu", "3pl": "byddan nhw'n prynu" }
+      },
+      "south": {
+        "formal":   { "1sg": "prynaf i", "2sg": "pryni di", "3sg_m": "pryn ef", "3sg_f": "pryn hi", "1pl": "prynwn ni", "2pl": "prynwch chi", "3pl": "prynant hwy" },
+        "informal": { "1sg": "bydda i'n prynu", "2sg": "byddi di'n prynu", "3sg_m": "bydd e'n prynu", "3sg_f": "bydd hi'n prynu", "1pl": "byddwn ni'n prynu", "2pl": "byddwch chi'n prynu", "3pl": "byddan nhw'n prynu" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "prynwn i", "2sg": "prynet ti", "3sg_m": "prynai ef", "3sg_f": "prynai hi", "1pl": "prynem ni", "2pl": "prynech chi", "3pl": "prynent hwy" },
+        "informal": { "1sg": "baswn i'n prynu", "2sg": "baset ti'n prynu", "3sg_m": "basai fo'n prynu", "3sg_f": "basai hi'n prynu", "1pl": "basen ni'n prynu", "2pl": "basech chi'n prynu", "3pl": "basen nhw'n prynu" }
+      },
+      "south": {
+        "formal":   { "1sg": "prynwn i", "2sg": "prynet ti", "3sg_m": "prynai ef", "3sg_f": "prynai hi", "1pl": "prynem ni", "2pl": "prynech chi", "3pl": "prynent hwy" },
+        "informal": { "1sg": "byddwn i'n prynu", "2sg": "byddet ti'n prynu", "3sg_m": "byddai fe'n prynu", "3sg_f": "byddai hi'n prynu", "1pl": "bydden ni'n prynu", "2pl": "byddech chi'n prynu", "3pl": "bydden nhw'n prynu" }
+      }
+    }
+  }
+}

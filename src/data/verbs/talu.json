@@ -1,0 +1,66 @@
+{
+  "id": "talu",
+  "infinitive": "talu",
+  "meaning": "to pay",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: tal-. Note the vowel change in 2sg present: teli. Also used figuratively: 'mae'n talu' (it's worth it / it pays).",
+  "mutations": { "soft": "dalu", "nasal": "nhalu", "aspirate": "thalu" },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "talaf i", "2sg": "teli di", "3sg_m": "tâl ef", "3sg_f": "tâl hi", "1pl": "talwn ni", "2pl": "talwch chi", "3pl": "talant hwy" },
+        "informal": { "1sg": "dw i'n talu", "2sg": "ti'n talu", "3sg_m": "mae o'n talu", "3sg_f": "mae hi'n talu", "1pl": "dan ni'n talu", "2pl": "dach chi'n talu", "3pl": "maen nhw'n talu" }
+      },
+      "south": {
+        "formal":   { "1sg": "talaf i", "2sg": "teli di", "3sg_m": "tâl ef", "3sg_f": "tâl hi", "1pl": "talwn ni", "2pl": "talwch chi", "3pl": "talant hwy" },
+        "informal": { "1sg": "dw i'n talu", "2sg": "rwyt ti'n talu", "3sg_m": "mae e'n talu", "3sg_f": "mae hi'n talu", "1pl": "r'yn ni'n talu", "2pl": "r'ych chi'n talu", "3pl": "maen nhw'n talu" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "talais i", "2sg": "talaist ti", "3sg_m": "talodd ef", "3sg_f": "talodd hi", "1pl": "talom ni", "2pl": "taloch chi", "3pl": "talont hwy" },
+        "informal": { "1sg": "talais i", "2sg": "talaist ti", "3sg_m": "talodd o", "3sg_f": "talodd hi", "1pl": "talon ni", "2pl": "taloch chi", "3pl": "talon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "talais i", "2sg": "talaist ti", "3sg_m": "talodd ef", "3sg_f": "talodd hi", "1pl": "talom ni", "2pl": "taloch chi", "3pl": "talont hwy" },
+        "informal": { "1sg": "tales i", "2sg": "talest ti", "3sg_m": "talodd e", "3sg_f": "talodd hi", "1pl": "talon ni", "2pl": "taloch chi", "3pl": "talon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "talwn i", "2sg": "telet ti", "3sg_m": "talai ef", "3sg_f": "talai hi", "1pl": "talem ni", "2pl": "talech chi", "3pl": "talent hwy" },
+        "informal": { "1sg": "ro'n i'n talu", "2sg": "ro't ti'n talu", "3sg_m": "roedd o'n talu", "3sg_f": "roedd hi'n talu", "1pl": "roedden ni'n talu", "2pl": "roeddech chi'n talu", "3pl": "roedden nhw'n talu" }
+      },
+      "south": {
+        "formal":   { "1sg": "talwn i", "2sg": "telet ti", "3sg_m": "talai ef", "3sg_f": "talai hi", "1pl": "talem ni", "2pl": "talech chi", "3pl": "talent hwy" },
+        "informal": { "1sg": "ro'n i'n talu", "2sg": "ro't ti'n talu", "3sg_m": "roedd e'n talu", "3sg_f": "roedd hi'n talu", "1pl": "roedden ni'n talu", "2pl": "roeddech chi'n talu", "3pl": "roedden nhw'n talu" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "talaf i", "2sg": "teli di", "3sg_m": "tâl ef", "3sg_f": "tâl hi", "1pl": "talwn ni", "2pl": "talwch chi", "3pl": "talant hwy" },
+        "informal": { "1sg": "bydda i'n talu", "2sg": "byddi di'n talu", "3sg_m": "bydd o'n talu", "3sg_f": "bydd hi'n talu", "1pl": "byddwn ni'n talu", "2pl": "byddwch chi'n talu", "3pl": "byddan nhw'n talu" }
+      },
+      "south": {
+        "formal":   { "1sg": "talaf i", "2sg": "teli di", "3sg_m": "tâl ef", "3sg_f": "tâl hi", "1pl": "talwn ni", "2pl": "talwch chi", "3pl": "talant hwy" },
+        "informal": { "1sg": "bydda i'n talu", "2sg": "byddi di'n talu", "3sg_m": "bydd e'n talu", "3sg_f": "bydd hi'n talu", "1pl": "byddwn ni'n talu", "2pl": "byddwch chi'n talu", "3pl": "byddan nhw'n talu" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "talwn i", "2sg": "telet ti", "3sg_m": "talai ef", "3sg_f": "talai hi", "1pl": "talem ni", "2pl": "talech chi", "3pl": "talent hwy" },
+        "informal": { "1sg": "baswn i'n talu", "2sg": "baset ti'n talu", "3sg_m": "basai fo'n talu", "3sg_f": "basai hi'n talu", "1pl": "basen ni'n talu", "2pl": "basech chi'n talu", "3pl": "basen nhw'n talu" }
+      },
+      "south": {
+        "formal":   { "1sg": "talwn i", "2sg": "telet ti", "3sg_m": "talai ef", "3sg_f": "talai hi", "1pl": "talem ni", "2pl": "talech chi", "3pl": "talent hwy" },
+        "informal": { "1sg": "byddwn i'n talu", "2sg": "byddet ti'n talu", "3sg_m": "byddai fe'n talu", "3sg_f": "byddai hi'n talu", "1pl": "bydden ni'n talu", "2pl": "byddech chi'n talu", "3pl": "bydden nhw'n talu" }
+      }
+    }
+  }
+}

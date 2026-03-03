@@ -1,0 +1,66 @@
+{
+  "id": "gwybod",
+  "infinitive": "gwybod",
+  "meaning": "to know (a fact)",
+  "type": "irregular",
+  "tags": ["essential", "common"],
+  "notes": "Highly irregular. Used for knowing facts, information, or how to do something. Contrast with 'adnabod' (to know a person or place). The present tense short forms are distinct from all other verbs. A preterite (short-form past) is rarely used in modern Welsh — use the imperfect 'gwyddwn i' to mean 'I knew'.",
+  "mutations": { "soft": "wybod", "nasal": "ngwybod", "aspirate": null },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "gwn i", "2sg": "gwyddost ti", "3sg_m": "gŵyr ef", "3sg_f": "gŵyr hi", "1pl": "gwyddom ni", "2pl": "gwyddoch chi", "3pl": "gwyddant hwy" },
+        "informal": { "1sg": "dw i'n gwybod", "2sg": "ti'n gwybod", "3sg_m": "mae o'n gwybod", "3sg_f": "mae hi'n gwybod", "1pl": "dan ni'n gwybod", "2pl": "dach chi'n gwybod", "3pl": "maen nhw'n gwybod" }
+      },
+      "south": {
+        "formal":   { "1sg": "gwn i", "2sg": "gwyddost ti", "3sg_m": "gŵyr ef", "3sg_f": "gŵyr hi", "1pl": "gwyddom ni", "2pl": "gwyddoch chi", "3pl": "gwyddant hwy" },
+        "informal": { "1sg": "dw i'n gwybod", "2sg": "rwyt ti'n gwybod", "3sg_m": "mae e'n gwybod", "3sg_f": "mae hi'n gwybod", "1pl": "r'yn ni'n gwybod", "2pl": "r'ych chi'n gwybod", "3pl": "maen nhw'n gwybod" }
+      }
+    },
+    "past": {
+      "label": "Past / Imperfect (Knew)", "label_cy": "Gorffennol / Amherffaith",
+      "north": {
+        "formal":   { "1sg": "gwyddwn i", "2sg": "gwyddost ti", "3sg_m": "gwyddai ef", "3sg_f": "gwyddai hi", "1pl": "gwyddem ni", "2pl": "gwyddech chi", "3pl": "gwyddent hwy" },
+        "informal": { "1sg": "ro'n i'n gwybod", "2sg": "ro't ti'n gwybod", "3sg_m": "roedd o'n gwybod", "3sg_f": "roedd hi'n gwybod", "1pl": "roedden ni'n gwybod", "2pl": "roeddech chi'n gwybod", "3pl": "roedden nhw'n gwybod" }
+      },
+      "south": {
+        "formal":   { "1sg": "gwyddwn i", "2sg": "gwyddost ti", "3sg_m": "gwyddai ef", "3sg_f": "gwyddai hi", "1pl": "gwyddem ni", "2pl": "gwyddech chi", "3pl": "gwyddent hwy" },
+        "informal": { "1sg": "ro'n i'n gwybod", "2sg": "ro't ti'n gwybod", "3sg_m": "roedd e'n gwybod", "3sg_f": "roedd hi'n gwybod", "1pl": "roedden ni'n gwybod", "2pl": "roeddech chi'n gwybod", "3pl": "roedden nhw'n gwybod" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "gwyddwn i", "2sg": "gwyddost ti", "3sg_m": "gwyddai ef", "3sg_f": "gwyddai hi", "1pl": "gwyddem ni", "2pl": "gwyddech chi", "3pl": "gwyddent hwy" },
+        "informal": { "1sg": "ro'n i'n gwybod", "2sg": "ro't ti'n gwybod", "3sg_m": "roedd o'n gwybod", "3sg_f": "roedd hi'n gwybod", "1pl": "roedden ni'n gwybod", "2pl": "roeddech chi'n gwybod", "3pl": "roedden nhw'n gwybod" }
+      },
+      "south": {
+        "formal":   { "1sg": "gwyddwn i", "2sg": "gwyddost ti", "3sg_m": "gwyddai ef", "3sg_f": "gwyddai hi", "1pl": "gwyddem ni", "2pl": "gwyddech chi", "3pl": "gwyddent hwy" },
+        "informal": { "1sg": "ro'n i'n gwybod", "2sg": "ro't ti'n gwybod", "3sg_m": "roedd e'n gwybod", "3sg_f": "roedd hi'n gwybod", "1pl": "roedden ni'n gwybod", "2pl": "roeddech chi'n gwybod", "3pl": "roedden nhw'n gwybod" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "gwn i", "2sg": "gwyddost ti", "3sg_m": "gŵyr ef", "3sg_f": "gŵyr hi", "1pl": "gwyddom ni", "2pl": "gwyddoch chi", "3pl": "gwyddant hwy" },
+        "informal": { "1sg": "bydda i'n gwybod", "2sg": "byddi di'n gwybod", "3sg_m": "bydd o'n gwybod", "3sg_f": "bydd hi'n gwybod", "1pl": "byddwn ni'n gwybod", "2pl": "byddwch chi'n gwybod", "3pl": "byddan nhw'n gwybod" }
+      },
+      "south": {
+        "formal":   { "1sg": "gwn i", "2sg": "gwyddost ti", "3sg_m": "gŵyr ef", "3sg_f": "gŵyr hi", "1pl": "gwyddom ni", "2pl": "gwyddoch chi", "3pl": "gwyddant hwy" },
+        "informal": { "1sg": "bydda i'n gwybod", "2sg": "byddi di'n gwybod", "3sg_m": "bydd e'n gwybod", "3sg_f": "bydd hi'n gwybod", "1pl": "byddwn ni'n gwybod", "2pl": "byddwch chi'n gwybod", "3pl": "byddan nhw'n gwybod" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "gwyddwn i", "2sg": "gwyddet ti", "3sg_m": "gwyddai ef", "3sg_f": "gwyddai hi", "1pl": "gwyddem ni", "2pl": "gwyddech chi", "3pl": "gwyddent hwy" },
+        "informal": { "1sg": "baswn i'n gwybod", "2sg": "baset ti'n gwybod", "3sg_m": "basai fo'n gwybod", "3sg_f": "basai hi'n gwybod", "1pl": "basen ni'n gwybod", "2pl": "basech chi'n gwybod", "3pl": "basen nhw'n gwybod" }
+      },
+      "south": {
+        "formal":   { "1sg": "gwyddwn i", "2sg": "gwyddet ti", "3sg_m": "gwyddai ef", "3sg_f": "gwyddai hi", "1pl": "gwyddem ni", "2pl": "gwyddech chi", "3pl": "gwyddent hwy" },
+        "informal": { "1sg": "byddwn i'n gwybod", "2sg": "byddet ti'n gwybod", "3sg_m": "byddai fe'n gwybod", "3sg_f": "byddai hi'n gwybod", "1pl": "bydden ni'n gwybod", "2pl": "byddech chi'n gwybod", "3pl": "bydden nhw'n gwybod" }
+      }
+    }
+  }
+}

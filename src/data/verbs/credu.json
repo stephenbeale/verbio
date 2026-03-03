@@ -1,0 +1,66 @@
+{
+  "id": "credu",
+  "infinitive": "credu",
+  "meaning": "to believe / to think",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: cred-. Used both as 'to believe' (dw i'n credu mewn X) and as 'to think/reckon' (dw i'n credu bod...). South Welsh sometimes uses 'gweld' (to see) where North uses 'credu' in the sense of thinking.",
+  "mutations": { "soft": "gredu", "nasal": "ngredu", "aspirate": "chredu" },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "credaf i", "2sg": "credi di", "3sg_m": "creda ef", "3sg_f": "creda hi", "1pl": "credwn ni", "2pl": "credwch chi", "3pl": "credant hwy" },
+        "informal": { "1sg": "dw i'n credu", "2sg": "ti'n credu", "3sg_m": "mae o'n credu", "3sg_f": "mae hi'n credu", "1pl": "dan ni'n credu", "2pl": "dach chi'n credu", "3pl": "maen nhw'n credu" }
+      },
+      "south": {
+        "formal":   { "1sg": "credaf i", "2sg": "credi di", "3sg_m": "creda ef", "3sg_f": "creda hi", "1pl": "credwn ni", "2pl": "credwch chi", "3pl": "credant hwy" },
+        "informal": { "1sg": "dw i'n credu", "2sg": "rwyt ti'n credu", "3sg_m": "mae e'n credu", "3sg_f": "mae hi'n credu", "1pl": "r'yn ni'n credu", "2pl": "r'ych chi'n credu", "3pl": "maen nhw'n credu" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "credais i", "2sg": "credaist ti", "3sg_m": "credodd ef", "3sg_f": "credodd hi", "1pl": "credom ni", "2pl": "credoch chi", "3pl": "credont hwy" },
+        "informal": { "1sg": "credais i", "2sg": "credaist ti", "3sg_m": "credodd o", "3sg_f": "credodd hi", "1pl": "credon ni", "2pl": "credoch chi", "3pl": "credon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "credais i", "2sg": "credaist ti", "3sg_m": "credodd ef", "3sg_f": "credodd hi", "1pl": "credom ni", "2pl": "credoch chi", "3pl": "credont hwy" },
+        "informal": { "1sg": "credes i", "2sg": "credest ti", "3sg_m": "credodd e", "3sg_f": "credodd hi", "1pl": "credon ni", "2pl": "credoch chi", "3pl": "credon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "credwn i", "2sg": "credet ti", "3sg_m": "credai ef", "3sg_f": "credai hi", "1pl": "credem ni", "2pl": "credech chi", "3pl": "credent hwy" },
+        "informal": { "1sg": "ro'n i'n credu", "2sg": "ro't ti'n credu", "3sg_m": "roedd o'n credu", "3sg_f": "roedd hi'n credu", "1pl": "roedden ni'n credu", "2pl": "roeddech chi'n credu", "3pl": "roedden nhw'n credu" }
+      },
+      "south": {
+        "formal":   { "1sg": "credwn i", "2sg": "credet ti", "3sg_m": "credai ef", "3sg_f": "credai hi", "1pl": "credem ni", "2pl": "credech chi", "3pl": "credent hwy" },
+        "informal": { "1sg": "ro'n i'n credu", "2sg": "ro't ti'n credu", "3sg_m": "roedd e'n credu", "3sg_f": "roedd hi'n credu", "1pl": "roedden ni'n credu", "2pl": "roeddech chi'n credu", "3pl": "roedden nhw'n credu" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "credaf i", "2sg": "credi di", "3sg_m": "creda ef", "3sg_f": "creda hi", "1pl": "credwn ni", "2pl": "credwch chi", "3pl": "credant hwy" },
+        "informal": { "1sg": "bydda i'n credu", "2sg": "byddi di'n credu", "3sg_m": "bydd o'n credu", "3sg_f": "bydd hi'n credu", "1pl": "byddwn ni'n credu", "2pl": "byddwch chi'n credu", "3pl": "byddan nhw'n credu" }
+      },
+      "south": {
+        "formal":   { "1sg": "credaf i", "2sg": "credi di", "3sg_m": "creda ef", "3sg_f": "creda hi", "1pl": "credwn ni", "2pl": "credwch chi", "3pl": "credant hwy" },
+        "informal": { "1sg": "bydda i'n credu", "2sg": "byddi di'n credu", "3sg_m": "bydd e'n credu", "3sg_f": "bydd hi'n credu", "1pl": "byddwn ni'n credu", "2pl": "byddwch chi'n credu", "3pl": "byddan nhw'n credu" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "credwn i", "2sg": "credet ti", "3sg_m": "credai ef", "3sg_f": "credai hi", "1pl": "credem ni", "2pl": "credech chi", "3pl": "credent hwy" },
+        "informal": { "1sg": "baswn i'n credu", "2sg": "baset ti'n credu", "3sg_m": "basai fo'n credu", "3sg_f": "basai hi'n credu", "1pl": "basen ni'n credu", "2pl": "basech chi'n credu", "3pl": "basen nhw'n credu" }
+      },
+      "south": {
+        "formal":   { "1sg": "credwn i", "2sg": "credet ti", "3sg_m": "credai ef", "3sg_f": "credai hi", "1pl": "credem ni", "2pl": "credech chi", "3pl": "credent hwy" },
+        "informal": { "1sg": "byddwn i'n credu", "2sg": "byddet ti'n credu", "3sg_m": "byddai fe'n credu", "3sg_f": "byddai hi'n credu", "1pl": "bydden ni'n credu", "2pl": "byddech chi'n credu", "3pl": "bydden nhw'n credu" }
+      }
+    }
+  }
+}

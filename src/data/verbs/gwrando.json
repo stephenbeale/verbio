@@ -1,0 +1,66 @@
+{
+  "id": "gwrando",
+  "infinitive": "gwrando",
+  "meaning": "to listen",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: gwrand-. Takes 'ar' when used with an object: 'gwrando ar y radio' (listening to the radio).",
+  "mutations": { "soft": "wrando", "nasal": "ngwrando", "aspirate": null },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "gwrandawaf i", "2sg": "gwrandewi di", "3sg_m": "gwrendy ef", "3sg_f": "gwrendy hi", "1pl": "gwrandawn ni", "2pl": "gwrandewch chi", "3pl": "gwrandawant hwy" },
+        "informal": { "1sg": "dw i'n gwrando", "2sg": "ti'n gwrando", "3sg_m": "mae o'n gwrando", "3sg_f": "mae hi'n gwrando", "1pl": "dan ni'n gwrando", "2pl": "dach chi'n gwrando", "3pl": "maen nhw'n gwrando" }
+      },
+      "south": {
+        "formal":   { "1sg": "gwrandawaf i", "2sg": "gwrandewi di", "3sg_m": "gwrendy ef", "3sg_f": "gwrendy hi", "1pl": "gwrandawn ni", "2pl": "gwrandewch chi", "3pl": "gwrandawant hwy" },
+        "informal": { "1sg": "dw i'n gwrando", "2sg": "rwyt ti'n gwrando", "3sg_m": "mae e'n gwrando", "3sg_f": "mae hi'n gwrando", "1pl": "r'yn ni'n gwrando", "2pl": "r'ych chi'n gwrando", "3pl": "maen nhw'n gwrando" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "gwrandawais i", "2sg": "gwrandawaist ti", "3sg_m": "gwrandawodd ef", "3sg_f": "gwrandawodd hi", "1pl": "gwrandawom ni", "2pl": "gwrandawoch chi", "3pl": "gwrandawont hwy" },
+        "informal": { "1sg": "gwrandewais i / nes i wrando", "2sg": "gwrandawaist ti", "3sg_m": "gwrandawodd o", "3sg_f": "gwrandawodd hi", "1pl": "gwrandawon ni", "2pl": "gwrandawoch chi", "3pl": "gwrandawon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "gwrandawais i", "2sg": "gwrandawaist ti", "3sg_m": "gwrandawodd ef", "3sg_f": "gwrandawodd hi", "1pl": "gwrandawom ni", "2pl": "gwrandawoch chi", "3pl": "gwrandawont hwy" },
+        "informal": { "1sg": "gwrandewes i / nethes i wrando", "2sg": "gwrandewst ti", "3sg_m": "gwrandawodd e", "3sg_f": "gwrandawodd hi", "1pl": "gwrandawon ni", "2pl": "gwrandawoch chi", "3pl": "gwrandawon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "gwrandawn i", "2sg": "gwrandewet ti", "3sg_m": "gwrandawai ef", "3sg_f": "gwrandawai hi", "1pl": "gwrandawem ni", "2pl": "gwrandawech chi", "3pl": "gwrandawent hwy" },
+        "informal": { "1sg": "ro'n i'n gwrando", "2sg": "ro't ti'n gwrando", "3sg_m": "roedd o'n gwrando", "3sg_f": "roedd hi'n gwrando", "1pl": "roedden ni'n gwrando", "2pl": "roeddech chi'n gwrando", "3pl": "roedden nhw'n gwrando" }
+      },
+      "south": {
+        "formal":   { "1sg": "gwrandawn i", "2sg": "gwrandewet ti", "3sg_m": "gwrandawai ef", "3sg_f": "gwrandawai hi", "1pl": "gwrandawem ni", "2pl": "gwrandawech chi", "3pl": "gwrandawent hwy" },
+        "informal": { "1sg": "ro'n i'n gwrando", "2sg": "ro't ti'n gwrando", "3sg_m": "roedd e'n gwrando", "3sg_f": "roedd hi'n gwrando", "1pl": "roedden ni'n gwrando", "2pl": "roeddech chi'n gwrando", "3pl": "roedden nhw'n gwrando" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "gwrandawaf i", "2sg": "gwrandewi di", "3sg_m": "gwrendy ef", "3sg_f": "gwrendy hi", "1pl": "gwrandawn ni", "2pl": "gwrandewch chi", "3pl": "gwrandawant hwy" },
+        "informal": { "1sg": "bydda i'n gwrando", "2sg": "byddi di'n gwrando", "3sg_m": "bydd o'n gwrando", "3sg_f": "bydd hi'n gwrando", "1pl": "byddwn ni'n gwrando", "2pl": "byddwch chi'n gwrando", "3pl": "byddan nhw'n gwrando" }
+      },
+      "south": {
+        "formal":   { "1sg": "gwrandawaf i", "2sg": "gwrandewi di", "3sg_m": "gwrendy ef", "3sg_f": "gwrendy hi", "1pl": "gwrandawn ni", "2pl": "gwrandewch chi", "3pl": "gwrandawant hwy" },
+        "informal": { "1sg": "bydda i'n gwrando", "2sg": "byddi di'n gwrando", "3sg_m": "bydd e'n gwrando", "3sg_f": "bydd hi'n gwrando", "1pl": "byddwn ni'n gwrando", "2pl": "byddwch chi'n gwrando", "3pl": "byddan nhw'n gwrando" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "gwrandawn i", "2sg": "gwrandewet ti", "3sg_m": "gwrandawai ef", "3sg_f": "gwrandawai hi", "1pl": "gwrandawem ni", "2pl": "gwrandawech chi", "3pl": "gwrandawent hwy" },
+        "informal": { "1sg": "baswn i'n gwrando", "2sg": "baset ti'n gwrando", "3sg_m": "basai fo'n gwrando", "3sg_f": "basai hi'n gwrando", "1pl": "basen ni'n gwrando", "2pl": "basech chi'n gwrando", "3pl": "basen nhw'n gwrando" }
+      },
+      "south": {
+        "formal":   { "1sg": "gwrandawn i", "2sg": "gwrandewet ti", "3sg_m": "gwrandawai ef", "3sg_f": "gwrandawai hi", "1pl": "gwrandawem ni", "2pl": "gwrandawech chi", "3pl": "gwrandawent hwy" },
+        "informal": { "1sg": "byddwn i'n gwrando", "2sg": "byddet ti'n gwrando", "3sg_m": "byddai fe'n gwrando", "3sg_f": "byddai hi'n gwrando", "1pl": "bydden ni'n gwrando", "2pl": "byddech chi'n gwrando", "3pl": "bydden nhw'n gwrando" }
+      }
+    }
+  }
+}

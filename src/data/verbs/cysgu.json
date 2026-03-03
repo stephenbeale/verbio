@@ -1,0 +1,66 @@
+{
+  "id": "cysgu",
+  "infinitive": "cysgu",
+  "meaning": "to sleep",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: cysg-. Very common in everyday speech: 'mae hi'n amser cysgu' (it's time to sleep), 'cysgu'n drwm' (to sleep deeply).",
+  "mutations": { "soft": "gysgu", "nasal": "nghysgu", "aspirate": "chysgu" },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "cysgaf i", "2sg": "cysgi di", "3sg_m": "cysga ef", "3sg_f": "cysga hi", "1pl": "cysgwn ni", "2pl": "cysgwch chi", "3pl": "cysgant hwy" },
+        "informal": { "1sg": "dw i'n cysgu", "2sg": "ti'n cysgu", "3sg_m": "mae o'n cysgu", "3sg_f": "mae hi'n cysgu", "1pl": "dan ni'n cysgu", "2pl": "dach chi'n cysgu", "3pl": "maen nhw'n cysgu" }
+      },
+      "south": {
+        "formal":   { "1sg": "cysgaf i", "2sg": "cysgi di", "3sg_m": "cysga ef", "3sg_f": "cysga hi", "1pl": "cysgwn ni", "2pl": "cysgwch chi", "3pl": "cysgant hwy" },
+        "informal": { "1sg": "dw i'n cysgu", "2sg": "rwyt ti'n cysgu", "3sg_m": "mae e'n cysgu", "3sg_f": "mae hi'n cysgu", "1pl": "r'yn ni'n cysgu", "2pl": "r'ych chi'n cysgu", "3pl": "maen nhw'n cysgu" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "cysgais i", "2sg": "cysgaist ti", "3sg_m": "cysgodd ef", "3sg_f": "cysgodd hi", "1pl": "cysgom ni", "2pl": "cysgoch chi", "3pl": "cysgont hwy" },
+        "informal": { "1sg": "cysgais i", "2sg": "cysgaist ti", "3sg_m": "cysgodd o", "3sg_f": "cysgodd hi", "1pl": "cysgon ni", "2pl": "cysgoch chi", "3pl": "cysgon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "cysgais i", "2sg": "cysgaist ti", "3sg_m": "cysgodd ef", "3sg_f": "cysgodd hi", "1pl": "cysgom ni", "2pl": "cysgoch chi", "3pl": "cysgont hwy" },
+        "informal": { "1sg": "cysges i", "2sg": "cysgest ti", "3sg_m": "cysgodd e", "3sg_f": "cysgodd hi", "1pl": "cysgon ni", "2pl": "cysgoch chi", "3pl": "cysgon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "cysgwn i", "2sg": "cysget ti", "3sg_m": "cysgai ef", "3sg_f": "cysgai hi", "1pl": "cysgem ni", "2pl": "cysgech chi", "3pl": "cysgent hwy" },
+        "informal": { "1sg": "ro'n i'n cysgu", "2sg": "ro't ti'n cysgu", "3sg_m": "roedd o'n cysgu", "3sg_f": "roedd hi'n cysgu", "1pl": "roedden ni'n cysgu", "2pl": "roeddech chi'n cysgu", "3pl": "roedden nhw'n cysgu" }
+      },
+      "south": {
+        "formal":   { "1sg": "cysgwn i", "2sg": "cysget ti", "3sg_m": "cysgai ef", "3sg_f": "cysgai hi", "1pl": "cysgem ni", "2pl": "cysgech chi", "3pl": "cysgent hwy" },
+        "informal": { "1sg": "ro'n i'n cysgu", "2sg": "ro't ti'n cysgu", "3sg_m": "roedd e'n cysgu", "3sg_f": "roedd hi'n cysgu", "1pl": "roedden ni'n cysgu", "2pl": "roeddech chi'n cysgu", "3pl": "roedden nhw'n cysgu" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "cysgaf i", "2sg": "cysgi di", "3sg_m": "cysga ef", "3sg_f": "cysga hi", "1pl": "cysgwn ni", "2pl": "cysgwch chi", "3pl": "cysgant hwy" },
+        "informal": { "1sg": "bydda i'n cysgu", "2sg": "byddi di'n cysgu", "3sg_m": "bydd o'n cysgu", "3sg_f": "bydd hi'n cysgu", "1pl": "byddwn ni'n cysgu", "2pl": "byddwch chi'n cysgu", "3pl": "byddan nhw'n cysgu" }
+      },
+      "south": {
+        "formal":   { "1sg": "cysgaf i", "2sg": "cysgi di", "3sg_m": "cysga ef", "3sg_f": "cysga hi", "1pl": "cysgwn ni", "2pl": "cysgwch chi", "3pl": "cysgant hwy" },
+        "informal": { "1sg": "bydda i'n cysgu", "2sg": "byddi di'n cysgu", "3sg_m": "bydd e'n cysgu", "3sg_f": "bydd hi'n cysgu", "1pl": "byddwn ni'n cysgu", "2pl": "byddwch chi'n cysgu", "3pl": "byddan nhw'n cysgu" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "cysgwn i", "2sg": "cysget ti", "3sg_m": "cysgai ef", "3sg_f": "cysgai hi", "1pl": "cysgem ni", "2pl": "cysgech chi", "3pl": "cysgent hwy" },
+        "informal": { "1sg": "baswn i'n cysgu", "2sg": "baset ti'n cysgu", "3sg_m": "basai fo'n cysgu", "3sg_f": "basai hi'n cysgu", "1pl": "basen ni'n cysgu", "2pl": "basech chi'n cysgu", "3pl": "basen nhw'n cysgu" }
+      },
+      "south": {
+        "formal":   { "1sg": "cysgwn i", "2sg": "cysget ti", "3sg_m": "cysgai ef", "3sg_f": "cysgai hi", "1pl": "cysgem ni", "2pl": "cysgech chi", "3pl": "cysgent hwy" },
+        "informal": { "1sg": "byddwn i'n cysgu", "2sg": "byddet ti'n cysgu", "3sg_m": "byddai fe'n cysgu", "3sg_f": "byddai hi'n cysgu", "1pl": "bydden ni'n cysgu", "2pl": "byddech chi'n cysgu", "3pl": "bydden nhw'n cysgu" }
+      }
+    }
+  }
+}

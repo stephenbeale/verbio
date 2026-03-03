@@ -1,0 +1,66 @@
+{
+  "id": "gweithio",
+  "infinitive": "gweithio",
+  "meaning": "to work",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: gweith-. Used both for working (employment) and for things working/functioning: 'dyw'r car ddim yn gweithio' (the car isn't working).",
+  "mutations": { "soft": "weithio", "nasal": "ngweithio", "aspirate": null },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "gweithiaf i", "2sg": "gweithia di", "3sg_m": "gwEithia ef", "3sg_f": "gweithia hi", "1pl": "gweithiwn ni", "2pl": "gweithiwch chi", "3pl": "gweithiant hwy" },
+        "informal": { "1sg": "dw i'n gweithio", "2sg": "ti'n gweithio", "3sg_m": "mae o'n gweithio", "3sg_f": "mae hi'n gweithio", "1pl": "dan ni'n gweithio", "2pl": "dach chi'n gweithio", "3pl": "maen nhw'n gweithio" }
+      },
+      "south": {
+        "formal":   { "1sg": "gweithiaf i", "2sg": "gweithia di", "3sg_m": "gwEithia ef", "3sg_f": "gweithia hi", "1pl": "gweithiwn ni", "2pl": "gweithiwch chi", "3pl": "gweithiant hwy" },
+        "informal": { "1sg": "dw i'n gweithio", "2sg": "rwyt ti'n gweithio", "3sg_m": "mae e'n gweithio", "3sg_f": "mae hi'n gweithio", "1pl": "r'yn ni'n gweithio", "2pl": "r'ych chi'n gweithio", "3pl": "maen nhw'n gweithio" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "gweithiais i", "2sg": "gweithiaist ti", "3sg_m": "gweithiodd ef", "3sg_f": "gweithiodd hi", "1pl": "gweithiom ni", "2pl": "gweithioch chi", "3pl": "gweithiont hwy" },
+        "informal": { "1sg": "gweithiais i", "2sg": "gweithiaist ti", "3sg_m": "gweithiodd o", "3sg_f": "gweithiodd hi", "1pl": "gweithion ni", "2pl": "gweithioch chi", "3pl": "gweithion nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "gweithiais i", "2sg": "gweithiaist ti", "3sg_m": "gweithiodd ef", "3sg_f": "gweithiodd hi", "1pl": "gweithiom ni", "2pl": "gweithioch chi", "3pl": "gweithiont hwy" },
+        "informal": { "1sg": "gweithies i", "2sg": "gweithiest ti", "3sg_m": "gweithiodd e", "3sg_f": "gweithiodd hi", "1pl": "gweithion ni", "2pl": "gweithioch chi", "3pl": "gweithion nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "gweithiwn i", "2sg": "gweithiet ti", "3sg_m": "gweithiai ef", "3sg_f": "gweithiai hi", "1pl": "gweithiem ni", "2pl": "gweithiech chi", "3pl": "gweithient hwy" },
+        "informal": { "1sg": "ro'n i'n gweithio", "2sg": "ro't ti'n gweithio", "3sg_m": "roedd o'n gweithio", "3sg_f": "roedd hi'n gweithio", "1pl": "roedden ni'n gweithio", "2pl": "roeddech chi'n gweithio", "3pl": "roedden nhw'n gweithio" }
+      },
+      "south": {
+        "formal":   { "1sg": "gweithiwn i", "2sg": "gweithiet ti", "3sg_m": "gweithiai ef", "3sg_f": "gweithiai hi", "1pl": "gweithiem ni", "2pl": "gweithiech chi", "3pl": "gweithient hwy" },
+        "informal": { "1sg": "ro'n i'n gweithio", "2sg": "ro't ti'n gweithio", "3sg_m": "roedd e'n gweithio", "3sg_f": "roedd hi'n gweithio", "1pl": "roedden ni'n gweithio", "2pl": "roeddech chi'n gweithio", "3pl": "roedden nhw'n gweithio" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "gweithiaf i", "2sg": "gweithia di", "3sg_m": "gwEithia ef", "3sg_f": "gweithia hi", "1pl": "gweithiwn ni", "2pl": "gweithiwch chi", "3pl": "gweithiant hwy" },
+        "informal": { "1sg": "bydda i'n gweithio", "2sg": "byddi di'n gweithio", "3sg_m": "bydd o'n gweithio", "3sg_f": "bydd hi'n gweithio", "1pl": "byddwn ni'n gweithio", "2pl": "byddwch chi'n gweithio", "3pl": "byddan nhw'n gweithio" }
+      },
+      "south": {
+        "formal":   { "1sg": "gweithiaf i", "2sg": "gweithia di", "3sg_m": "gwEithia ef", "3sg_f": "gweithia hi", "1pl": "gweithiwn ni", "2pl": "gweithiwch chi", "3pl": "gweithiant hwy" },
+        "informal": { "1sg": "bydda i'n gweithio", "2sg": "byddi di'n gweithio", "3sg_m": "bydd e'n gweithio", "3sg_f": "bydd hi'n gweithio", "1pl": "byddwn ni'n gweithio", "2pl": "byddwch chi'n gweithio", "3pl": "byddan nhw'n gweithio" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "gweithiwn i", "2sg": "gweithiet ti", "3sg_m": "gweithiai ef", "3sg_f": "gweithiai hi", "1pl": "gweithiem ni", "2pl": "gweithiech chi", "3pl": "gweithient hwy" },
+        "informal": { "1sg": "baswn i'n gweithio", "2sg": "baset ti'n gweithio", "3sg_m": "basai fo'n gweithio", "3sg_f": "basai hi'n gweithio", "1pl": "basen ni'n gweithio", "2pl": "basech chi'n gweithio", "3pl": "basen nhw'n gweithio" }
+      },
+      "south": {
+        "formal":   { "1sg": "gweithiwn i", "2sg": "gweithiet ti", "3sg_m": "gweithiai ef", "3sg_f": "gweithiai hi", "1pl": "gweithiem ni", "2pl": "gweithiech chi", "3pl": "gweithient hwy" },
+        "informal": { "1sg": "byddwn i'n gweithio", "2sg": "byddet ti'n gweithio", "3sg_m": "byddai fe'n gweithio", "3sg_f": "byddai hi'n gweithio", "1pl": "bydden ni'n gweithio", "2pl": "byddech chi'n gweithio", "3pl": "bydden nhw'n gweithio" }
+      }
+    }
+  }
+}

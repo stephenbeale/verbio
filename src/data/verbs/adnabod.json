@@ -1,0 +1,66 @@
+{
+  "id": "adnabod",
+  "infinitive": "adnabod",
+  "meaning": "to know (a person or place)",
+  "type": "irregular",
+  "tags": ["common"],
+  "notes": "Irregular verb. Stem: adnabydd-. Used for knowing people and familiar places, in contrast to 'gwybod' (knowing facts). The past tense uses a different stem: adnabu-.",
+  "mutations": { "soft": "adnabod", "nasal": "adnabod", "aspirate": "adnabod" },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "adnabyddaf i", "2sg": "adnabyddi di", "3sg_m": "adnabydd ef", "3sg_f": "adnabydd hi", "1pl": "adnabyddwn ni", "2pl": "adnabyddwch chi", "3pl": "adnabyddant hwy" },
+        "informal": { "1sg": "dw i'n nabod", "2sg": "ti'n nabod", "3sg_m": "mae o'n nabod", "3sg_f": "mae hi'n nabod", "1pl": "dan ni'n nabod", "2pl": "dach chi'n nabod", "3pl": "maen nhw'n nabod" }
+      },
+      "south": {
+        "formal":   { "1sg": "adnabyddaf i", "2sg": "adnabyddi di", "3sg_m": "adnabydd ef", "3sg_f": "adnabydd hi", "1pl": "adnabyddwn ni", "2pl": "adnabyddwch chi", "3pl": "adnabyddant hwy" },
+        "informal": { "1sg": "dw i'n nabod", "2sg": "rwyt ti'n nabod", "3sg_m": "mae e'n nabod", "3sg_f": "mae hi'n nabod", "1pl": "r'yn ni'n nabod", "2pl": "r'ych chi'n nabod", "3pl": "maen nhw'n nabod" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "adnabûm i", "2sg": "adnabuost ti", "3sg_m": "adnabu ef", "3sg_f": "adnabu hi", "1pl": "adnabuom ni", "2pl": "adnabuoch chi", "3pl": "adnabûnt hwy" },
+        "informal": { "1sg": "adnabûm i / des i i nabod", "2sg": "adnabuost ti", "3sg_m": "adnabu o", "3sg_f": "adnabu hi", "1pl": "adnabuon ni", "2pl": "adnabuoch chi", "3pl": "adnabuon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "adnabûm i", "2sg": "adnabuost ti", "3sg_m": "adnabu ef", "3sg_f": "adnabu hi", "1pl": "adnabuom ni", "2pl": "adnabuoch chi", "3pl": "adnabûnt hwy" },
+        "informal": { "1sg": "adnabûm i / des i i nabod", "2sg": "adnabuost ti", "3sg_m": "adnabu e", "3sg_f": "adnabu hi", "1pl": "adnabuon ni", "2pl": "adnabuoch chi", "3pl": "adnabuon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "adnabyddwn i", "2sg": "adnabyddet ti", "3sg_m": "adnabyddai ef", "3sg_f": "adnabyddai hi", "1pl": "adnabyddem ni", "2pl": "adnabyddech chi", "3pl": "adnabyddent hwy" },
+        "informal": { "1sg": "ro'n i'n nabod", "2sg": "ro't ti'n nabod", "3sg_m": "roedd o'n nabod", "3sg_f": "roedd hi'n nabod", "1pl": "roedden ni'n nabod", "2pl": "roeddech chi'n nabod", "3pl": "roedden nhw'n nabod" }
+      },
+      "south": {
+        "formal":   { "1sg": "adnabyddwn i", "2sg": "adnabyddet ti", "3sg_m": "adnabyddai ef", "3sg_f": "adnabyddai hi", "1pl": "adnabyddem ni", "2pl": "adnabyddech chi", "3pl": "adnabyddent hwy" },
+        "informal": { "1sg": "ro'n i'n nabod", "2sg": "ro't ti'n nabod", "3sg_m": "roedd e'n nabod", "3sg_f": "roedd hi'n nabod", "1pl": "roedden ni'n nabod", "2pl": "roeddech chi'n nabod", "3pl": "roedden nhw'n nabod" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "adnabyddaf i", "2sg": "adnabyddi di", "3sg_m": "adnabydd ef", "3sg_f": "adnabydd hi", "1pl": "adnabyddwn ni", "2pl": "adnabyddwch chi", "3pl": "adnabyddant hwy" },
+        "informal": { "1sg": "bydda i'n nabod", "2sg": "byddi di'n nabod", "3sg_m": "bydd o'n nabod", "3sg_f": "bydd hi'n nabod", "1pl": "byddwn ni'n nabod", "2pl": "byddwch chi'n nabod", "3pl": "byddan nhw'n nabod" }
+      },
+      "south": {
+        "formal":   { "1sg": "adnabyddaf i", "2sg": "adnabyddi di", "3sg_m": "adnabydd ef", "3sg_f": "adnabydd hi", "1pl": "adnabyddwn ni", "2pl": "adnabyddwch chi", "3pl": "adnabyddant hwy" },
+        "informal": { "1sg": "bydda i'n nabod", "2sg": "byddi di'n nabod", "3sg_m": "bydd e'n nabod", "3sg_f": "bydd hi'n nabod", "1pl": "byddwn ni'n nabod", "2pl": "byddwch chi'n nabod", "3pl": "byddan nhw'n nabod" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "adnabyddwn i", "2sg": "adnabyddet ti", "3sg_m": "adnabyddai ef", "3sg_f": "adnabyddai hi", "1pl": "adnabyddem ni", "2pl": "adnabyddech chi", "3pl": "adnabyddent hwy" },
+        "informal": { "1sg": "baswn i'n nabod", "2sg": "baset ti'n nabod", "3sg_m": "basai fo'n nabod", "3sg_f": "basai hi'n nabod", "1pl": "basen ni'n nabod", "2pl": "basech chi'n nabod", "3pl": "basen nhw'n nabod" }
+      },
+      "south": {
+        "formal":   { "1sg": "adnabyddwn i", "2sg": "adnabyddet ti", "3sg_m": "adnabyddai ef", "3sg_f": "adnabyddai hi", "1pl": "adnabyddem ni", "2pl": "adnabyddech chi", "3pl": "adnabyddent hwy" },
+        "informal": { "1sg": "byddwn i'n nabod", "2sg": "byddet ti'n nabod", "3sg_m": "byddai fe'n nabod", "3sg_f": "byddai hi'n nabod", "1pl": "bydden ni'n nabod", "2pl": "byddech chi'n nabod", "3pl": "bydden nhw'n nabod" }
+      }
+    }
+  }
+}

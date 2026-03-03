@@ -1,0 +1,66 @@
+{
+  "id": "byw",
+  "infinitive": "byw",
+  "meaning": "to live",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: byw-. Used for living in a place ('byw yn Aberystwyth') or living as in being alive. 'Byw' also serves as an adjective meaning 'alive'.",
+  "mutations": { "soft": "fyw", "nasal": "myw", "aspirate": null },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "bywaf i", "2sg": "bywi di", "3sg_m": "byw ef", "3sg_f": "byw hi", "1pl": "bywn ni", "2pl": "bywch chi", "3pl": "bywant hwy" },
+        "informal": { "1sg": "dw i'n byw", "2sg": "ti'n byw", "3sg_m": "mae o'n byw", "3sg_f": "mae hi'n byw", "1pl": "dan ni'n byw", "2pl": "dach chi'n byw", "3pl": "maen nhw'n byw" }
+      },
+      "south": {
+        "formal":   { "1sg": "bywaf i", "2sg": "bywi di", "3sg_m": "byw ef", "3sg_f": "byw hi", "1pl": "bywn ni", "2pl": "bywch chi", "3pl": "bywant hwy" },
+        "informal": { "1sg": "dw i'n byw", "2sg": "rwyt ti'n byw", "3sg_m": "mae e'n byw", "3sg_f": "mae hi'n byw", "1pl": "r'yn ni'n byw", "2pl": "r'ych chi'n byw", "3pl": "maen nhw'n byw" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "bywais i", "2sg": "bywaist ti", "3sg_m": "bywodd ef", "3sg_f": "bywodd hi", "1pl": "bywom ni", "2pl": "bywoch chi", "3pl": "bywont hwy" },
+        "informal": { "1sg": "bywais i", "2sg": "bywaist ti", "3sg_m": "bywodd o", "3sg_f": "bywodd hi", "1pl": "bywon ni", "2pl": "bywoch chi", "3pl": "bywon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "bywais i", "2sg": "bywaist ti", "3sg_m": "bywodd ef", "3sg_f": "bywodd hi", "1pl": "bywom ni", "2pl": "bywoch chi", "3pl": "bywont hwy" },
+        "informal": { "1sg": "bywes i", "2sg": "bywest ti", "3sg_m": "bywodd e", "3sg_f": "bywodd hi", "1pl": "bywon ni", "2pl": "bywoch chi", "3pl": "bywon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "bywn i", "2sg": "bywet ti", "3sg_m": "bywai ef", "3sg_f": "bywai hi", "1pl": "bywem ni", "2pl": "bywech chi", "3pl": "bywent hwy" },
+        "informal": { "1sg": "ro'n i'n byw", "2sg": "ro't ti'n byw", "3sg_m": "roedd o'n byw", "3sg_f": "roedd hi'n byw", "1pl": "roedden ni'n byw", "2pl": "roeddech chi'n byw", "3pl": "roedden nhw'n byw" }
+      },
+      "south": {
+        "formal":   { "1sg": "bywn i", "2sg": "bywet ti", "3sg_m": "bywai ef", "3sg_f": "bywai hi", "1pl": "bywem ni", "2pl": "bywech chi", "3pl": "bywent hwy" },
+        "informal": { "1sg": "ro'n i'n byw", "2sg": "ro't ti'n byw", "3sg_m": "roedd e'n byw", "3sg_f": "roedd hi'n byw", "1pl": "roedden ni'n byw", "2pl": "roeddech chi'n byw", "3pl": "roedden nhw'n byw" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "bywaf i", "2sg": "bywi di", "3sg_m": "byw ef", "3sg_f": "byw hi", "1pl": "bywn ni", "2pl": "bywch chi", "3pl": "bywant hwy" },
+        "informal": { "1sg": "bydda i'n byw", "2sg": "byddi di'n byw", "3sg_m": "bydd o'n byw", "3sg_f": "bydd hi'n byw", "1pl": "byddwn ni'n byw", "2pl": "byddwch chi'n byw", "3pl": "byddan nhw'n byw" }
+      },
+      "south": {
+        "formal":   { "1sg": "bywaf i", "2sg": "bywi di", "3sg_m": "byw ef", "3sg_f": "byw hi", "1pl": "bywn ni", "2pl": "bywch chi", "3pl": "bywant hwy" },
+        "informal": { "1sg": "bydda i'n byw", "2sg": "byddi di'n byw", "3sg_m": "bydd e'n byw", "3sg_f": "bydd hi'n byw", "1pl": "byddwn ni'n byw", "2pl": "byddwch chi'n byw", "3pl": "byddan nhw'n byw" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "bywn i", "2sg": "bywet ti", "3sg_m": "bywai ef", "3sg_f": "bywai hi", "1pl": "bywem ni", "2pl": "bywech chi", "3pl": "bywent hwy" },
+        "informal": { "1sg": "baswn i'n byw", "2sg": "baset ti'n byw", "3sg_m": "basai fo'n byw", "3sg_f": "basai hi'n byw", "1pl": "basen ni'n byw", "2pl": "basech chi'n byw", "3pl": "basen nhw'n byw" }
+      },
+      "south": {
+        "formal":   { "1sg": "bywn i", "2sg": "bywet ti", "3sg_m": "bywai ef", "3sg_f": "bywai hi", "1pl": "bywem ni", "2pl": "bywech chi", "3pl": "bywent hwy" },
+        "informal": { "1sg": "byddwn i'n byw", "2sg": "byddet ti'n byw", "3sg_m": "byddai fe'n byw", "3sg_f": "byddai hi'n byw", "1pl": "bydden ni'n byw", "2pl": "byddech chi'n byw", "3pl": "bydden nhw'n byw" }
+      }
+    }
+  }
+}

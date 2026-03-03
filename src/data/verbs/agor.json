@@ -1,0 +1,66 @@
+{
+  "id": "agor",
+  "infinitive": "agor",
+  "meaning": "to open",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: agor-. Used transitively ('agor y drws' — open the door) and intransitively ('mae'r siop yn agor am naw' — the shop opens at nine).",
+  "mutations": { "soft": "agor", "nasal": "agor", "aspirate": "agor" },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "agoraf i", "2sg": "agori di", "3sg_m": "agor ef", "3sg_f": "agor hi", "1pl": "agorwn ni", "2pl": "agorwch chi", "3pl": "agorant hwy" },
+        "informal": { "1sg": "dw i'n agor", "2sg": "ti'n agor", "3sg_m": "mae o'n agor", "3sg_f": "mae hi'n agor", "1pl": "dan ni'n agor", "2pl": "dach chi'n agor", "3pl": "maen nhw'n agor" }
+      },
+      "south": {
+        "formal":   { "1sg": "agoraf i", "2sg": "agori di", "3sg_m": "agor ef", "3sg_f": "agor hi", "1pl": "agorwn ni", "2pl": "agorwch chi", "3pl": "agorant hwy" },
+        "informal": { "1sg": "dw i'n agor", "2sg": "rwyt ti'n agor", "3sg_m": "mae e'n agor", "3sg_f": "mae hi'n agor", "1pl": "r'yn ni'n agor", "2pl": "r'ych chi'n agor", "3pl": "maen nhw'n agor" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "agorais i", "2sg": "agoraist ti", "3sg_m": "agorodd ef", "3sg_f": "agorodd hi", "1pl": "agorom ni", "2pl": "agoroch chi", "3pl": "agoront hwy" },
+        "informal": { "1sg": "agorais i", "2sg": "agoraist ti", "3sg_m": "agorodd o", "3sg_f": "agorodd hi", "1pl": "agoron ni", "2pl": "agoroch chi", "3pl": "agoron nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "agorais i", "2sg": "agoraist ti", "3sg_m": "agorodd ef", "3sg_f": "agorodd hi", "1pl": "agorom ni", "2pl": "agoroch chi", "3pl": "agoront hwy" },
+        "informal": { "1sg": "agores i", "2sg": "agorest ti", "3sg_m": "agorodd e", "3sg_f": "agorodd hi", "1pl": "agoron ni", "2pl": "agoroch chi", "3pl": "agoron nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "agorwn i", "2sg": "agoret ti", "3sg_m": "agorai ef", "3sg_f": "agorai hi", "1pl": "agorem ni", "2pl": "agorech chi", "3pl": "agorent hwy" },
+        "informal": { "1sg": "ro'n i'n agor", "2sg": "ro't ti'n agor", "3sg_m": "roedd o'n agor", "3sg_f": "roedd hi'n agor", "1pl": "roedden ni'n agor", "2pl": "roeddech chi'n agor", "3pl": "roedden nhw'n agor" }
+      },
+      "south": {
+        "formal":   { "1sg": "agorwn i", "2sg": "agoret ti", "3sg_m": "agorai ef", "3sg_f": "agorai hi", "1pl": "agorem ni", "2pl": "agorech chi", "3pl": "agorent hwy" },
+        "informal": { "1sg": "ro'n i'n agor", "2sg": "ro't ti'n agor", "3sg_m": "roedd e'n agor", "3sg_f": "roedd hi'n agor", "1pl": "roedden ni'n agor", "2pl": "roeddech chi'n agor", "3pl": "roedden nhw'n agor" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "agoraf i", "2sg": "agori di", "3sg_m": "agor ef", "3sg_f": "agor hi", "1pl": "agorwn ni", "2pl": "agorwch chi", "3pl": "agorant hwy" },
+        "informal": { "1sg": "bydda i'n agor", "2sg": "byddi di'n agor", "3sg_m": "bydd o'n agor", "3sg_f": "bydd hi'n agor", "1pl": "byddwn ni'n agor", "2pl": "byddwch chi'n agor", "3pl": "byddan nhw'n agor" }
+      },
+      "south": {
+        "formal":   { "1sg": "agoraf i", "2sg": "agori di", "3sg_m": "agor ef", "3sg_f": "agor hi", "1pl": "agorwn ni", "2pl": "agorwch chi", "3pl": "agorant hwy" },
+        "informal": { "1sg": "bydda i'n agor", "2sg": "byddi di'n agor", "3sg_m": "bydd e'n agor", "3sg_f": "bydd hi'n agor", "1pl": "byddwn ni'n agor", "2pl": "byddwch chi'n agor", "3pl": "byddan nhw'n agor" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "agorwn i", "2sg": "agoret ti", "3sg_m": "agorai ef", "3sg_f": "agorai hi", "1pl": "agorem ni", "2pl": "agorech chi", "3pl": "agorent hwy" },
+        "informal": { "1sg": "baswn i'n agor", "2sg": "baset ti'n agor", "3sg_m": "basai fo'n agor", "3sg_f": "basai hi'n agor", "1pl": "basen ni'n agor", "2pl": "basech chi'n agor", "3pl": "basen nhw'n agor" }
+      },
+      "south": {
+        "formal":   { "1sg": "agorwn i", "2sg": "agoret ti", "3sg_m": "agorai ef", "3sg_f": "agorai hi", "1pl": "agorem ni", "2pl": "agorech chi", "3pl": "agorent hwy" },
+        "informal": { "1sg": "byddwn i'n agor", "2sg": "byddet ti'n agor", "3sg_m": "byddai fe'n agor", "3sg_f": "byddai hi'n agor", "1pl": "bydden ni'n agor", "2pl": "byddech chi'n agor", "3pl": "bydden nhw'n agor" }
+      }
+    }
+  }
+}

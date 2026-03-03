@@ -1,0 +1,66 @@
+{
+  "id": "cofio",
+  "infinitive": "cofio",
+  "meaning": "to remember",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: cofi-. The counterpart to 'anghofio'. Used with 'am' for remembering about someone/something: 'cofio am yr hen ddyddiau' (remembering the old days).",
+  "mutations": { "soft": "gofio", "nasal": "ngofio", "aspirate": "chofio" },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "cofiaf i", "2sg": "cofi di", "3sg_m": "cofia ef", "3sg_f": "cofia hi", "1pl": "cofiwn ni", "2pl": "cofiwch chi", "3pl": "cofiant hwy" },
+        "informal": { "1sg": "dw i'n cofio", "2sg": "ti'n cofio", "3sg_m": "mae o'n cofio", "3sg_f": "mae hi'n cofio", "1pl": "dan ni'n cofio", "2pl": "dach chi'n cofio", "3pl": "maen nhw'n cofio" }
+      },
+      "south": {
+        "formal":   { "1sg": "cofiaf i", "2sg": "cofi di", "3sg_m": "cofia ef", "3sg_f": "cofia hi", "1pl": "cofiwn ni", "2pl": "cofiwch chi", "3pl": "cofiant hwy" },
+        "informal": { "1sg": "dw i'n cofio", "2sg": "rwyt ti'n cofio", "3sg_m": "mae e'n cofio", "3sg_f": "mae hi'n cofio", "1pl": "r'yn ni'n cofio", "2pl": "r'ych chi'n cofio", "3pl": "maen nhw'n cofio" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "cofiais i", "2sg": "cofiaist ti", "3sg_m": "cofiodd ef", "3sg_f": "cofiodd hi", "1pl": "cofiom ni", "2pl": "cofioch chi", "3pl": "cofiont hwy" },
+        "informal": { "1sg": "cofiais i", "2sg": "cofiaist ti", "3sg_m": "cofiodd o", "3sg_f": "cofiodd hi", "1pl": "cofion ni", "2pl": "cofioch chi", "3pl": "cofion nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "cofiais i", "2sg": "cofiaist ti", "3sg_m": "cofiodd ef", "3sg_f": "cofiodd hi", "1pl": "cofiom ni", "2pl": "cofioch chi", "3pl": "cofiont hwy" },
+        "informal": { "1sg": "cofies i", "2sg": "cofiest ti", "3sg_m": "cofiodd e", "3sg_f": "cofiodd hi", "1pl": "cofion ni", "2pl": "cofioch chi", "3pl": "cofion nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "cofiwn i", "2sg": "cofiet ti", "3sg_m": "cofiai ef", "3sg_f": "cofiai hi", "1pl": "cofiem ni", "2pl": "cofiech chi", "3pl": "cofient hwy" },
+        "informal": { "1sg": "ro'n i'n cofio", "2sg": "ro't ti'n cofio", "3sg_m": "roedd o'n cofio", "3sg_f": "roedd hi'n cofio", "1pl": "roedden ni'n cofio", "2pl": "roeddech chi'n cofio", "3pl": "roedden nhw'n cofio" }
+      },
+      "south": {
+        "formal":   { "1sg": "cofiwn i", "2sg": "cofiet ti", "3sg_m": "cofiai ef", "3sg_f": "cofiai hi", "1pl": "cofiem ni", "2pl": "cofiech chi", "3pl": "cofient hwy" },
+        "informal": { "1sg": "ro'n i'n cofio", "2sg": "ro't ti'n cofio", "3sg_m": "roedd e'n cofio", "3sg_f": "roedd hi'n cofio", "1pl": "roedden ni'n cofio", "2pl": "roeddech chi'n cofio", "3pl": "roedden nhw'n cofio" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "cofiaf i", "2sg": "cofi di", "3sg_m": "cofia ef", "3sg_f": "cofia hi", "1pl": "cofiwn ni", "2pl": "cofiwch chi", "3pl": "cofiant hwy" },
+        "informal": { "1sg": "bydda i'n cofio", "2sg": "byddi di'n cofio", "3sg_m": "bydd o'n cofio", "3sg_f": "bydd hi'n cofio", "1pl": "byddwn ni'n cofio", "2pl": "byddwch chi'n cofio", "3pl": "byddan nhw'n cofio" }
+      },
+      "south": {
+        "formal":   { "1sg": "cofiaf i", "2sg": "cofi di", "3sg_m": "cofia ef", "3sg_f": "cofia hi", "1pl": "cofiwn ni", "2pl": "cofiwch chi", "3pl": "cofiant hwy" },
+        "informal": { "1sg": "bydda i'n cofio", "2sg": "byddi di'n cofio", "3sg_m": "bydd e'n cofio", "3sg_f": "bydd hi'n cofio", "1pl": "byddwn ni'n cofio", "2pl": "byddwch chi'n cofio", "3pl": "byddan nhw'n cofio" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "cofiwn i", "2sg": "cofiet ti", "3sg_m": "cofiai ef", "3sg_f": "cofiai hi", "1pl": "cofiem ni", "2pl": "cofiech chi", "3pl": "cofient hwy" },
+        "informal": { "1sg": "baswn i'n cofio", "2sg": "baset ti'n cofio", "3sg_m": "basai fo'n cofio", "3sg_f": "basai hi'n cofio", "1pl": "basen ni'n cofio", "2pl": "basech chi'n cofio", "3pl": "basen nhw'n cofio" }
+      },
+      "south": {
+        "formal":   { "1sg": "cofiwn i", "2sg": "cofiet ti", "3sg_m": "cofiai ef", "3sg_f": "cofiai hi", "1pl": "cofiem ni", "2pl": "cofiech chi", "3pl": "cofient hwy" },
+        "informal": { "1sg": "byddwn i'n cofio", "2sg": "byddet ti'n cofio", "3sg_m": "byddai fe'n cofio", "3sg_f": "byddai hi'n cofio", "1pl": "bydden ni'n cofio", "2pl": "byddech chi'n cofio", "3pl": "bydden nhw'n cofio" }
+      }
+    }
+  }
+}

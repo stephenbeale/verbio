@@ -1,0 +1,66 @@
+{
+  "id": "tyfu",
+  "infinitive": "tyfu",
+  "meaning": "to grow",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: tyf-. Used for growing (plants, people, things): 'mae'r plant yn tyfu'n gyflym' (the children are growing quickly), 'tyfu llysiau' (to grow vegetables).",
+  "mutations": { "soft": "dyfu", "nasal": "nyfu", "aspirate": null },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "tyfaf i", "2sg": "tyfi di", "3sg_m": "tyf ef", "3sg_f": "tyf hi", "1pl": "tyfwn ni", "2pl": "tyfwch chi", "3pl": "tyfant hwy" },
+        "informal": { "1sg": "dw i'n tyfu", "2sg": "ti'n tyfu", "3sg_m": "mae o'n tyfu", "3sg_f": "mae hi'n tyfu", "1pl": "dan ni'n tyfu", "2pl": "dach chi'n tyfu", "3pl": "maen nhw'n tyfu" }
+      },
+      "south": {
+        "formal":   { "1sg": "tyfaf i", "2sg": "tyfi di", "3sg_m": "tyf ef", "3sg_f": "tyf hi", "1pl": "tyfwn ni", "2pl": "tyfwch chi", "3pl": "tyfant hwy" },
+        "informal": { "1sg": "dw i'n tyfu", "2sg": "rwyt ti'n tyfu", "3sg_m": "mae e'n tyfu", "3sg_f": "mae hi'n tyfu", "1pl": "r'yn ni'n tyfu", "2pl": "r'ych chi'n tyfu", "3pl": "maen nhw'n tyfu" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "tyfais i", "2sg": "tyfaist ti", "3sg_m": "tyfodd ef", "3sg_f": "tyfodd hi", "1pl": "tyfom ni", "2pl": "tyfoch chi", "3pl": "tyfont hwy" },
+        "informal": { "1sg": "tyfais i", "2sg": "tyfaist ti", "3sg_m": "tyfodd o", "3sg_f": "tyfodd hi", "1pl": "tyfon ni", "2pl": "tyfoch chi", "3pl": "tyfon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "tyfais i", "2sg": "tyfaist ti", "3sg_m": "tyfodd ef", "3sg_f": "tyfodd hi", "1pl": "tyfom ni", "2pl": "tyfoch chi", "3pl": "tyfont hwy" },
+        "informal": { "1sg": "tyfes i", "2sg": "tyfest ti", "3sg_m": "tyfodd e", "3sg_f": "tyfodd hi", "1pl": "tyfon ni", "2pl": "tyfoch chi", "3pl": "tyfon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "tyfwn i", "2sg": "tyfet ti", "3sg_m": "tyfai ef", "3sg_f": "tyfai hi", "1pl": "tyfem ni", "2pl": "tyfech chi", "3pl": "tyfent hwy" },
+        "informal": { "1sg": "ro'n i'n tyfu", "2sg": "ro't ti'n tyfu", "3sg_m": "roedd o'n tyfu", "3sg_f": "roedd hi'n tyfu", "1pl": "roedden ni'n tyfu", "2pl": "roeddech chi'n tyfu", "3pl": "roedden nhw'n tyfu" }
+      },
+      "south": {
+        "formal":   { "1sg": "tyfwn i", "2sg": "tyfet ti", "3sg_m": "tyfai ef", "3sg_f": "tyfai hi", "1pl": "tyfem ni", "2pl": "tyfech chi", "3pl": "tyfent hwy" },
+        "informal": { "1sg": "ro'n i'n tyfu", "2sg": "ro't ti'n tyfu", "3sg_m": "roedd e'n tyfu", "3sg_f": "roedd hi'n tyfu", "1pl": "roedden ni'n tyfu", "2pl": "roeddech chi'n tyfu", "3pl": "roedden nhw'n tyfu" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "tyfaf i", "2sg": "tyfi di", "3sg_m": "tyf ef", "3sg_f": "tyf hi", "1pl": "tyfwn ni", "2pl": "tyfwch chi", "3pl": "tyfant hwy" },
+        "informal": { "1sg": "bydda i'n tyfu", "2sg": "byddi di'n tyfu", "3sg_m": "bydd o'n tyfu", "3sg_f": "bydd hi'n tyfu", "1pl": "byddwn ni'n tyfu", "2pl": "byddwch chi'n tyfu", "3pl": "byddan nhw'n tyfu" }
+      },
+      "south": {
+        "formal":   { "1sg": "tyfaf i", "2sg": "tyfi di", "3sg_m": "tyf ef", "3sg_f": "tyf hi", "1pl": "tyfwn ni", "2pl": "tyfwch chi", "3pl": "tyfant hwy" },
+        "informal": { "1sg": "bydda i'n tyfu", "2sg": "byddi di'n tyfu", "3sg_m": "bydd e'n tyfu", "3sg_f": "bydd hi'n tyfu", "1pl": "byddwn ni'n tyfu", "2pl": "byddwch chi'n tyfu", "3pl": "byddan nhw'n tyfu" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "tyfwn i", "2sg": "tyfet ti", "3sg_m": "tyfai ef", "3sg_f": "tyfai hi", "1pl": "tyfem ni", "2pl": "tyfech chi", "3pl": "tyfent hwy" },
+        "informal": { "1sg": "baswn i'n tyfu", "2sg": "baset ti'n tyfu", "3sg_m": "basai fo'n tyfu", "3sg_f": "basai hi'n tyfu", "1pl": "basen ni'n tyfu", "2pl": "basech chi'n tyfu", "3pl": "basen nhw'n tyfu" }
+      },
+      "south": {
+        "formal":   { "1sg": "tyfwn i", "2sg": "tyfet ti", "3sg_m": "tyfai ef", "3sg_f": "tyfai hi", "1pl": "tyfem ni", "2pl": "tyfech chi", "3pl": "tyfent hwy" },
+        "informal": { "1sg": "byddwn i'n tyfu", "2sg": "byddet ti'n tyfu", "3sg_m": "byddai fe'n tyfu", "3sg_f": "byddai hi'n tyfu", "1pl": "bydden ni'n tyfu", "2pl": "byddech chi'n tyfu", "3pl": "bydden nhw'n tyfu" }
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "cerdded",
+  "infinitive": "cerdded",
+  "meaning": "to walk",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: cerdd-. A good example of the standard regular conjugation pattern.",
+  "mutations": { "soft": "gerdded", "nasal": "ngerdded", "aspirate": "cherdded" },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "cerddaf i", "2sg": "cerddi di", "3sg_m": "cerdd ef", "3sg_f": "cerdd hi", "1pl": "cerddwn ni", "2pl": "cerddwch chi", "3pl": "cerddant hwy" },
+        "informal": { "1sg": "dw i'n cerdded", "2sg": "ti'n cerdded", "3sg_m": "mae o'n cerdded", "3sg_f": "mae hi'n cerdded", "1pl": "dan ni'n cerdded", "2pl": "dach chi'n cerdded", "3pl": "maen nhw'n cerdded" }
+      },
+      "south": {
+        "formal":   { "1sg": "cerddaf i", "2sg": "cerddi di", "3sg_m": "cerdd ef", "3sg_f": "cerdd hi", "1pl": "cerddwn ni", "2pl": "cerddwch chi", "3pl": "cerddant hwy" },
+        "informal": { "1sg": "dw i'n cerdded", "2sg": "rwyt ti'n cerdded", "3sg_m": "mae e'n cerdded", "3sg_f": "mae hi'n cerdded", "1pl": "r'yn ni'n cerdded", "2pl": "r'ych chi'n cerdded", "3pl": "maen nhw'n cerdded" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "cerddais i", "2sg": "cerddaist ti", "3sg_m": "cerddodd ef", "3sg_f": "cerddodd hi", "1pl": "cerddom ni", "2pl": "cerddoch chi", "3pl": "cerddont hwy" },
+        "informal": { "1sg": "cerddais i", "2sg": "cerddaist ti", "3sg_m": "cerddodd o", "3sg_f": "cerddodd hi", "1pl": "cerddon ni", "2pl": "cerddoch chi", "3pl": "cerddon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "cerddais i", "2sg": "cerddaist ti", "3sg_m": "cerddodd ef", "3sg_f": "cerddodd hi", "1pl": "cerddom ni", "2pl": "cerddoch chi", "3pl": "cerddont hwy" },
+        "informal": { "1sg": "cerddes i", "2sg": "cerddest ti", "3sg_m": "cerddodd e", "3sg_f": "cerddodd hi", "1pl": "cerddon ni", "2pl": "cerddoch chi", "3pl": "cerddon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "cerddwn i", "2sg": "cerddet ti", "3sg_m": "cerddai ef", "3sg_f": "cerddai hi", "1pl": "cerddem ni", "2pl": "cerddech chi", "3pl": "cerddent hwy" },
+        "informal": { "1sg": "ro'n i'n cerdded", "2sg": "ro't ti'n cerdded", "3sg_m": "roedd o'n cerdded", "3sg_f": "roedd hi'n cerdded", "1pl": "roedden ni'n cerdded", "2pl": "roeddech chi'n cerdded", "3pl": "roedden nhw'n cerdded" }
+      },
+      "south": {
+        "formal":   { "1sg": "cerddwn i", "2sg": "cerddet ti", "3sg_m": "cerddai ef", "3sg_f": "cerddai hi", "1pl": "cerddem ni", "2pl": "cerddech chi", "3pl": "cerddent hwy" },
+        "informal": { "1sg": "ro'n i'n cerdded", "2sg": "ro't ti'n cerdded", "3sg_m": "roedd e'n cerdded", "3sg_f": "roedd hi'n cerdded", "1pl": "roedden ni'n cerdded", "2pl": "roeddech chi'n cerdded", "3pl": "roedden nhw'n cerdded" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "cerddaf i", "2sg": "cerddi di", "3sg_m": "cerdd ef", "3sg_f": "cerdd hi", "1pl": "cerddwn ni", "2pl": "cerddwch chi", "3pl": "cerddant hwy" },
+        "informal": { "1sg": "bydda i'n cerdded", "2sg": "byddi di'n cerdded", "3sg_m": "bydd o'n cerdded", "3sg_f": "bydd hi'n cerdded", "1pl": "byddwn ni'n cerdded", "2pl": "byddwch chi'n cerdded", "3pl": "byddan nhw'n cerdded" }
+      },
+      "south": {
+        "formal":   { "1sg": "cerddaf i", "2sg": "cerddi di", "3sg_m": "cerdd ef", "3sg_f": "cerdd hi", "1pl": "cerddwn ni", "2pl": "cerddwch chi", "3pl": "cerddant hwy" },
+        "informal": { "1sg": "bydda i'n cerdded", "2sg": "byddi di'n cerdded", "3sg_m": "bydd e'n cerdded", "3sg_f": "bydd hi'n cerdded", "1pl": "byddwn ni'n cerdded", "2pl": "byddwch chi'n cerdded", "3pl": "byddan nhw'n cerdded" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "cerddwn i", "2sg": "cerddet ti", "3sg_m": "cerddai ef", "3sg_f": "cerddai hi", "1pl": "cerddem ni", "2pl": "cerddech chi", "3pl": "cerddent hwy" },
+        "informal": { "1sg": "baswn i'n cerdded", "2sg": "baset ti'n cerdded", "3sg_m": "basai fo'n cerdded", "3sg_f": "basai hi'n cerdded", "1pl": "basen ni'n cerdded", "2pl": "basech chi'n cerdded", "3pl": "basen nhw'n cerdded" }
+      },
+      "south": {
+        "formal":   { "1sg": "cerddwn i", "2sg": "cerddet ti", "3sg_m": "cerddai ef", "3sg_f": "cerddai hi", "1pl": "cerddem ni", "2pl": "cerddech chi", "3pl": "cerddent hwy" },
+        "informal": { "1sg": "byddwn i'n cerdded", "2sg": "byddet ti'n cerdded", "3sg_m": "byddai fe'n cerdded", "3sg_f": "byddai hi'n cerdded", "1pl": "bydden ni'n cerdded", "2pl": "byddech chi'n cerdded", "3pl": "bydden nhw'n cerdded" }
+      }
+    }
+  }
+}

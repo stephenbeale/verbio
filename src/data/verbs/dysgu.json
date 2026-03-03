@@ -1,0 +1,66 @@
+{
+  "id": "dysgu",
+  "infinitive": "dysgu",
+  "meaning": "to learn / to teach",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: dysg-. Notably covers both 'to learn' and 'to teach' — context determines which meaning. 'Mae hi'n dysgu Cymraeg' can mean she is learning Welsh or she is teaching Welsh. Add 'i' before the object of teaching: 'mae hi'n dysgu Cymraeg i'r plant' (she is teaching Welsh to the children).",
+  "mutations": { "soft": "ddysgu", "nasal": "ndysgu", "aspirate": null },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "dysgaf i", "2sg": "dysgi di", "3sg_m": "dysg ef", "3sg_f": "dysg hi", "1pl": "dysgwn ni", "2pl": "dysgwch chi", "3pl": "dysgant hwy" },
+        "informal": { "1sg": "dw i'n dysgu", "2sg": "ti'n dysgu", "3sg_m": "mae o'n dysgu", "3sg_f": "mae hi'n dysgu", "1pl": "dan ni'n dysgu", "2pl": "dach chi'n dysgu", "3pl": "maen nhw'n dysgu" }
+      },
+      "south": {
+        "formal":   { "1sg": "dysgaf i", "2sg": "dysgi di", "3sg_m": "dysg ef", "3sg_f": "dysg hi", "1pl": "dysgwn ni", "2pl": "dysgwch chi", "3pl": "dysgant hwy" },
+        "informal": { "1sg": "dw i'n dysgu", "2sg": "rwyt ti'n dysgu", "3sg_m": "mae e'n dysgu", "3sg_f": "mae hi'n dysgu", "1pl": "r'yn ni'n dysgu", "2pl": "r'ych chi'n dysgu", "3pl": "maen nhw'n dysgu" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "dysgais i", "2sg": "dysgaist ti", "3sg_m": "dysgodd ef", "3sg_f": "dysgodd hi", "1pl": "dysgom ni", "2pl": "dysgoch chi", "3pl": "dysgont hwy" },
+        "informal": { "1sg": "dysgais i", "2sg": "dysgaist ti", "3sg_m": "dysgodd o", "3sg_f": "dysgodd hi", "1pl": "dysgon ni", "2pl": "dysgoch chi", "3pl": "dysgon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "dysgais i", "2sg": "dysgaist ti", "3sg_m": "dysgodd ef", "3sg_f": "dysgodd hi", "1pl": "dysgom ni", "2pl": "dysgoch chi", "3pl": "dysgont hwy" },
+        "informal": { "1sg": "dysges i", "2sg": "dysgest ti", "3sg_m": "dysgodd e", "3sg_f": "dysgodd hi", "1pl": "dysgon ni", "2pl": "dysgoch chi", "3pl": "dysgon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "dysgwn i", "2sg": "dysget ti", "3sg_m": "dysgai ef", "3sg_f": "dysgai hi", "1pl": "dysgem ni", "2pl": "dysgech chi", "3pl": "dysgent hwy" },
+        "informal": { "1sg": "ro'n i'n dysgu", "2sg": "ro't ti'n dysgu", "3sg_m": "roedd o'n dysgu", "3sg_f": "roedd hi'n dysgu", "1pl": "roedden ni'n dysgu", "2pl": "roeddech chi'n dysgu", "3pl": "roedden nhw'n dysgu" }
+      },
+      "south": {
+        "formal":   { "1sg": "dysgwn i", "2sg": "dysget ti", "3sg_m": "dysgai ef", "3sg_f": "dysgai hi", "1pl": "dysgem ni", "2pl": "dysgech chi", "3pl": "dysgent hwy" },
+        "informal": { "1sg": "ro'n i'n dysgu", "2sg": "ro't ti'n dysgu", "3sg_m": "roedd e'n dysgu", "3sg_f": "roedd hi'n dysgu", "1pl": "roedden ni'n dysgu", "2pl": "roeddech chi'n dysgu", "3pl": "roedden nhw'n dysgu" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "dysgaf i", "2sg": "dysgi di", "3sg_m": "dysg ef", "3sg_f": "dysg hi", "1pl": "dysgwn ni", "2pl": "dysgwch chi", "3pl": "dysgant hwy" },
+        "informal": { "1sg": "bydda i'n dysgu", "2sg": "byddi di'n dysgu", "3sg_m": "bydd o'n dysgu", "3sg_f": "bydd hi'n dysgu", "1pl": "byddwn ni'n dysgu", "2pl": "byddwch chi'n dysgu", "3pl": "byddan nhw'n dysgu" }
+      },
+      "south": {
+        "formal":   { "1sg": "dysgaf i", "2sg": "dysgi di", "3sg_m": "dysg ef", "3sg_f": "dysg hi", "1pl": "dysgwn ni", "2pl": "dysgwch chi", "3pl": "dysgant hwy" },
+        "informal": { "1sg": "bydda i'n dysgu", "2sg": "byddi di'n dysgu", "3sg_m": "bydd e'n dysgu", "3sg_f": "bydd hi'n dysgu", "1pl": "byddwn ni'n dysgu", "2pl": "byddwch chi'n dysgu", "3pl": "byddan nhw'n dysgu" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "dysgwn i", "2sg": "dysget ti", "3sg_m": "dysgai ef", "3sg_f": "dysgai hi", "1pl": "dysgem ni", "2pl": "dysgech chi", "3pl": "dysgent hwy" },
+        "informal": { "1sg": "baswn i'n dysgu", "2sg": "baset ti'n dysgu", "3sg_m": "basai fo'n dysgu", "3sg_f": "basai hi'n dysgu", "1pl": "basen ni'n dysgu", "2pl": "basech chi'n dysgu", "3pl": "basen nhw'n dysgu" }
+      },
+      "south": {
+        "formal":   { "1sg": "dysgwn i", "2sg": "dysget ti", "3sg_m": "dysgai ef", "3sg_f": "dysgai hi", "1pl": "dysgem ni", "2pl": "dysgech chi", "3pl": "dysgent hwy" },
+        "informal": { "1sg": "byddwn i'n dysgu", "2sg": "byddet ti'n dysgu", "3sg_m": "byddai fe'n dysgu", "3sg_f": "byddai hi'n dysgu", "1pl": "bydden ni'n dysgu", "2pl": "byddech chi'n dysgu", "3pl": "bydden nhw'n dysgu" }
+      }
+    }
+  }
+}
