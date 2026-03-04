@@ -18,9 +18,9 @@ function Cell({ value }) {
 
 function SingleTable({ dialectLabel, data, showPersonLabels }) {
   return (
-    <div className="flex-1 min-w-0">
+    <div className="flex-1 min-w-0 border border-slate-700 rounded-lg overflow-hidden">
       {dialectLabel && (
-        <div className="text-xs font-semibold text-blue-400 uppercase tracking-wider mb-2 px-1">
+        <div className="text-xs font-semibold text-blue-400 uppercase tracking-wider py-2 px-3 bg-slate-800/80 border-b border-slate-700">
           {dialectLabel}
         </div>
       )}
