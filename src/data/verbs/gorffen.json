@@ -1,0 +1,66 @@
+{
+  "id": "gorffen",
+  "infinitive": "gorffen",
+  "meaning": "to finish / to end",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: gorffen-. The counterpart to 'dechrau'. Also used intransitively: 'mae'r ffilm wedi gorffen' (the film has finished).",
+  "mutations": { "soft": "orffen", "nasal": "ngorffen", "aspirate": null },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "gorffennaf i", "2sg": "gorffenni di", "3sg_m": "gorffenna ef", "3sg_f": "gorffenna hi", "1pl": "gorffennwn ni", "2pl": "gorffennwch chi", "3pl": "gorffennant hwy" },
+        "informal": { "1sg": "dw i'n gorffen", "2sg": "ti'n gorffen", "3sg_m": "mae o'n gorffen", "3sg_f": "mae hi'n gorffen", "1pl": "dan ni'n gorffen", "2pl": "dach chi'n gorffen", "3pl": "maen nhw'n gorffen" }
+      },
+      "south": {
+        "formal":   { "1sg": "gorffennaf i", "2sg": "gorffenni di", "3sg_m": "gorffenna ef", "3sg_f": "gorffenna hi", "1pl": "gorffennwn ni", "2pl": "gorffennwch chi", "3pl": "gorffennant hwy" },
+        "informal": { "1sg": "dw i'n gorffen", "2sg": "rwyt ti'n gorffen", "3sg_m": "mae e'n gorffen", "3sg_f": "mae hi'n gorffen", "1pl": "r'yn ni'n gorffen", "2pl": "r'ych chi'n gorffen", "3pl": "maen nhw'n gorffen" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "gorffennais i", "2sg": "gorffennaist ti", "3sg_m": "gorffennodd ef", "3sg_f": "gorffennodd hi", "1pl": "gorffennom ni", "2pl": "gorffennoch chi", "3pl": "gorffennont hwy" },
+        "informal": { "1sg": "gorffennais i", "2sg": "gorffennaist ti", "3sg_m": "gorffennodd o", "3sg_f": "gorffennodd hi", "1pl": "gorffennon ni", "2pl": "gorffennoch chi", "3pl": "gorffennon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "gorffennais i", "2sg": "gorffennaist ti", "3sg_m": "gorffennodd ef", "3sg_f": "gorffennodd hi", "1pl": "gorffennom ni", "2pl": "gorffennoch chi", "3pl": "gorffennont hwy" },
+        "informal": { "1sg": "gorffennes i", "2sg": "gorffennest ti", "3sg_m": "gorffennodd e", "3sg_f": "gorffennodd hi", "1pl": "gorffennon ni", "2pl": "gorffennoch chi", "3pl": "gorffennon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "gorffennwn i", "2sg": "gorffennet ti", "3sg_m": "gorffennai ef", "3sg_f": "gorffennai hi", "1pl": "gorffennem ni", "2pl": "gorffennech chi", "3pl": "gorffennent hwy" },
+        "informal": { "1sg": "ro'n i'n gorffen", "2sg": "ro't ti'n gorffen", "3sg_m": "roedd o'n gorffen", "3sg_f": "roedd hi'n gorffen", "1pl": "roedden ni'n gorffen", "2pl": "roeddech chi'n gorffen", "3pl": "roedden nhw'n gorffen" }
+      },
+      "south": {
+        "formal":   { "1sg": "gorffennwn i", "2sg": "gorffennet ti", "3sg_m": "gorffennai ef", "3sg_f": "gorffennai hi", "1pl": "gorffennem ni", "2pl": "gorffennech chi", "3pl": "gorffennent hwy" },
+        "informal": { "1sg": "ro'n i'n gorffen", "2sg": "ro't ti'n gorffen", "3sg_m": "roedd e'n gorffen", "3sg_f": "roedd hi'n gorffen", "1pl": "roedden ni'n gorffen", "2pl": "roeddech chi'n gorffen", "3pl": "roedden nhw'n gorffen" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "gorffennaf i", "2sg": "gorffenni di", "3sg_m": "gorffenna ef", "3sg_f": "gorffenna hi", "1pl": "gorffennwn ni", "2pl": "gorffennwch chi", "3pl": "gorffennant hwy" },
+        "informal": { "1sg": "bydda i'n gorffen", "2sg": "byddi di'n gorffen", "3sg_m": "bydd o'n gorffen", "3sg_f": "bydd hi'n gorffen", "1pl": "byddwn ni'n gorffen", "2pl": "byddwch chi'n gorffen", "3pl": "byddan nhw'n gorffen" }
+      },
+      "south": {
+        "formal":   { "1sg": "gorffennaf i", "2sg": "gorffenni di", "3sg_m": "gorffenna ef", "3sg_f": "gorffenna hi", "1pl": "gorffennwn ni", "2pl": "gorffennwch chi", "3pl": "gorffennant hwy" },
+        "informal": { "1sg": "bydda i'n gorffen", "2sg": "byddi di'n gorffen", "3sg_m": "bydd e'n gorffen", "3sg_f": "bydd hi'n gorffen", "1pl": "byddwn ni'n gorffen", "2pl": "byddwch chi'n gorffen", "3pl": "byddan nhw'n gorffen" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "gorffennwn i", "2sg": "gorffennet ti", "3sg_m": "gorffennai ef", "3sg_f": "gorffennai hi", "1pl": "gorffennem ni", "2pl": "gorffennech chi", "3pl": "gorffennent hwy" },
+        "informal": { "1sg": "baswn i'n gorffen", "2sg": "baset ti'n gorffen", "3sg_m": "basai fo'n gorffen", "3sg_f": "basai hi'n gorffen", "1pl": "basen ni'n gorffen", "2pl": "basech chi'n gorffen", "3pl": "basen nhw'n gorffen" }
+      },
+      "south": {
+        "formal":   { "1sg": "gorffennwn i", "2sg": "gorffennet ti", "3sg_m": "gorffennai ef", "3sg_f": "gorffennai hi", "1pl": "gorffennem ni", "2pl": "gorffennech chi", "3pl": "gorffennent hwy" },
+        "informal": { "1sg": "byddwn i'n gorffen", "2sg": "byddet ti'n gorffen", "3sg_m": "byddai fe'n gorffen", "3sg_f": "byddai hi'n gorffen", "1pl": "bydden ni'n gorffen", "2pl": "byddech chi'n gorffen", "3pl": "bydden nhw'n gorffen" }
+      }
+    }
+  }
+}

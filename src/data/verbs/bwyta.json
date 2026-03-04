@@ -1,0 +1,66 @@
+{
+  "id": "bwyta",
+  "infinitive": "bwyta",
+  "meaning": "to eat",
+  "type": "regular",
+  "tags": ["essential", "common"],
+  "notes": "Regular verb. Stem: bwyt-. One of the most frequently used verbs in everyday Welsh.",
+  "mutations": { "soft": "fwyta", "nasal": "mwyta", "aspirate": null },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "bwytaf i", "2sg": "bwyti di", "3sg_m": "bwyty ef", "3sg_f": "bwyty hi", "1pl": "bwytwn ni", "2pl": "bwytwch chi", "3pl": "bwytant hwy" },
+        "informal": { "1sg": "dw i'n bwyta", "2sg": "ti'n bwyta", "3sg_m": "mae o'n bwyta", "3sg_f": "mae hi'n bwyta", "1pl": "dan ni'n bwyta", "2pl": "dach chi'n bwyta", "3pl": "maen nhw'n bwyta" }
+      },
+      "south": {
+        "formal":   { "1sg": "bwytaf i", "2sg": "bwyti di", "3sg_m": "bwyty ef", "3sg_f": "bwyty hi", "1pl": "bwytwn ni", "2pl": "bwytwch chi", "3pl": "bwytant hwy" },
+        "informal": { "1sg": "dw i'n bwyta", "2sg": "rwyt ti'n bwyta", "3sg_m": "mae e'n bwyta", "3sg_f": "mae hi'n bwyta", "1pl": "r'yn ni'n bwyta", "2pl": "r'ych chi'n bwyta", "3pl": "maen nhw'n bwyta" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "bwytais i", "2sg": "bwytaist ti", "3sg_m": "bwytodd ef", "3sg_f": "bwytodd hi", "1pl": "bwytom ni", "2pl": "bwytoch chi", "3pl": "bwytont hwy" },
+        "informal": { "1sg": "bwytais i", "2sg": "bwytaist ti", "3sg_m": "bwytodd o", "3sg_f": "bwytodd hi", "1pl": "bwyton ni", "2pl": "bwytoch chi", "3pl": "bwyton nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "bwytais i", "2sg": "bwytaist ti", "3sg_m": "bwytodd ef", "3sg_f": "bwytodd hi", "1pl": "bwytom ni", "2pl": "bwytoch chi", "3pl": "bwytont hwy" },
+        "informal": { "1sg": "bwytes i", "2sg": "bwytest ti", "3sg_m": "bwytodd e", "3sg_f": "bwytodd hi", "1pl": "bwyton ni", "2pl": "bwytoch chi", "3pl": "bwyton nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "bwytwn i", "2sg": "bwytet ti", "3sg_m": "bwytai ef", "3sg_f": "bwytai hi", "1pl": "bwytem ni", "2pl": "bwytech chi", "3pl": "bwytent hwy" },
+        "informal": { "1sg": "ro'n i'n bwyta", "2sg": "ro't ti'n bwyta", "3sg_m": "roedd o'n bwyta", "3sg_f": "roedd hi'n bwyta", "1pl": "roedden ni'n bwyta", "2pl": "roeddech chi'n bwyta", "3pl": "roedden nhw'n bwyta" }
+      },
+      "south": {
+        "formal":   { "1sg": "bwytwn i", "2sg": "bwytet ti", "3sg_m": "bwytai ef", "3sg_f": "bwytai hi", "1pl": "bwytem ni", "2pl": "bwytech chi", "3pl": "bwytent hwy" },
+        "informal": { "1sg": "ro'n i'n bwyta", "2sg": "ro't ti'n bwyta", "3sg_m": "roedd e'n bwyta", "3sg_f": "roedd hi'n bwyta", "1pl": "roedden ni'n bwyta", "2pl": "roeddech chi'n bwyta", "3pl": "roedden nhw'n bwyta" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "bwytaf i", "2sg": "bwyti di", "3sg_m": "bwyty ef", "3sg_f": "bwyty hi", "1pl": "bwytwn ni", "2pl": "bwytwch chi", "3pl": "bwytant hwy" },
+        "informal": { "1sg": "bydda i'n bwyta", "2sg": "byddi di'n bwyta", "3sg_m": "bydd o'n bwyta", "3sg_f": "bydd hi'n bwyta", "1pl": "byddwn ni'n bwyta", "2pl": "byddwch chi'n bwyta", "3pl": "byddan nhw'n bwyta" }
+      },
+      "south": {
+        "formal":   { "1sg": "bwytaf i", "2sg": "bwyti di", "3sg_m": "bwyty ef", "3sg_f": "bwyty hi", "1pl": "bwytwn ni", "2pl": "bwytwch chi", "3pl": "bwytant hwy" },
+        "informal": { "1sg": "bydda i'n bwyta", "2sg": "byddi di'n bwyta", "3sg_m": "bydd e'n bwyta", "3sg_f": "bydd hi'n bwyta", "1pl": "byddwn ni'n bwyta", "2pl": "byddwch chi'n bwyta", "3pl": "byddan nhw'n bwyta" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "bwytwn i", "2sg": "bwytet ti", "3sg_m": "bwytai ef", "3sg_f": "bwytai hi", "1pl": "bwytem ni", "2pl": "bwytech chi", "3pl": "bwytent hwy" },
+        "informal": { "1sg": "baswn i'n bwyta", "2sg": "baset ti'n bwyta", "3sg_m": "basai fo'n bwyta", "3sg_f": "basai hi'n bwyta", "1pl": "basen ni'n bwyta", "2pl": "basech chi'n bwyta", "3pl": "basen nhw'n bwyta" }
+      },
+      "south": {
+        "formal":   { "1sg": "bwytwn i", "2sg": "bwytet ti", "3sg_m": "bwytai ef", "3sg_f": "bwytai hi", "1pl": "bwytem ni", "2pl": "bwytech chi", "3pl": "bwytent hwy" },
+        "informal": { "1sg": "byddwn i'n bwyta", "2sg": "byddet ti'n bwyta", "3sg_m": "byddai fe'n bwyta", "3sg_f": "byddai hi'n bwyta", "1pl": "bydden ni'n bwyta", "2pl": "byddech chi'n bwyta", "3pl": "bydden nhw'n bwyta" }
+      }
+    }
+  }
+}

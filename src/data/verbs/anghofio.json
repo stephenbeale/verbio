@@ -1,0 +1,66 @@
+{
+  "id": "anghofio",
+  "infinitive": "anghofio",
+  "meaning": "to forget",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: anghofi-. The counterpart to 'cofio'. 'Paid ag anghofio' (Don't forget!) is a very common expression.",
+  "mutations": { "soft": "anghofio", "nasal": "anghofio", "aspirate": "anghofio" },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "anghofiaf i", "2sg": "anghofi di", "3sg_m": "anghofia ef", "3sg_f": "anghofia hi", "1pl": "anghofiwn ni", "2pl": "anghofiwch chi", "3pl": "anghofiant hwy" },
+        "informal": { "1sg": "dw i'n anghofio", "2sg": "ti'n anghofio", "3sg_m": "mae o'n anghofio", "3sg_f": "mae hi'n anghofio", "1pl": "dan ni'n anghofio", "2pl": "dach chi'n anghofio", "3pl": "maen nhw'n anghofio" }
+      },
+      "south": {
+        "formal":   { "1sg": "anghofiaf i", "2sg": "anghofi di", "3sg_m": "anghofia ef", "3sg_f": "anghofia hi", "1pl": "anghofiwn ni", "2pl": "anghofiwch chi", "3pl": "anghofiant hwy" },
+        "informal": { "1sg": "dw i'n anghofio", "2sg": "rwyt ti'n anghofio", "3sg_m": "mae e'n anghofio", "3sg_f": "mae hi'n anghofio", "1pl": "r'yn ni'n anghofio", "2pl": "r'ych chi'n anghofio", "3pl": "maen nhw'n anghofio" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "anghofiais i", "2sg": "anghofiAist ti", "3sg_m": "anghofiOdd ef", "3sg_f": "anghofiOdd hi", "1pl": "anghofiom ni", "2pl": "anghofioch chi", "3pl": "anghofiont hwy" },
+        "informal": { "1sg": "anghofiais i", "2sg": "anghofiAist ti", "3sg_m": "anghofiOdd o", "3sg_f": "anghofiOdd hi", "1pl": "anghofion ni", "2pl": "anghofioch chi", "3pl": "anghofion nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "anghofiais i", "2sg": "anghofiAist ti", "3sg_m": "anghofiOdd ef", "3sg_f": "anghofiOdd hi", "1pl": "anghofiom ni", "2pl": "anghofioch chi", "3pl": "anghofiont hwy" },
+        "informal": { "1sg": "anghofies i", "2sg": "anghofiest ti", "3sg_m": "anghofiOdd e", "3sg_f": "anghofiOdd hi", "1pl": "anghofion ni", "2pl": "anghofioch chi", "3pl": "anghofion nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "anghofiwn i", "2sg": "anghofiet ti", "3sg_m": "anghofia ef", "3sg_f": "anghofia hi", "1pl": "anghofiEm ni", "2pl": "anghofiEch chi", "3pl": "anghofiEnt hwy" },
+        "informal": { "1sg": "ro'n i'n anghofio", "2sg": "ro't ti'n anghofio", "3sg_m": "roedd o'n anghofio", "3sg_f": "roedd hi'n anghofio", "1pl": "roedden ni'n anghofio", "2pl": "roeddech chi'n anghofio", "3pl": "roedden nhw'n anghofio" }
+      },
+      "south": {
+        "formal":   { "1sg": "anghofiwn i", "2sg": "anghofiet ti", "3sg_m": "anghofia ef", "3sg_f": "anghofia hi", "1pl": "anghofiEm ni", "2pl": "anghofiEch chi", "3pl": "anghofiEnt hwy" },
+        "informal": { "1sg": "ro'n i'n anghofio", "2sg": "ro't ti'n anghofio", "3sg_m": "roedd e'n anghofio", "3sg_f": "roedd hi'n anghofio", "1pl": "roedden ni'n anghofio", "2pl": "roeddech chi'n anghofio", "3pl": "roedden nhw'n anghofio" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "anghofiaf i", "2sg": "anghofi di", "3sg_m": "anghofia ef", "3sg_f": "anghofia hi", "1pl": "anghofiwn ni", "2pl": "anghofiwch chi", "3pl": "anghofiant hwy" },
+        "informal": { "1sg": "bydda i'n anghofio", "2sg": "byddi di'n anghofio", "3sg_m": "bydd o'n anghofio", "3sg_f": "bydd hi'n anghofio", "1pl": "byddwn ni'n anghofio", "2pl": "byddwch chi'n anghofio", "3pl": "byddan nhw'n anghofio" }
+      },
+      "south": {
+        "formal":   { "1sg": "anghofiaf i", "2sg": "anghofi di", "3sg_m": "anghofia ef", "3sg_f": "anghofia hi", "1pl": "anghofiwn ni", "2pl": "anghofiwch chi", "3pl": "anghofiant hwy" },
+        "informal": { "1sg": "bydda i'n anghofio", "2sg": "byddi di'n anghofio", "3sg_m": "bydd e'n anghofio", "3sg_f": "bydd hi'n anghofio", "1pl": "byddwn ni'n anghofio", "2pl": "byddwch chi'n anghofio", "3pl": "byddan nhw'n anghofio" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "anghofiwn i", "2sg": "anghofiet ti", "3sg_m": "anghofia ef", "3sg_f": "anghofia hi", "1pl": "anghofiEm ni", "2pl": "anghofiEch chi", "3pl": "anghofiEnt hwy" },
+        "informal": { "1sg": "baswn i'n anghofio", "2sg": "baset ti'n anghofio", "3sg_m": "basai fo'n anghofio", "3sg_f": "basai hi'n anghofio", "1pl": "basen ni'n anghofio", "2pl": "basech chi'n anghofio", "3pl": "basen nhw'n anghofio" }
+      },
+      "south": {
+        "formal":   { "1sg": "anghofiwn i", "2sg": "anghofiet ti", "3sg_m": "anghofia ef", "3sg_f": "anghofia hi", "1pl": "anghofiEm ni", "2pl": "anghofiEch chi", "3pl": "anghofiEnt hwy" },
+        "informal": { "1sg": "byddwn i'n anghofio", "2sg": "byddet ti'n anghofio", "3sg_m": "byddai fe'n anghofio", "3sg_f": "byddai hi'n anghofio", "1pl": "bydden ni'n anghofio", "2pl": "byddech chi'n anghofio", "3pl": "bydden nhw'n anghofio" }
+      }
+    }
+  }
+}

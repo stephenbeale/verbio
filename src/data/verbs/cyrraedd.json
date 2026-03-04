@@ -1,0 +1,66 @@
+{
+  "id": "cyrraedd",
+  "infinitive": "cyrraedd",
+  "meaning": "to arrive",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: cyrhaedd-. Note the stem change from cyrr- to cyrhaedd- in inflected forms. Common in travel and everyday contexts: 'pryd mae'r trên yn cyrraedd?' (when does the train arrive?).",
+  "mutations": { "soft": "gyrraedd", "nasal": "nghyrraedd", "aspirate": "chyrraedd" },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "cyrhaeddaf i", "2sg": "cyrhaeddi di", "3sg_m": "cyrhaedd ef", "3sg_f": "cyrhaedd hi", "1pl": "cyrhaeddwn ni", "2pl": "cyrhaeddwch chi", "3pl": "cyrhaeddant hwy" },
+        "informal": { "1sg": "dw i'n cyrraedd", "2sg": "ti'n cyrraedd", "3sg_m": "mae o'n cyrraedd", "3sg_f": "mae hi'n cyrraedd", "1pl": "dan ni'n cyrraedd", "2pl": "dach chi'n cyrraedd", "3pl": "maen nhw'n cyrraedd" }
+      },
+      "south": {
+        "formal":   { "1sg": "cyrhaeddaf i", "2sg": "cyrhaeddi di", "3sg_m": "cyrhaedd ef", "3sg_f": "cyrhaedd hi", "1pl": "cyrhaeddwn ni", "2pl": "cyrhaeddwch chi", "3pl": "cyrhaeddant hwy" },
+        "informal": { "1sg": "dw i'n cyrraedd", "2sg": "rwyt ti'n cyrraedd", "3sg_m": "mae e'n cyrraedd", "3sg_f": "mae hi'n cyrraedd", "1pl": "r'yn ni'n cyrraedd", "2pl": "r'ych chi'n cyrraedd", "3pl": "maen nhw'n cyrraedd" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "cyrhaeddais i", "2sg": "cyrhaeddaist ti", "3sg_m": "cyrhaeddodd ef", "3sg_f": "cyrhaeddodd hi", "1pl": "cyrhaeddom ni", "2pl": "cyrhaeddoch chi", "3pl": "cyrhaeddont hwy" },
+        "informal": { "1sg": "cyrhaeddais i", "2sg": "cyrhaeddaist ti", "3sg_m": "cyrhaeddodd o", "3sg_f": "cyrhaeddodd hi", "1pl": "cyrhaeddon ni", "2pl": "cyrhaeddoch chi", "3pl": "cyrhaeddon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "cyrhaeddais i", "2sg": "cyrhaeddaist ti", "3sg_m": "cyrhaeddodd ef", "3sg_f": "cyrhaeddodd hi", "1pl": "cyrhaeddom ni", "2pl": "cyrhaeddoch chi", "3pl": "cyrhaeddont hwy" },
+        "informal": { "1sg": "cyrhaeddes i", "2sg": "cyrhaeddest ti", "3sg_m": "cyrhaeddodd e", "3sg_f": "cyrhaeddodd hi", "1pl": "cyrhaeddon ni", "2pl": "cyrhaeddoch chi", "3pl": "cyrhaeddon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "cyrhaeddwn i", "2sg": "cyrhaeddet ti", "3sg_m": "cyrhaeddai ef", "3sg_f": "cyrhaeddai hi", "1pl": "cyrhaeddem ni", "2pl": "cyrhaeddech chi", "3pl": "cyrhaeddent hwy" },
+        "informal": { "1sg": "ro'n i'n cyrraedd", "2sg": "ro't ti'n cyrraedd", "3sg_m": "roedd o'n cyrraedd", "3sg_f": "roedd hi'n cyrraedd", "1pl": "roedden ni'n cyrraedd", "2pl": "roeddech chi'n cyrraedd", "3pl": "roedden nhw'n cyrraedd" }
+      },
+      "south": {
+        "formal":   { "1sg": "cyrhaeddwn i", "2sg": "cyrhaeddet ti", "3sg_m": "cyrhaeddai ef", "3sg_f": "cyrhaeddai hi", "1pl": "cyrhaeddem ni", "2pl": "cyrhaeddech chi", "3pl": "cyrhaeddent hwy" },
+        "informal": { "1sg": "ro'n i'n cyrraedd", "2sg": "ro't ti'n cyrraedd", "3sg_m": "roedd e'n cyrraedd", "3sg_f": "roedd hi'n cyrraedd", "1pl": "roedden ni'n cyrraedd", "2pl": "roeddech chi'n cyrraedd", "3pl": "roedden nhw'n cyrraedd" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "cyrhaeddaf i", "2sg": "cyrhaeddi di", "3sg_m": "cyrhaedd ef", "3sg_f": "cyrhaedd hi", "1pl": "cyrhaeddwn ni", "2pl": "cyrhaeddwch chi", "3pl": "cyrhaeddant hwy" },
+        "informal": { "1sg": "bydda i'n cyrraedd", "2sg": "byddi di'n cyrraedd", "3sg_m": "bydd o'n cyrraedd", "3sg_f": "bydd hi'n cyrraedd", "1pl": "byddwn ni'n cyrraedd", "2pl": "byddwch chi'n cyrraedd", "3pl": "byddan nhw'n cyrraedd" }
+      },
+      "south": {
+        "formal":   { "1sg": "cyrhaeddaf i", "2sg": "cyrhaeddi di", "3sg_m": "cyrhaedd ef", "3sg_f": "cyrhaedd hi", "1pl": "cyrhaeddwn ni", "2pl": "cyrhaeddwch chi", "3pl": "cyrhaeddant hwy" },
+        "informal": { "1sg": "bydda i'n cyrraedd", "2sg": "byddi di'n cyrraedd", "3sg_m": "bydd e'n cyrraedd", "3sg_f": "bydd hi'n cyrraedd", "1pl": "byddwn ni'n cyrraedd", "2pl": "byddwch chi'n cyrraedd", "3pl": "byddan nhw'n cyrraedd" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "cyrhaeddwn i", "2sg": "cyrhaeddet ti", "3sg_m": "cyrhaeddai ef", "3sg_f": "cyrhaeddai hi", "1pl": "cyrhaeddem ni", "2pl": "cyrhaeddech chi", "3pl": "cyrhaeddent hwy" },
+        "informal": { "1sg": "baswn i'n cyrraedd", "2sg": "baset ti'n cyrraedd", "3sg_m": "basai fo'n cyrraedd", "3sg_f": "basai hi'n cyrraedd", "1pl": "basen ni'n cyrraedd", "2pl": "basech chi'n cyrraedd", "3pl": "basen nhw'n cyrraedd" }
+      },
+      "south": {
+        "formal":   { "1sg": "cyrhaeddwn i", "2sg": "cyrhaeddet ti", "3sg_m": "cyrhaeddai ef", "3sg_f": "cyrhaeddai hi", "1pl": "cyrhaeddem ni", "2pl": "cyrhaeddech chi", "3pl": "cyrhaeddent hwy" },
+        "informal": { "1sg": "byddwn i'n cyrraedd", "2sg": "byddet ti'n cyrraedd", "3sg_m": "byddai fe'n cyrraedd", "3sg_f": "byddai hi'n cyrraedd", "1pl": "bydden ni'n cyrraedd", "2pl": "byddech chi'n cyrraedd", "3pl": "bydden nhw'n cyrraedd" }
+      }
+    }
+  }
+}

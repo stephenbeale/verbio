@@ -1,0 +1,66 @@
+{
+  "id": "sefyll",
+  "infinitive": "sefyll",
+  "meaning": "to stand",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: saf-/sef-. The stem vowel alternates: saf- in some forms, sef- in others. Common in everyday speech: 'sefyll yn y ciw' (to stand in the queue), 'sefyll arholiad' (to sit/take an exam).",
+  "mutations": { "soft": "sefyll", "nasal": "sefyll", "aspirate": "sefyll" },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "safaf i", "2sg": "sefi di", "3sg_m": "saif ef", "3sg_f": "saif hi", "1pl": "safwn ni", "2pl": "safwch chi", "3pl": "safant hwy" },
+        "informal": { "1sg": "dw i'n sefyll", "2sg": "ti'n sefyll", "3sg_m": "mae o'n sefyll", "3sg_f": "mae hi'n sefyll", "1pl": "dan ni'n sefyll", "2pl": "dach chi'n sefyll", "3pl": "maen nhw'n sefyll" }
+      },
+      "south": {
+        "formal":   { "1sg": "safaf i", "2sg": "sefi di", "3sg_m": "saif ef", "3sg_f": "saif hi", "1pl": "safwn ni", "2pl": "safwch chi", "3pl": "safant hwy" },
+        "informal": { "1sg": "dw i'n sefyll", "2sg": "rwyt ti'n sefyll", "3sg_m": "mae e'n sefyll", "3sg_f": "mae hi'n sefyll", "1pl": "r'yn ni'n sefyll", "2pl": "r'ych chi'n sefyll", "3pl": "maen nhw'n sefyll" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "sefais i", "2sg": "sefaist ti", "3sg_m": "safodd ef", "3sg_f": "safodd hi", "1pl": "safom ni", "2pl": "safoch chi", "3pl": "safont hwy" },
+        "informal": { "1sg": "sefais i", "2sg": "sefaist ti", "3sg_m": "safodd o", "3sg_f": "safodd hi", "1pl": "safon ni", "2pl": "safoch chi", "3pl": "safon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "sefais i", "2sg": "sefaist ti", "3sg_m": "safodd ef", "3sg_f": "safodd hi", "1pl": "safom ni", "2pl": "safoch chi", "3pl": "safont hwy" },
+        "informal": { "1sg": "sefes i", "2sg": "sefest ti", "3sg_m": "safodd e", "3sg_f": "safodd hi", "1pl": "safon ni", "2pl": "safoch chi", "3pl": "safon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "safwn i", "2sg": "safet ti", "3sg_m": "safai ef", "3sg_f": "safai hi", "1pl": "safem ni", "2pl": "safech chi", "3pl": "safent hwy" },
+        "informal": { "1sg": "ro'n i'n sefyll", "2sg": "ro't ti'n sefyll", "3sg_m": "roedd o'n sefyll", "3sg_f": "roedd hi'n sefyll", "1pl": "roedden ni'n sefyll", "2pl": "roeddech chi'n sefyll", "3pl": "roedden nhw'n sefyll" }
+      },
+      "south": {
+        "formal":   { "1sg": "safwn i", "2sg": "safet ti", "3sg_m": "safai ef", "3sg_f": "safai hi", "1pl": "safem ni", "2pl": "safech chi", "3pl": "safent hwy" },
+        "informal": { "1sg": "ro'n i'n sefyll", "2sg": "ro't ti'n sefyll", "3sg_m": "roedd e'n sefyll", "3sg_f": "roedd hi'n sefyll", "1pl": "roedden ni'n sefyll", "2pl": "roeddech chi'n sefyll", "3pl": "roedden nhw'n sefyll" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "safaf i", "2sg": "sefi di", "3sg_m": "saif ef", "3sg_f": "saif hi", "1pl": "safwn ni", "2pl": "safwch chi", "3pl": "safant hwy" },
+        "informal": { "1sg": "bydda i'n sefyll", "2sg": "byddi di'n sefyll", "3sg_m": "bydd o'n sefyll", "3sg_f": "bydd hi'n sefyll", "1pl": "byddwn ni'n sefyll", "2pl": "byddwch chi'n sefyll", "3pl": "byddan nhw'n sefyll" }
+      },
+      "south": {
+        "formal":   { "1sg": "safaf i", "2sg": "sefi di", "3sg_m": "saif ef", "3sg_f": "saif hi", "1pl": "safwn ni", "2pl": "safwch chi", "3pl": "safant hwy" },
+        "informal": { "1sg": "bydda i'n sefyll", "2sg": "byddi di'n sefyll", "3sg_m": "bydd e'n sefyll", "3sg_f": "bydd hi'n sefyll", "1pl": "byddwn ni'n sefyll", "2pl": "byddwch chi'n sefyll", "3pl": "byddan nhw'n sefyll" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "safwn i", "2sg": "safet ti", "3sg_m": "safai ef", "3sg_f": "safai hi", "1pl": "safem ni", "2pl": "safech chi", "3pl": "safent hwy" },
+        "informal": { "1sg": "baswn i'n sefyll", "2sg": "baset ti'n sefyll", "3sg_m": "basai fo'n sefyll", "3sg_f": "basai hi'n sefyll", "1pl": "basen ni'n sefyll", "2pl": "basech chi'n sefyll", "3pl": "basen nhw'n sefyll" }
+      },
+      "south": {
+        "formal":   { "1sg": "safwn i", "2sg": "safet ti", "3sg_m": "safai ef", "3sg_f": "safai hi", "1pl": "safem ni", "2pl": "safech chi", "3pl": "safent hwy" },
+        "informal": { "1sg": "byddwn i'n sefyll", "2sg": "byddet ti'n sefyll", "3sg_m": "byddai fe'n sefyll", "3sg_f": "byddai hi'n sefyll", "1pl": "bydden ni'n sefyll", "2pl": "byddech chi'n sefyll", "3pl": "bydden nhw'n sefyll" }
+      }
+    }
+  }
+}

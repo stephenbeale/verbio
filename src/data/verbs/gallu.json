@@ -1,0 +1,66 @@
+{
+  "id": "gallu",
+  "infinitive": "gallu",
+  "meaning": "to be able to / can",
+  "type": "irregular",
+  "tags": ["essential", "common"],
+  "notes": "Used as a modal verb meaning 'can' or 'to be able to'. North Welsh also frequently uses 'medru' as a synonym. In informal speech, often shortened: 'fedra i' (N), 'alla i' (S).",
+  "mutations": { "soft": "allu", "nasal": "ngallu", "aspirate": null },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "gallaf i", "2sg": "gelli di", "3sg_m": "gall ef", "3sg_f": "gall hi", "1pl": "gallwn ni", "2pl": "gallwch chi", "3pl": "gallant hwy" },
+        "informal": { "1sg": "dw i'n gallu / fedra i", "2sg": "ti'n gallu / fedri di", "3sg_m": "mae o'n gallu / medar o", "3sg_f": "mae hi'n gallu / medar hi", "1pl": "dan ni'n gallu", "2pl": "dach chi'n gallu", "3pl": "maen nhw'n gallu" }
+      },
+      "south": {
+        "formal":   { "1sg": "gallaf i", "2sg": "gelli di", "3sg_m": "gall ef", "3sg_f": "gall hi", "1pl": "gallwn ni", "2pl": "gallwch chi", "3pl": "gallant hwy" },
+        "informal": { "1sg": "dw i'n gallu / alla i", "2sg": "rwyt ti'n gallu / alli di", "3sg_m": "mae e'n gallu / all e", "3sg_f": "mae hi'n gallu / all hi", "1pl": "r'yn ni'n gallu", "2pl": "r'ych chi'n gallu", "3pl": "maen nhw'n gallu" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "gallais i", "2sg": "gallaist ti", "3sg_m": "gallodd ef", "3sg_f": "gallodd hi", "1pl": "gallom ni", "2pl": "galloch chi", "3pl": "gallont hwy" },
+        "informal": { "1sg": "gallais i / fedrais i", "2sg": "gallaist ti", "3sg_m": "gallodd o", "3sg_f": "gallodd hi", "1pl": "gallon ni", "2pl": "galloch chi", "3pl": "gallon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "gallais i", "2sg": "gallaist ti", "3sg_m": "gallodd ef", "3sg_f": "gallodd hi", "1pl": "gallom ni", "2pl": "galloch chi", "3pl": "gallont hwy" },
+        "informal": { "1sg": "galles i / ales i", "2sg": "gallest ti", "3sg_m": "gallodd e", "3sg_f": "gallodd hi", "1pl": "gallon ni", "2pl": "galloch chi", "3pl": "gallon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "gallwn i", "2sg": "gallet ti", "3sg_m": "gallai ef", "3sg_f": "gallai hi", "1pl": "gallem ni", "2pl": "gallech chi", "3pl": "gallent hwy" },
+        "informal": { "1sg": "ro'n i'n gallu / medrwn i", "2sg": "ro't ti'n gallu", "3sg_m": "roedd o'n gallu", "3sg_f": "roedd hi'n gallu", "1pl": "roedden ni'n gallu", "2pl": "roeddech chi'n gallu", "3pl": "roedden nhw'n gallu" }
+      },
+      "south": {
+        "formal":   { "1sg": "gallwn i", "2sg": "gallet ti", "3sg_m": "gallai ef", "3sg_f": "gallai hi", "1pl": "gallem ni", "2pl": "gallech chi", "3pl": "gallent hwy" },
+        "informal": { "1sg": "ro'n i'n gallu / allwn i", "2sg": "ro't ti'n gallu", "3sg_m": "roedd e'n gallu", "3sg_f": "roedd hi'n gallu", "1pl": "roedden ni'n gallu", "2pl": "roeddech chi'n gallu", "3pl": "roedden nhw'n gallu" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "gallaf i", "2sg": "gelli di", "3sg_m": "gall ef", "3sg_f": "gall hi", "1pl": "gallwn ni", "2pl": "gallwch chi", "3pl": "gallant hwy" },
+        "informal": { "1sg": "bydda i'n gallu / fedra i", "2sg": "byddi di'n gallu / fedri di", "3sg_m": "bydd o'n gallu", "3sg_f": "bydd hi'n gallu", "1pl": "byddwn ni'n gallu", "2pl": "byddwch chi'n gallu", "3pl": "byddan nhw'n gallu" }
+      },
+      "south": {
+        "formal":   { "1sg": "gallaf i", "2sg": "gelli di", "3sg_m": "gall ef", "3sg_f": "gall hi", "1pl": "gallwn ni", "2pl": "gallwch chi", "3pl": "gallant hwy" },
+        "informal": { "1sg": "bydda i'n gallu / alla i", "2sg": "byddi di'n gallu / alli di", "3sg_m": "bydd e'n gallu", "3sg_f": "bydd hi'n gallu", "1pl": "byddwn ni'n gallu", "2pl": "byddwch chi'n gallu", "3pl": "byddan nhw'n gallu" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "gallwn i", "2sg": "gallet ti", "3sg_m": "gallai ef", "3sg_f": "gallai hi", "1pl": "gallem ni", "2pl": "gallech chi", "3pl": "gallent hwy" },
+        "informal": { "1sg": "baswn i'n gallu / medrwn i", "2sg": "baset ti'n gallu", "3sg_m": "basai fo'n gallu", "3sg_f": "basai hi'n gallu", "1pl": "basen ni'n gallu", "2pl": "basech chi'n gallu", "3pl": "basen nhw'n gallu" }
+      },
+      "south": {
+        "formal":   { "1sg": "gallwn i", "2sg": "gallet ti", "3sg_m": "gallai ef", "3sg_f": "gallai hi", "1pl": "gallem ni", "2pl": "gallech chi", "3pl": "gallent hwy" },
+        "informal": { "1sg": "byddwn i'n gallu / allwn i", "2sg": "byddet ti'n gallu", "3sg_m": "byddai fe'n gallu", "3sg_f": "byddai hi'n gallu", "1pl": "bydden ni'n gallu", "2pl": "byddech chi'n gallu", "3pl": "bydden nhw'n gallu" }
+      }
+    }
+  }
+}

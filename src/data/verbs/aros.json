@@ -1,0 +1,66 @@
+{
+  "id": "aros",
+  "infinitive": "aros",
+  "meaning": "to wait / to stay / to remain",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: arhos-. Has three related meanings: to wait, to stay (somewhere), and to remain.",
+  "mutations": { "soft": "aros", "nasal": "aros", "aspirate": "aros" },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "arhosaf i", "2sg": "arhosi di", "3sg_m": "arhos ef", "3sg_f": "arhos hi", "1pl": "arhoswn ni", "2pl": "arhoswch chi", "3pl": "arhosant hwy" },
+        "informal": { "1sg": "dw i'n aros", "2sg": "ti'n aros", "3sg_m": "mae o'n aros", "3sg_f": "mae hi'n aros", "1pl": "dan ni'n aros", "2pl": "dach chi'n aros", "3pl": "maen nhw'n aros" }
+      },
+      "south": {
+        "formal":   { "1sg": "arhosaf i", "2sg": "arhosi di", "3sg_m": "arhos ef", "3sg_f": "arhos hi", "1pl": "arhoswn ni", "2pl": "arhoswch chi", "3pl": "arhosant hwy" },
+        "informal": { "1sg": "dw i'n aros", "2sg": "rwyt ti'n aros", "3sg_m": "mae e'n aros", "3sg_f": "mae hi'n aros", "1pl": "r'yn ni'n aros", "2pl": "r'ych chi'n aros", "3pl": "maen nhw'n aros" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "arhosais i", "2sg": "arhosaist ti", "3sg_m": "arhosodd ef", "3sg_f": "arhosodd hi", "1pl": "arhosom ni", "2pl": "arhosoch chi", "3pl": "arhosont hwy" },
+        "informal": { "1sg": "arhosais i", "2sg": "arhosaist ti", "3sg_m": "arhosodd o", "3sg_f": "arhosodd hi", "1pl": "arhoson ni", "2pl": "arhosoch chi", "3pl": "arhoson nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "arhosais i", "2sg": "arhosaist ti", "3sg_m": "arhosodd ef", "3sg_f": "arhosodd hi", "1pl": "arhosom ni", "2pl": "arhosoch chi", "3pl": "arhosont hwy" },
+        "informal": { "1sg": "arhoses i", "2sg": "arhosest ti", "3sg_m": "arhosodd e", "3sg_f": "arhosodd hi", "1pl": "arhoson ni", "2pl": "arhosoch chi", "3pl": "arhoson nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "arhoswn i", "2sg": "arhoset ti", "3sg_m": "arhosai ef", "3sg_f": "arhosai hi", "1pl": "arhosem ni", "2pl": "arhosech chi", "3pl": "arhosent hwy" },
+        "informal": { "1sg": "ro'n i'n aros", "2sg": "ro't ti'n aros", "3sg_m": "roedd o'n aros", "3sg_f": "roedd hi'n aros", "1pl": "roedden ni'n aros", "2pl": "roeddech chi'n aros", "3pl": "roedden nhw'n aros" }
+      },
+      "south": {
+        "formal":   { "1sg": "arhoswn i", "2sg": "arhoset ti", "3sg_m": "arhosai ef", "3sg_f": "arhosai hi", "1pl": "arhosem ni", "2pl": "arhosech chi", "3pl": "arhosent hwy" },
+        "informal": { "1sg": "ro'n i'n aros", "2sg": "ro't ti'n aros", "3sg_m": "roedd e'n aros", "3sg_f": "roedd hi'n aros", "1pl": "roedden ni'n aros", "2pl": "roeddech chi'n aros", "3pl": "roedden nhw'n aros" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "arhosaf i", "2sg": "arhosi di", "3sg_m": "arhos ef", "3sg_f": "arhos hi", "1pl": "arhoswn ni", "2pl": "arhoswch chi", "3pl": "arhosant hwy" },
+        "informal": { "1sg": "bydda i'n aros", "2sg": "byddi di'n aros", "3sg_m": "bydd o'n aros", "3sg_f": "bydd hi'n aros", "1pl": "byddwn ni'n aros", "2pl": "byddwch chi'n aros", "3pl": "byddan nhw'n aros" }
+      },
+      "south": {
+        "formal":   { "1sg": "arhosaf i", "2sg": "arhosi di", "3sg_m": "arhos ef", "3sg_f": "arhos hi", "1pl": "arhoswn ni", "2pl": "arhoswch chi", "3pl": "arhosant hwy" },
+        "informal": { "1sg": "bydda i'n aros", "2sg": "byddi di'n aros", "3sg_m": "bydd e'n aros", "3sg_f": "bydd hi'n aros", "1pl": "byddwn ni'n aros", "2pl": "byddwch chi'n aros", "3pl": "byddan nhw'n aros" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "arhoswn i", "2sg": "arhoset ti", "3sg_m": "arhosai ef", "3sg_f": "arhosai hi", "1pl": "arhosem ni", "2pl": "arhosech chi", "3pl": "arhosent hwy" },
+        "informal": { "1sg": "baswn i'n aros", "2sg": "baset ti'n aros", "3sg_m": "basai fo'n aros", "3sg_f": "basai hi'n aros", "1pl": "basen ni'n aros", "2pl": "basech chi'n aros", "3pl": "basen nhw'n aros" }
+      },
+      "south": {
+        "formal":   { "1sg": "arhoswn i", "2sg": "arhoset ti", "3sg_m": "arhosai ef", "3sg_f": "arhosai hi", "1pl": "arhosem ni", "2pl": "arhosech chi", "3pl": "arhosent hwy" },
+        "informal": { "1sg": "byddwn i'n aros", "2sg": "byddet ti'n aros", "3sg_m": "byddai fe'n aros", "3sg_f": "byddai hi'n aros", "1pl": "bydden ni'n aros", "2pl": "byddech chi'n aros", "3pl": "bydden nhw'n aros" }
+      }
+    }
+  }
+}

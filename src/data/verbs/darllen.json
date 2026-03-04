@@ -1,0 +1,66 @@
+{
+  "id": "darllen",
+  "infinitive": "darllen",
+  "meaning": "to read",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: darllen-. Doubles the final 'n' before vowel endings.",
+  "mutations": { "soft": "ddarllen", "nasal": "narllen", "aspirate": null },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "darllennaf i", "2sg": "darllenni di", "3sg_m": "darllen ef", "3sg_f": "darllen hi", "1pl": "darllenwn ni", "2pl": "darllenwch chi", "3pl": "darllenant hwy" },
+        "informal": { "1sg": "dw i'n darllen", "2sg": "ti'n darllen", "3sg_m": "mae o'n darllen", "3sg_f": "mae hi'n darllen", "1pl": "dan ni'n darllen", "2pl": "dach chi'n darllen", "3pl": "maen nhw'n darllen" }
+      },
+      "south": {
+        "formal":   { "1sg": "darllennaf i", "2sg": "darllenni di", "3sg_m": "darllen ef", "3sg_f": "darllen hi", "1pl": "darllenwn ni", "2pl": "darllenwch chi", "3pl": "darllenant hwy" },
+        "informal": { "1sg": "dw i'n darllen", "2sg": "rwyt ti'n darllen", "3sg_m": "mae e'n darllen", "3sg_f": "mae hi'n darllen", "1pl": "r'yn ni'n darllen", "2pl": "r'ych chi'n darllen", "3pl": "maen nhw'n darllen" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "darllenais i", "2sg": "darllennaist ti", "3sg_m": "darllenodd ef", "3sg_f": "darllenodd hi", "1pl": "darllenoM ni", "2pl": "darllenoch chi", "3pl": "darllenont hwy" },
+        "informal": { "1sg": "darllenais i", "2sg": "darllennaist ti", "3sg_m": "darllenodd o", "3sg_f": "darllenodd hi", "1pl": "darllenon ni", "2pl": "darllenoch chi", "3pl": "darllenon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "darllenais i", "2sg": "darllennaist ti", "3sg_m": "darllenodd ef", "3sg_f": "darllenodd hi", "1pl": "darllenoM ni", "2pl": "darllenoch chi", "3pl": "darllenont hwy" },
+        "informal": { "1sg": "darllenes i", "2sg": "darllenest ti", "3sg_m": "darllenodd e", "3sg_f": "darllenodd hi", "1pl": "darllenon ni", "2pl": "darllenoch chi", "3pl": "darllenon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "darllenwn i", "2sg": "darllenet ti", "3sg_m": "darllenai ef", "3sg_f": "darllenai hi", "1pl": "darllenem ni", "2pl": "darllenech chi", "3pl": "darllenent hwy" },
+        "informal": { "1sg": "ro'n i'n darllen", "2sg": "ro't ti'n darllen", "3sg_m": "roedd o'n darllen", "3sg_f": "roedd hi'n darllen", "1pl": "roedden ni'n darllen", "2pl": "roeddech chi'n darllen", "3pl": "roedden nhw'n darllen" }
+      },
+      "south": {
+        "formal":   { "1sg": "darllenwn i", "2sg": "darllenet ti", "3sg_m": "darllenai ef", "3sg_f": "darllenai hi", "1pl": "darllenem ni", "2pl": "darllenech chi", "3pl": "darllenent hwy" },
+        "informal": { "1sg": "ro'n i'n darllen", "2sg": "ro't ti'n darllen", "3sg_m": "roedd e'n darllen", "3sg_f": "roedd hi'n darllen", "1pl": "roedden ni'n darllen", "2pl": "roeddech chi'n darllen", "3pl": "roedden nhw'n darllen" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "darllennaf i", "2sg": "darllenni di", "3sg_m": "darllen ef", "3sg_f": "darllen hi", "1pl": "darllenwn ni", "2pl": "darllenwch chi", "3pl": "darllenant hwy" },
+        "informal": { "1sg": "bydda i'n darllen", "2sg": "byddi di'n darllen", "3sg_m": "bydd o'n darllen", "3sg_f": "bydd hi'n darllen", "1pl": "byddwn ni'n darllen", "2pl": "byddwch chi'n darllen", "3pl": "byddan nhw'n darllen" }
+      },
+      "south": {
+        "formal":   { "1sg": "darllennaf i", "2sg": "darllenni di", "3sg_m": "darllen ef", "3sg_f": "darllen hi", "1pl": "darllenwn ni", "2pl": "darllenwch chi", "3pl": "darllenant hwy" },
+        "informal": { "1sg": "bydda i'n darllen", "2sg": "byddi di'n darllen", "3sg_m": "bydd e'n darllen", "3sg_f": "bydd hi'n darllen", "1pl": "byddwn ni'n darllen", "2pl": "byddwch chi'n darllen", "3pl": "byddan nhw'n darllen" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "darllenwn i", "2sg": "darllenet ti", "3sg_m": "darllenai ef", "3sg_f": "darllenai hi", "1pl": "darllenem ni", "2pl": "darllenech chi", "3pl": "darllenent hwy" },
+        "informal": { "1sg": "baswn i'n darllen", "2sg": "baset ti'n darllen", "3sg_m": "basai fo'n darllen", "3sg_f": "basai hi'n darllen", "1pl": "basen ni'n darllen", "2pl": "basech chi'n darllen", "3pl": "basen nhw'n darllen" }
+      },
+      "south": {
+        "formal":   { "1sg": "darllenwn i", "2sg": "darllenet ti", "3sg_m": "darllenai ef", "3sg_f": "darllenai hi", "1pl": "darllenem ni", "2pl": "darllenech chi", "3pl": "darllenent hwy" },
+        "informal": { "1sg": "byddwn i'n darllen", "2sg": "byddet ti'n darllen", "3sg_m": "byddai fe'n darllen", "3sg_f": "byddai hi'n darllen", "1pl": "bydden ni'n darllen", "2pl": "byddech chi'n darllen", "3pl": "bydden nhw'n darllen" }
+      }
+    }
+  }
+}

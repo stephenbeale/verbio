@@ -1,0 +1,66 @@
+{
+  "id": "gorfod",
+  "infinitive": "gorfod",
+  "meaning": "to have to / must",
+  "type": "irregular",
+  "tags": ["essential", "common"],
+  "notes": "Used as a modal verb meaning 'must' or 'have to'. More commonly expressed as 'mae rhaid i mi' (formal/N) or 'mae rhaid i fi' (S). The inflected short forms exist but are rare in modern speech.",
+  "mutations": { "soft": "orfod", "nasal": "ngorfod", "aspirate": null },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "rhaid i mi", "2sg": "rhaid i ti", "3sg_m": "rhaid iddo ef", "3sg_f": "rhaid iddi hi", "1pl": "rhaid i ni", "2pl": "rhaid i chi", "3pl": "rhaid iddynt hwy" },
+        "informal": { "1sg": "mae rhaid i mi / dw i'n gorfod", "2sg": "mae rhaid i ti / ti'n gorfod", "3sg_m": "mae rhaid iddo fo / mae o'n gorfod", "3sg_f": "mae rhaid iddi hi / mae hi'n gorfod", "1pl": "mae rhaid i ni / dan ni'n gorfod", "2pl": "mae rhaid i chi / dach chi'n gorfod", "3pl": "mae rhaid iddyn nhw / maen nhw'n gorfod" }
+      },
+      "south": {
+        "formal":   { "1sg": "rhaid i mi", "2sg": "rhaid i ti", "3sg_m": "rhaid iddo ef", "3sg_f": "rhaid iddi hi", "1pl": "rhaid i ni", "2pl": "rhaid i chi", "3pl": "rhaid iddynt hwy" },
+        "informal": { "1sg": "mae rhaid i fi / dw i'n gorfod", "2sg": "mae rhaid i ti / rwyt ti'n gorfod", "3sg_m": "mae rhaid iddo fe / mae e'n gorfod", "3sg_f": "mae rhaid iddi hi / mae hi'n gorfod", "1pl": "mae rhaid i ni / r'yn ni'n gorfod", "2pl": "mae rhaid i chi / r'ych chi'n gorfod", "3pl": "mae rhaid iddyn nhw / maen nhw'n gorfod" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "bu rhaid i mi", "2sg": "bu rhaid i ti", "3sg_m": "bu rhaid iddo ef", "3sg_f": "bu rhaid iddi hi", "1pl": "bu rhaid i ni", "2pl": "bu rhaid i chi", "3pl": "bu rhaid iddynt hwy" },
+        "informal": { "1sg": "roedd rhaid i mi / nes i orfod", "2sg": "roedd rhaid i ti", "3sg_m": "roedd rhaid iddo fo", "3sg_f": "roedd rhaid iddi hi", "1pl": "roedd rhaid i ni", "2pl": "roedd rhaid i chi", "3pl": "roedd rhaid iddyn nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "bu rhaid i mi", "2sg": "bu rhaid i ti", "3sg_m": "bu rhaid iddo ef", "3sg_f": "bu rhaid iddi hi", "1pl": "bu rhaid i ni", "2pl": "bu rhaid i chi", "3pl": "bu rhaid iddynt hwy" },
+        "informal": { "1sg": "roedd rhaid i fi / nethes i orfod", "2sg": "roedd rhaid i ti", "3sg_m": "roedd rhaid iddo fe", "3sg_f": "roedd rhaid iddi hi", "1pl": "roedd rhaid i ni", "2pl": "roedd rhaid i chi", "3pl": "roedd rhaid iddyn nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "rhaid oedd i mi", "2sg": "rhaid oedd i ti", "3sg_m": "rhaid oedd iddo ef", "3sg_f": "rhaid oedd iddi hi", "1pl": "rhaid oedd i ni", "2pl": "rhaid oedd i chi", "3pl": "rhaid oedd iddynt hwy" },
+        "informal": { "1sg": "roedd rhaid i mi / ro'n i'n gorfod", "2sg": "roedd rhaid i ti / ro't ti'n gorfod", "3sg_m": "roedd rhaid iddo fo / roedd o'n gorfod", "3sg_f": "roedd rhaid iddi hi / roedd hi'n gorfod", "1pl": "roedd rhaid i ni / roedden ni'n gorfod", "2pl": "roedd rhaid i chi / roeddech chi'n gorfod", "3pl": "roedd rhaid iddyn nhw / roedden nhw'n gorfod" }
+      },
+      "south": {
+        "formal":   { "1sg": "rhaid oedd i mi", "2sg": "rhaid oedd i ti", "3sg_m": "rhaid oedd iddo ef", "3sg_f": "rhaid oedd iddi hi", "1pl": "rhaid oedd i ni", "2pl": "rhaid oedd i chi", "3pl": "rhaid oedd iddynt hwy" },
+        "informal": { "1sg": "roedd rhaid i fi / ro'n i'n gorfod", "2sg": "roedd rhaid i ti / ro't ti'n gorfod", "3sg_m": "roedd rhaid iddo fe / roedd e'n gorfod", "3sg_f": "roedd rhaid iddi hi / roedd hi'n gorfod", "1pl": "roedd rhaid i ni / roedden ni'n gorfod", "2pl": "roedd rhaid i chi / roeddech chi'n gorfod", "3pl": "roedd rhaid iddyn nhw / roedden nhw'n gorfod" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "bydd rhaid i mi", "2sg": "bydd rhaid i ti", "3sg_m": "bydd rhaid iddo ef", "3sg_f": "bydd rhaid iddi hi", "1pl": "bydd rhaid i ni", "2pl": "bydd rhaid i chi", "3pl": "bydd rhaid iddynt hwy" },
+        "informal": { "1sg": "bydd rhaid i mi / bydda i'n gorfod", "2sg": "bydd rhaid i ti", "3sg_m": "bydd rhaid iddo fo", "3sg_f": "bydd rhaid iddi hi", "1pl": "bydd rhaid i ni", "2pl": "bydd rhaid i chi", "3pl": "bydd rhaid iddyn nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "bydd rhaid i mi", "2sg": "bydd rhaid i ti", "3sg_m": "bydd rhaid iddo ef", "3sg_f": "bydd rhaid iddi hi", "1pl": "bydd rhaid i ni", "2pl": "bydd rhaid i chi", "3pl": "bydd rhaid iddynt hwy" },
+        "informal": { "1sg": "bydd rhaid i fi / bydda i'n gorfod", "2sg": "bydd rhaid i ti", "3sg_m": "bydd rhaid iddo fe", "3sg_f": "bydd rhaid iddi hi", "1pl": "bydd rhaid i ni", "2pl": "bydd rhaid i chi", "3pl": "bydd rhaid iddyn nhw" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "byddai rhaid i mi", "2sg": "byddai rhaid i ti", "3sg_m": "byddai rhaid iddo ef", "3sg_f": "byddai rhaid iddi hi", "1pl": "byddai rhaid i ni", "2pl": "byddai rhaid i chi", "3pl": "byddai rhaid iddynt hwy" },
+        "informal": { "1sg": "basai rhaid i mi / baswn i'n gorfod", "2sg": "basai rhaid i ti", "3sg_m": "basai rhaid iddo fo", "3sg_f": "basai rhaid iddi hi", "1pl": "basai rhaid i ni", "2pl": "basai rhaid i chi", "3pl": "basai rhaid iddyn nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "byddai rhaid i mi", "2sg": "byddai rhaid i ti", "3sg_m": "byddai rhaid iddo ef", "3sg_f": "byddai rhaid iddi hi", "1pl": "byddai rhaid i ni", "2pl": "byddai rhaid i chi", "3pl": "byddai rhaid iddynt hwy" },
+        "informal": { "1sg": "byddai rhaid i fi / byddwn i'n gorfod", "2sg": "byddai rhaid i ti", "3sg_m": "byddai rhaid iddo fe", "3sg_f": "byddai rhaid iddi hi", "1pl": "byddai rhaid i ni", "2pl": "byddai rhaid i chi", "3pl": "byddai rhaid iddyn nhw" }
+      }
+    }
+  }
+}

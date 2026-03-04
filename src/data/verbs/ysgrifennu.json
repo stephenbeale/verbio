@@ -1,0 +1,66 @@
+{
+  "id": "ysgrifennu",
+  "infinitive": "ysgrifennu",
+  "meaning": "to write",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: ysgrifen-. One of the longer Welsh verbs. In informal speech sometimes shortened colloquially.",
+  "mutations": { "soft": "ysgrifennu", "nasal": "ysgrifennu", "aspirate": "ysgrifennu" },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "ysgrifennaf i", "2sg": "ysgrifenni di", "3sg_m": "ysgrifenna ef", "3sg_f": "ysgrifenna hi", "1pl": "ysgrifennwn ni", "2pl": "ysgrifennwch chi", "3pl": "ysgrifennant hwy" },
+        "informal": { "1sg": "dw i'n ysgrifennu", "2sg": "ti'n ysgrifennu", "3sg_m": "mae o'n ysgrifennu", "3sg_f": "mae hi'n ysgrifennu", "1pl": "dan ni'n ysgrifennu", "2pl": "dach chi'n ysgrifennu", "3pl": "maen nhw'n ysgrifennu" }
+      },
+      "south": {
+        "formal":   { "1sg": "ysgrifennaf i", "2sg": "ysgrifenni di", "3sg_m": "ysgrifenna ef", "3sg_f": "ysgrifenna hi", "1pl": "ysgrifennwn ni", "2pl": "ysgrifennwch chi", "3pl": "ysgrifennant hwy" },
+        "informal": { "1sg": "dw i'n ysgrifennu", "2sg": "rwyt ti'n ysgrifennu", "3sg_m": "mae e'n ysgrifennu", "3sg_f": "mae hi'n ysgrifennu", "1pl": "r'yn ni'n ysgrifennu", "2pl": "r'ych chi'n ysgrifennu", "3pl": "maen nhw'n ysgrifennu" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "ysgrifennais i", "2sg": "ysgrifennaist ti", "3sg_m": "ysgrifennodd ef", "3sg_f": "ysgrifennodd hi", "1pl": "ysgrifennom ni", "2pl": "ysgrifennoch chi", "3pl": "ysgrifennont hwy" },
+        "informal": { "1sg": "ysgrifennais i", "2sg": "ysgrifennaist ti", "3sg_m": "ysgrifennodd o", "3sg_f": "ysgrifennodd hi", "1pl": "ysgrifennon ni", "2pl": "ysgrifennoch chi", "3pl": "ysgrifennon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "ysgrifennais i", "2sg": "ysgrifennaist ti", "3sg_m": "ysgrifennodd ef", "3sg_f": "ysgrifennodd hi", "1pl": "ysgrifennom ni", "2pl": "ysgrifennoch chi", "3pl": "ysgrifennont hwy" },
+        "informal": { "1sg": "ysgrifennes i", "2sg": "ysgrifennest ti", "3sg_m": "ysgrifennodd e", "3sg_f": "ysgrifennodd hi", "1pl": "ysgrifennon ni", "2pl": "ysgrifennoch chi", "3pl": "ysgrifennon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "ysgrifennwn i", "2sg": "ysgrifennet ti", "3sg_m": "ysgrifennai ef", "3sg_f": "ysgrifennai hi", "1pl": "ysgrifennem ni", "2pl": "ysgrifennech chi", "3pl": "ysgrifennent hwy" },
+        "informal": { "1sg": "ro'n i'n ysgrifennu", "2sg": "ro't ti'n ysgrifennu", "3sg_m": "roedd o'n ysgrifennu", "3sg_f": "roedd hi'n ysgrifennu", "1pl": "roedden ni'n ysgrifennu", "2pl": "roeddech chi'n ysgrifennu", "3pl": "roedden nhw'n ysgrifennu" }
+      },
+      "south": {
+        "formal":   { "1sg": "ysgrifennwn i", "2sg": "ysgrifennet ti", "3sg_m": "ysgrifennai ef", "3sg_f": "ysgrifennai hi", "1pl": "ysgrifennem ni", "2pl": "ysgrifennech chi", "3pl": "ysgrifennent hwy" },
+        "informal": { "1sg": "ro'n i'n ysgrifennu", "2sg": "ro't ti'n ysgrifennu", "3sg_m": "roedd e'n ysgrifennu", "3sg_f": "roedd hi'n ysgrifennu", "1pl": "roedden ni'n ysgrifennu", "2pl": "roeddech chi'n ysgrifennu", "3pl": "roedden nhw'n ysgrifennu" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "ysgrifennaf i", "2sg": "ysgrifenni di", "3sg_m": "ysgrifenna ef", "3sg_f": "ysgrifenna hi", "1pl": "ysgrifennwn ni", "2pl": "ysgrifennwch chi", "3pl": "ysgrifennant hwy" },
+        "informal": { "1sg": "bydda i'n ysgrifennu", "2sg": "byddi di'n ysgrifennu", "3sg_m": "bydd o'n ysgrifennu", "3sg_f": "bydd hi'n ysgrifennu", "1pl": "byddwn ni'n ysgrifennu", "2pl": "byddwch chi'n ysgrifennu", "3pl": "byddan nhw'n ysgrifennu" }
+      },
+      "south": {
+        "formal":   { "1sg": "ysgrifennaf i", "2sg": "ysgrifenni di", "3sg_m": "ysgrifenna ef", "3sg_f": "ysgrifenna hi", "1pl": "ysgrifennwn ni", "2pl": "ysgrifennwch chi", "3pl": "ysgrifennant hwy" },
+        "informal": { "1sg": "bydda i'n ysgrifennu", "2sg": "byddi di'n ysgrifennu", "3sg_m": "bydd e'n ysgrifennu", "3sg_f": "bydd hi'n ysgrifennu", "1pl": "byddwn ni'n ysgrifennu", "2pl": "byddwch chi'n ysgrifennu", "3pl": "byddan nhw'n ysgrifennu" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "ysgrifennwn i", "2sg": "ysgrifennet ti", "3sg_m": "ysgrifennai ef", "3sg_f": "ysgrifennai hi", "1pl": "ysgrifennem ni", "2pl": "ysgrifennech chi", "3pl": "ysgrifennent hwy" },
+        "informal": { "1sg": "baswn i'n ysgrifennu", "2sg": "baset ti'n ysgrifennu", "3sg_m": "basai fo'n ysgrifennu", "3sg_f": "basai hi'n ysgrifennu", "1pl": "basen ni'n ysgrifennu", "2pl": "basech chi'n ysgrifennu", "3pl": "basen nhw'n ysgrifennu" }
+      },
+      "south": {
+        "formal":   { "1sg": "ysgrifennwn i", "2sg": "ysgrifennet ti", "3sg_m": "ysgrifennai ef", "3sg_f": "ysgrifennai hi", "1pl": "ysgrifennem ni", "2pl": "ysgrifennech chi", "3pl": "ysgrifennent hwy" },
+        "informal": { "1sg": "byddwn i'n ysgrifennu", "2sg": "byddet ti'n ysgrifennu", "3sg_m": "byddai fe'n ysgrifennu", "3sg_f": "byddai hi'n ysgrifennu", "1pl": "bydden ni'n ysgrifennu", "2pl": "byddech chi'n ysgrifennu", "3pl": "bydden nhw'n ysgrifennu" }
+      }
+    }
+  }
+}

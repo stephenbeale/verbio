@@ -1,0 +1,66 @@
+{
+  "id": "deall",
+  "infinitive": "deall",
+  "meaning": "to understand",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: deall-. Often used in expressions of comprehension: 'dw i'n deall' (I understand). The negative 'dw i ddim yn deall' is equally common.",
+  "mutations": { "soft": "ddeall", "nasal": "ndeall", "aspirate": null },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "deallaf i", "2sg": "dealli di", "3sg_m": "deall ef", "3sg_f": "deall hi", "1pl": "deallwn ni", "2pl": "deallwch chi", "3pl": "deallant hwy" },
+        "informal": { "1sg": "dw i'n deall", "2sg": "ti'n deall", "3sg_m": "mae o'n deall", "3sg_f": "mae hi'n deall", "1pl": "dan ni'n deall", "2pl": "dach chi'n deall", "3pl": "maen nhw'n deall" }
+      },
+      "south": {
+        "formal":   { "1sg": "deallaf i", "2sg": "dealli di", "3sg_m": "deall ef", "3sg_f": "deall hi", "1pl": "deallwn ni", "2pl": "deallwch chi", "3pl": "deallant hwy" },
+        "informal": { "1sg": "dw i'n deall", "2sg": "rwyt ti'n deall", "3sg_m": "mae e'n deall", "3sg_f": "mae hi'n deall", "1pl": "r'yn ni'n deall", "2pl": "r'ych chi'n deall", "3pl": "maen nhw'n deall" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "deallais i", "2sg": "deallaist ti", "3sg_m": "deallodd ef", "3sg_f": "deallodd hi", "1pl": "deallom ni", "2pl": "dealloch chi", "3pl": "deallont hwy" },
+        "informal": { "1sg": "deallais i", "2sg": "deallaist ti", "3sg_m": "deallodd o", "3sg_f": "deallodd hi", "1pl": "deallon ni", "2pl": "dealloch chi", "3pl": "deallon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "deallais i", "2sg": "deallaist ti", "3sg_m": "deallodd ef", "3sg_f": "deallodd hi", "1pl": "deallom ni", "2pl": "dealloch chi", "3pl": "deallont hwy" },
+        "informal": { "1sg": "dealles i", "2sg": "deallest ti", "3sg_m": "deallodd e", "3sg_f": "deallodd hi", "1pl": "deallon ni", "2pl": "dealloch chi", "3pl": "deallon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "deallwn i", "2sg": "deallt ti", "3sg_m": "deallai ef", "3sg_f": "deallai hi", "1pl": "deallem ni", "2pl": "deallech chi", "3pl": "deallent hwy" },
+        "informal": { "1sg": "ro'n i'n deall", "2sg": "ro't ti'n deall", "3sg_m": "roedd o'n deall", "3sg_f": "roedd hi'n deall", "1pl": "roedden ni'n deall", "2pl": "roeddech chi'n deall", "3pl": "roedden nhw'n deall" }
+      },
+      "south": {
+        "formal":   { "1sg": "deallwn i", "2sg": "deallt ti", "3sg_m": "deallai ef", "3sg_f": "deallai hi", "1pl": "deallem ni", "2pl": "deallech chi", "3pl": "deallent hwy" },
+        "informal": { "1sg": "ro'n i'n deall", "2sg": "ro't ti'n deall", "3sg_m": "roedd e'n deall", "3sg_f": "roedd hi'n deall", "1pl": "roedden ni'n deall", "2pl": "roeddech chi'n deall", "3pl": "roedden nhw'n deall" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "deallaf i", "2sg": "dealli di", "3sg_m": "deall ef", "3sg_f": "deall hi", "1pl": "deallwn ni", "2pl": "deallwch chi", "3pl": "deallant hwy" },
+        "informal": { "1sg": "bydda i'n deall", "2sg": "byddi di'n deall", "3sg_m": "bydd o'n deall", "3sg_f": "bydd hi'n deall", "1pl": "byddwn ni'n deall", "2pl": "byddwch chi'n deall", "3pl": "byddan nhw'n deall" }
+      },
+      "south": {
+        "formal":   { "1sg": "deallaf i", "2sg": "dealli di", "3sg_m": "deall ef", "3sg_f": "deall hi", "1pl": "deallwn ni", "2pl": "deallwch chi", "3pl": "deallant hwy" },
+        "informal": { "1sg": "bydda i'n deall", "2sg": "byddi di'n deall", "3sg_m": "bydd e'n deall", "3sg_f": "bydd hi'n deall", "1pl": "byddwn ni'n deall", "2pl": "byddwch chi'n deall", "3pl": "byddan nhw'n deall" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "deallwn i", "2sg": "deallt ti", "3sg_m": "deallai ef", "3sg_f": "deallai hi", "1pl": "deallem ni", "2pl": "deallech chi", "3pl": "deallent hwy" },
+        "informal": { "1sg": "baswn i'n deall", "2sg": "baset ti'n deall", "3sg_m": "basai fo'n deall", "3sg_f": "basai hi'n deall", "1pl": "basen ni'n deall", "2pl": "basech chi'n deall", "3pl": "basen nhw'n deall" }
+      },
+      "south": {
+        "formal":   { "1sg": "deallwn i", "2sg": "deallt ti", "3sg_m": "deallai ef", "3sg_f": "deallai hi", "1pl": "deallem ni", "2pl": "deallech chi", "3pl": "deallent hwy" },
+        "informal": { "1sg": "byddwn i'n deall", "2sg": "byddet ti'n deall", "3sg_m": "byddai fe'n deall", "3sg_f": "byddai hi'n deall", "1pl": "bydden ni'n deall", "2pl": "byddech chi'n deall", "3pl": "bydden nhw'n deall" }
+      }
+    }
+  }
+}

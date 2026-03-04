@@ -1,0 +1,66 @@
+{
+  "id": "edrych",
+  "infinitive": "edrych",
+  "meaning": "to look / to watch",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: edrych-. Takes 'ar' for looking at something: 'edrych ar y teledu' (watch TV). Takes 'am' for looking for: 'edrych am waith' (looking for work).",
+  "mutations": { "soft": "edrych", "nasal": "edrych", "aspirate": "edrych" },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "edrychaf i", "2sg": "edrychi di", "3sg_m": "edrych ef", "3sg_f": "edrych hi", "1pl": "edrychwn ni", "2pl": "edrychwch chi", "3pl": "edrychant hwy" },
+        "informal": { "1sg": "dw i'n edrych", "2sg": "ti'n edrych", "3sg_m": "mae o'n edrych", "3sg_f": "mae hi'n edrych", "1pl": "dan ni'n edrych", "2pl": "dach chi'n edrych", "3pl": "maen nhw'n edrych" }
+      },
+      "south": {
+        "formal":   { "1sg": "edrychaf i", "2sg": "edrychi di", "3sg_m": "edrych ef", "3sg_f": "edrych hi", "1pl": "edrychwn ni", "2pl": "edrychwch chi", "3pl": "edrychant hwy" },
+        "informal": { "1sg": "dw i'n edrych", "2sg": "rwyt ti'n edrych", "3sg_m": "mae e'n edrych", "3sg_f": "mae hi'n edrych", "1pl": "r'yn ni'n edrych", "2pl": "r'ych chi'n edrych", "3pl": "maen nhw'n edrych" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "edrychais i", "2sg": "edrychaist ti", "3sg_m": "edrychodd ef", "3sg_f": "edrychodd hi", "1pl": "edrychom ni", "2pl": "edrychoch chi", "3pl": "edrychont hwy" },
+        "informal": { "1sg": "edrychais i", "2sg": "edrychaist ti", "3sg_m": "edrychodd o", "3sg_f": "edrychodd hi", "1pl": "edrychon ni", "2pl": "edrychoch chi", "3pl": "edrychon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "edrychais i", "2sg": "edrychaist ti", "3sg_m": "edrychodd ef", "3sg_f": "edrychodd hi", "1pl": "edrychom ni", "2pl": "edrychoch chi", "3pl": "edrychont hwy" },
+        "informal": { "1sg": "edryches i", "2sg": "edrychest ti", "3sg_m": "edrychodd e", "3sg_f": "edrychodd hi", "1pl": "edrychon ni", "2pl": "edrychoch chi", "3pl": "edrychon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "edrychwn i", "2sg": "edrychit ti", "3sg_m": "edrychai ef", "3sg_f": "edrychai hi", "1pl": "edrychem ni", "2pl": "edrychech chi", "3pl": "edrychent hwy" },
+        "informal": { "1sg": "ro'n i'n edrych", "2sg": "ro't ti'n edrych", "3sg_m": "roedd o'n edrych", "3sg_f": "roedd hi'n edrych", "1pl": "roedden ni'n edrych", "2pl": "roeddech chi'n edrych", "3pl": "roedden nhw'n edrych" }
+      },
+      "south": {
+        "formal":   { "1sg": "edrychwn i", "2sg": "edrychit ti", "3sg_m": "edrychai ef", "3sg_f": "edrychai hi", "1pl": "edrychem ni", "2pl": "edrychech chi", "3pl": "edrychent hwy" },
+        "informal": { "1sg": "ro'n i'n edrych", "2sg": "ro't ti'n edrych", "3sg_m": "roedd e'n edrych", "3sg_f": "roedd hi'n edrych", "1pl": "roedden ni'n edrych", "2pl": "roeddech chi'n edrych", "3pl": "roedden nhw'n edrych" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "edrychaf i", "2sg": "edrychi di", "3sg_m": "edrych ef", "3sg_f": "edrych hi", "1pl": "edrychwn ni", "2pl": "edrychwch chi", "3pl": "edrychant hwy" },
+        "informal": { "1sg": "bydda i'n edrych", "2sg": "byddi di'n edrych", "3sg_m": "bydd o'n edrych", "3sg_f": "bydd hi'n edrych", "1pl": "byddwn ni'n edrych", "2pl": "byddwch chi'n edrych", "3pl": "byddan nhw'n edrych" }
+      },
+      "south": {
+        "formal":   { "1sg": "edrychaf i", "2sg": "edrychi di", "3sg_m": "edrych ef", "3sg_f": "edrych hi", "1pl": "edrychwn ni", "2pl": "edrychwch chi", "3pl": "edrychant hwy" },
+        "informal": { "1sg": "bydda i'n edrych", "2sg": "byddi di'n edrych", "3sg_m": "bydd e'n edrych", "3sg_f": "bydd hi'n edrych", "1pl": "byddwn ni'n edrych", "2pl": "byddwch chi'n edrych", "3pl": "byddan nhw'n edrych" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "edrychwn i", "2sg": "edrychit ti", "3sg_m": "edrychai ef", "3sg_f": "edrychai hi", "1pl": "edrychem ni", "2pl": "edrychech chi", "3pl": "edrychent hwy" },
+        "informal": { "1sg": "baswn i'n edrych", "2sg": "baset ti'n edrych", "3sg_m": "basai fo'n edrych", "3sg_f": "basai hi'n edrych", "1pl": "basen ni'n edrych", "2pl": "basech chi'n edrych", "3pl": "basen nhw'n edrych" }
+      },
+      "south": {
+        "formal":   { "1sg": "edrychwn i", "2sg": "edrychit ti", "3sg_m": "edrychai ef", "3sg_f": "edrychai hi", "1pl": "edrychem ni", "2pl": "edrychech chi", "3pl": "edrychent hwy" },
+        "informal": { "1sg": "byddwn i'n edrych", "2sg": "byddet ti'n edrych", "3sg_m": "byddai fe'n edrych", "3sg_f": "byddai hi'n edrych", "1pl": "bydden ni'n edrych", "2pl": "byddech chi'n edrych", "3pl": "bydden nhw'n edrych" }
+      }
+    }
+  }
+}

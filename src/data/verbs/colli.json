@@ -1,0 +1,66 @@
+{
+  "id": "colli",
+  "infinitive": "colli",
+  "meaning": "to lose / to miss",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: coll-. Covers both 'to lose' (colli gêm) and 'to miss' (colli bws, colli rhywun).",
+  "mutations": { "soft": "golli", "nasal": "ngolli", "aspirate": "cholli" },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "collaf i", "2sg": "colli di", "3sg_m": "coll ef", "3sg_f": "coll hi", "1pl": "collwn ni", "2pl": "collwch chi", "3pl": "collant hwy" },
+        "informal": { "1sg": "dw i'n colli", "2sg": "ti'n colli", "3sg_m": "mae o'n colli", "3sg_f": "mae hi'n colli", "1pl": "dan ni'n colli", "2pl": "dach chi'n colli", "3pl": "maen nhw'n colli" }
+      },
+      "south": {
+        "formal":   { "1sg": "collaf i", "2sg": "colli di", "3sg_m": "coll ef", "3sg_f": "coll hi", "1pl": "collwn ni", "2pl": "collwch chi", "3pl": "collant hwy" },
+        "informal": { "1sg": "dw i'n colli", "2sg": "rwyt ti'n colli", "3sg_m": "mae e'n colli", "3sg_f": "mae hi'n colli", "1pl": "r'yn ni'n colli", "2pl": "r'ych chi'n colli", "3pl": "maen nhw'n colli" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "collais i", "2sg": "collaist ti", "3sg_m": "collodd ef", "3sg_f": "collodd hi", "1pl": "collom ni", "2pl": "colloch chi", "3pl": "collont hwy" },
+        "informal": { "1sg": "collais i", "2sg": "collaist ti", "3sg_m": "collodd o", "3sg_f": "collodd hi", "1pl": "collon ni", "2pl": "colloch chi", "3pl": "collon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "collais i", "2sg": "collaist ti", "3sg_m": "collodd ef", "3sg_f": "collodd hi", "1pl": "collom ni", "2pl": "colloch chi", "3pl": "collont hwy" },
+        "informal": { "1sg": "colles i", "2sg": "collest ti", "3sg_m": "collodd e", "3sg_f": "collodd hi", "1pl": "collon ni", "2pl": "colloch chi", "3pl": "collon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "collwn i", "2sg": "collet ti", "3sg_m": "collai ef", "3sg_f": "collai hi", "1pl": "collem ni", "2pl": "collech chi", "3pl": "collent hwy" },
+        "informal": { "1sg": "ro'n i'n colli", "2sg": "ro't ti'n colli", "3sg_m": "roedd o'n colli", "3sg_f": "roedd hi'n colli", "1pl": "roedden ni'n colli", "2pl": "roeddech chi'n colli", "3pl": "roedden nhw'n colli" }
+      },
+      "south": {
+        "formal":   { "1sg": "collwn i", "2sg": "collet ti", "3sg_m": "collai ef", "3sg_f": "collai hi", "1pl": "collem ni", "2pl": "collech chi", "3pl": "collent hwy" },
+        "informal": { "1sg": "ro'n i'n colli", "2sg": "ro't ti'n colli", "3sg_m": "roedd e'n colli", "3sg_f": "roedd hi'n colli", "1pl": "roedden ni'n colli", "2pl": "roeddech chi'n colli", "3pl": "roedden nhw'n colli" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "collaf i", "2sg": "colli di", "3sg_m": "coll ef", "3sg_f": "coll hi", "1pl": "collwn ni", "2pl": "collwch chi", "3pl": "collant hwy" },
+        "informal": { "1sg": "bydda i'n colli", "2sg": "byddi di'n colli", "3sg_m": "bydd o'n colli", "3sg_f": "bydd hi'n colli", "1pl": "byddwn ni'n colli", "2pl": "byddwch chi'n colli", "3pl": "byddan nhw'n colli" }
+      },
+      "south": {
+        "formal":   { "1sg": "collaf i", "2sg": "colli di", "3sg_m": "coll ef", "3sg_f": "coll hi", "1pl": "collwn ni", "2pl": "collwch chi", "3pl": "collant hwy" },
+        "informal": { "1sg": "bydda i'n colli", "2sg": "byddi di'n colli", "3sg_m": "bydd e'n colli", "3sg_f": "bydd hi'n colli", "1pl": "byddwn ni'n colli", "2pl": "byddwch chi'n colli", "3pl": "byddan nhw'n colli" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "collwn i", "2sg": "collet ti", "3sg_m": "collai ef", "3sg_f": "collai hi", "1pl": "collem ni", "2pl": "collech chi", "3pl": "collent hwy" },
+        "informal": { "1sg": "baswn i'n colli", "2sg": "baset ti'n colli", "3sg_m": "basai fo'n colli", "3sg_f": "basai hi'n colli", "1pl": "basen ni'n colli", "2pl": "basech chi'n colli", "3pl": "basen nhw'n colli" }
+      },
+      "south": {
+        "formal":   { "1sg": "collwn i", "2sg": "collet ti", "3sg_m": "collai ef", "3sg_f": "collai hi", "1pl": "collem ni", "2pl": "collech chi", "3pl": "collent hwy" },
+        "informal": { "1sg": "byddwn i'n colli", "2sg": "byddet ti'n colli", "3sg_m": "byddai fe'n colli", "3sg_f": "byddai hi'n colli", "1pl": "bydden ni'n colli", "2pl": "byddech chi'n colli", "3pl": "bydden nhw'n colli" }
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "eistedd",
+  "infinitive": "eistedd",
+  "meaning": "to sit",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: eistedd-. Very common: 'eisteddwch i lawr' (sit down). Also used in 'eisteddfod' (a festival where people sit/gather), Wales's famous cultural festival.",
+  "mutations": { "soft": "eistedd", "nasal": "eistedd", "aspirate": "eistedd" },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "eisteddaf i", "2sg": "eisteDD di", "3sg_m": "eistedd ef", "3sg_f": "eistedd hi", "1pl": "eisteddwn ni", "2pl": "eisteddwch chi", "3pl": "eisteddant hwy" },
+        "informal": { "1sg": "dw i'n eistedd", "2sg": "ti'n eistedd", "3sg_m": "mae o'n eistedd", "3sg_f": "mae hi'n eistedd", "1pl": "dan ni'n eistedd", "2pl": "dach chi'n eistedd", "3pl": "maen nhw'n eistedd" }
+      },
+      "south": {
+        "formal":   { "1sg": "eisteddaf i", "2sg": "eisteDD di", "3sg_m": "eistedd ef", "3sg_f": "eistedd hi", "1pl": "eisteddwn ni", "2pl": "eisteddwch chi", "3pl": "eisteddant hwy" },
+        "informal": { "1sg": "dw i'n eistedd", "2sg": "rwyt ti'n eistedd", "3sg_m": "mae e'n eistedd", "3sg_f": "mae hi'n eistedd", "1pl": "r'yn ni'n eistedd", "2pl": "r'ych chi'n eistedd", "3pl": "maen nhw'n eistedd" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "eisteddais i", "2sg": "eisteddaist ti", "3sg_m": "eisteddodd ef", "3sg_f": "eisteddodd hi", "1pl": "eisteRDdom ni", "2pl": "eisteddoch chi", "3pl": "eisteddont hwy" },
+        "informal": { "1sg": "eisteddais i", "2sg": "eisteddaist ti", "3sg_m": "eisteddodd o", "3sg_f": "eisteddodd hi", "1pl": "eisteRDdon ni", "2pl": "eisteddoch chi", "3pl": "eisteRDdon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "eisteddais i", "2sg": "eisteddaist ti", "3sg_m": "eisteddodd ef", "3sg_f": "eisteddodd hi", "1pl": "eisteRDdom ni", "2pl": "eisteddoch chi", "3pl": "eisteddont hwy" },
+        "informal": { "1sg": "eisteDdes i", "2sg": "eisteDdest ti", "3sg_m": "eisteddodd e", "3sg_f": "eisteddodd hi", "1pl": "eisteRDdon ni", "2pl": "eisteddoch chi", "3pl": "eisteRDdon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "eisteddwn i", "2sg": "eisteRDdet ti", "3sg_m": "eisteddai ef", "3sg_f": "eisteddai hi", "1pl": "eisteRDdem ni", "2pl": "eisteRDdech chi", "3pl": "eisteddent hwy" },
+        "informal": { "1sg": "ro'n i'n eistedd", "2sg": "ro't ti'n eistedd", "3sg_m": "roedd o'n eistedd", "3sg_f": "roedd hi'n eistedd", "1pl": "roedden ni'n eistedd", "2pl": "roeddech chi'n eistedd", "3pl": "roedden nhw'n eistedd" }
+      },
+      "south": {
+        "formal":   { "1sg": "eisteddwn i", "2sg": "eisteRDdet ti", "3sg_m": "eisteddai ef", "3sg_f": "eisteddai hi", "1pl": "eisteRDdem ni", "2pl": "eisteRDdech chi", "3pl": "eisteddent hwy" },
+        "informal": { "1sg": "ro'n i'n eistedd", "2sg": "ro't ti'n eistedd", "3sg_m": "roedd e'n eistedd", "3sg_f": "roedd hi'n eistedd", "1pl": "roedden ni'n eistedd", "2pl": "roeddech chi'n eistedd", "3pl": "roedden nhw'n eistedd" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "eisteddaf i", "2sg": "eisteDD di", "3sg_m": "eistedd ef", "3sg_f": "eistedd hi", "1pl": "eisteddwn ni", "2pl": "eisteddwch chi", "3pl": "eisteddant hwy" },
+        "informal": { "1sg": "bydda i'n eistedd", "2sg": "byddi di'n eistedd", "3sg_m": "bydd o'n eistedd", "3sg_f": "bydd hi'n eistedd", "1pl": "byddwn ni'n eistedd", "2pl": "byddwch chi'n eistedd", "3pl": "byddan nhw'n eistedd" }
+      },
+      "south": {
+        "formal":   { "1sg": "eisteddaf i", "2sg": "eisteDD di", "3sg_m": "eistedd ef", "3sg_f": "eistedd hi", "1pl": "eisteddwn ni", "2pl": "eisteddwch chi", "3pl": "eisteddant hwy" },
+        "informal": { "1sg": "bydda i'n eistedd", "2sg": "byddi di'n eistedd", "3sg_m": "bydd e'n eistedd", "3sg_f": "bydd hi'n eistedd", "1pl": "byddwn ni'n eistedd", "2pl": "byddwch chi'n eistedd", "3pl": "byddan nhw'n eistedd" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "eisteddwn i", "2sg": "eisteRDdet ti", "3sg_m": "eisteddai ef", "3sg_f": "eisteddai hi", "1pl": "eisteRDdem ni", "2pl": "eisteRDdech chi", "3pl": "eisteddent hwy" },
+        "informal": { "1sg": "baswn i'n eistedd", "2sg": "baset ti'n eistedd", "3sg_m": "basai fo'n eistedd", "3sg_f": "basai hi'n eistedd", "1pl": "basen ni'n eistedd", "2pl": "basech chi'n eistedd", "3pl": "basen nhw'n eistedd" }
+      },
+      "south": {
+        "formal":   { "1sg": "eisteddwn i", "2sg": "eisteRDdet ti", "3sg_m": "eisteddai ef", "3sg_f": "eisteddai hi", "1pl": "eisteRDdem ni", "2pl": "eisteRDdech chi", "3pl": "eisteddent hwy" },
+        "informal": { "1sg": "byddwn i'n eistedd", "2sg": "byddet ti'n eistedd", "3sg_m": "byddai fe'n eistedd", "3sg_f": "byddai hi'n eistedd", "1pl": "bydden ni'n eistedd", "2pl": "byddech chi'n eistedd", "3pl": "bydden nhw'n eistedd" }
+      }
+    }
+  }
+}

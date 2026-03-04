@@ -1,0 +1,66 @@
+{
+  "id": "caru",
+  "infinitive": "caru",
+  "meaning": "to love",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: car-. Note vowel length change in 3sg present: câr. Also used in the sense of 'to like' in some dialects.",
+  "mutations": { "soft": "garu", "nasal": "ngaru", "aspirate": "charu" },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "caraf i", "2sg": "ceri di", "3sg_m": "câr ef", "3sg_f": "câr hi", "1pl": "carwn ni", "2pl": "carwch chi", "3pl": "carant hwy" },
+        "informal": { "1sg": "dw i'n caru", "2sg": "ti'n caru", "3sg_m": "mae o'n caru", "3sg_f": "mae hi'n caru", "1pl": "dan ni'n caru", "2pl": "dach chi'n caru", "3pl": "maen nhw'n caru" }
+      },
+      "south": {
+        "formal":   { "1sg": "caraf i", "2sg": "ceri di", "3sg_m": "câr ef", "3sg_f": "câr hi", "1pl": "carwn ni", "2pl": "carwch chi", "3pl": "carant hwy" },
+        "informal": { "1sg": "dw i'n caru", "2sg": "rwyt ti'n caru", "3sg_m": "mae e'n caru", "3sg_f": "mae hi'n caru", "1pl": "r'yn ni'n caru", "2pl": "r'ych chi'n caru", "3pl": "maen nhw'n caru" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "carais i", "2sg": "caraist ti", "3sg_m": "carodd ef", "3sg_f": "carodd hi", "1pl": "carom ni", "2pl": "caroch chi", "3pl": "caront hwy" },
+        "informal": { "1sg": "carais i", "2sg": "caraist ti", "3sg_m": "carodd o", "3sg_f": "carodd hi", "1pl": "caron ni", "2pl": "caroch chi", "3pl": "caron nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "carais i", "2sg": "caraist ti", "3sg_m": "carodd ef", "3sg_f": "carodd hi", "1pl": "carom ni", "2pl": "caroch chi", "3pl": "caront hwy" },
+        "informal": { "1sg": "cares i", "2sg": "carest ti", "3sg_m": "carodd e", "3sg_f": "carodd hi", "1pl": "caron ni", "2pl": "caroch chi", "3pl": "caron nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "carwn i", "2sg": "caret ti", "3sg_m": "carai ef", "3sg_f": "carai hi", "1pl": "carem ni", "2pl": "carech chi", "3pl": "carent hwy" },
+        "informal": { "1sg": "ro'n i'n caru", "2sg": "ro't ti'n caru", "3sg_m": "roedd o'n caru", "3sg_f": "roedd hi'n caru", "1pl": "roedden ni'n caru", "2pl": "roeddech chi'n caru", "3pl": "roedden nhw'n caru" }
+      },
+      "south": {
+        "formal":   { "1sg": "carwn i", "2sg": "caret ti", "3sg_m": "carai ef", "3sg_f": "carai hi", "1pl": "carem ni", "2pl": "carech chi", "3pl": "carent hwy" },
+        "informal": { "1sg": "ro'n i'n caru", "2sg": "ro't ti'n caru", "3sg_m": "roedd e'n caru", "3sg_f": "roedd hi'n caru", "1pl": "roedden ni'n caru", "2pl": "roeddech chi'n caru", "3pl": "roedden nhw'n caru" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "caraf i", "2sg": "ceri di", "3sg_m": "câr ef", "3sg_f": "câr hi", "1pl": "carwn ni", "2pl": "carwch chi", "3pl": "carant hwy" },
+        "informal": { "1sg": "bydda i'n caru", "2sg": "byddi di'n caru", "3sg_m": "bydd o'n caru", "3sg_f": "bydd hi'n caru", "1pl": "byddwn ni'n caru", "2pl": "byddwch chi'n caru", "3pl": "byddan nhw'n caru" }
+      },
+      "south": {
+        "formal":   { "1sg": "caraf i", "2sg": "ceri di", "3sg_m": "câr ef", "3sg_f": "câr hi", "1pl": "carwn ni", "2pl": "carwch chi", "3pl": "carant hwy" },
+        "informal": { "1sg": "bydda i'n caru", "2sg": "byddi di'n caru", "3sg_m": "bydd e'n caru", "3sg_f": "bydd hi'n caru", "1pl": "byddwn ni'n caru", "2pl": "byddwch chi'n caru", "3pl": "byddan nhw'n caru" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "carwn i", "2sg": "caret ti", "3sg_m": "carai ef", "3sg_f": "carai hi", "1pl": "carem ni", "2pl": "carech chi", "3pl": "carent hwy" },
+        "informal": { "1sg": "baswn i'n caru", "2sg": "baset ti'n caru", "3sg_m": "basai fo'n caru", "3sg_f": "basai hi'n caru", "1pl": "basen ni'n caru", "2pl": "basech chi'n caru", "3pl": "basen nhw'n caru" }
+      },
+      "south": {
+        "formal":   { "1sg": "carwn i", "2sg": "caret ti", "3sg_m": "carai ef", "3sg_f": "carai hi", "1pl": "carem ni", "2pl": "carech chi", "3pl": "carent hwy" },
+        "informal": { "1sg": "byddwn i'n caru", "2sg": "byddet ti'n caru", "3sg_m": "byddai fe'n caru", "3sg_f": "byddai hi'n caru", "1pl": "bydden ni'n caru", "2pl": "byddech chi'n caru", "3pl": "bydden nhw'n caru" }
+      }
+    }
+  }
+}

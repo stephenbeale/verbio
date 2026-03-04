@@ -1,0 +1,66 @@
+{
+  "id": "casau",
+  "infinitive": "casáu",
+  "meaning": "to hate",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: casâ-. Note the circumflex in the infinitive (casáu) and some forms.",
+  "mutations": { "soft": "gasáu", "nasal": "nghasáu", "aspirate": "chasáu" },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "casâf i", "2sg": "casei di", "3sg_m": "casâ ef", "3sg_f": "casâ hi", "1pl": "caswn ni", "2pl": "caswch chi", "3pl": "casânt hwy" },
+        "informal": { "1sg": "dw i'n casáu", "2sg": "ti'n casáu", "3sg_m": "mae o'n casáu", "3sg_f": "mae hi'n casáu", "1pl": "dan ni'n casáu", "2pl": "dach chi'n casáu", "3pl": "maen nhw'n casáu" }
+      },
+      "south": {
+        "formal":   { "1sg": "casâf i", "2sg": "casei di", "3sg_m": "casâ ef", "3sg_f": "casâ hi", "1pl": "caswn ni", "2pl": "caswch chi", "3pl": "casânt hwy" },
+        "informal": { "1sg": "dw i'n casáu", "2sg": "rwyt ti'n casáu", "3sg_m": "mae e'n casáu", "3sg_f": "mae hi'n casáu", "1pl": "r'yn ni'n casáu", "2pl": "r'ych chi'n casáu", "3pl": "maen nhw'n casáu" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "casais i", "2sg": "casaist ti", "3sg_m": "casodd ef", "3sg_f": "casodd hi", "1pl": "casom ni", "2pl": "casoch chi", "3pl": "casont hwy" },
+        "informal": { "1sg": "casais i", "2sg": "casaist ti", "3sg_m": "casodd o", "3sg_f": "casodd hi", "1pl": "cason ni", "2pl": "casoch chi", "3pl": "cason nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "casais i", "2sg": "casaist ti", "3sg_m": "casodd ef", "3sg_f": "casodd hi", "1pl": "casom ni", "2pl": "casoch chi", "3pl": "casont hwy" },
+        "informal": { "1sg": "cases i", "2sg": "casest ti", "3sg_m": "casodd e", "3sg_f": "casodd hi", "1pl": "cason ni", "2pl": "casoch chi", "3pl": "cason nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "caswn i", "2sg": "caset ti", "3sg_m": "casai ef", "3sg_f": "casai hi", "1pl": "casem ni", "2pl": "casech chi", "3pl": "casent hwy" },
+        "informal": { "1sg": "ro'n i'n casáu", "2sg": "ro't ti'n casáu", "3sg_m": "roedd o'n casáu", "3sg_f": "roedd hi'n casáu", "1pl": "roedden ni'n casáu", "2pl": "roeddech chi'n casáu", "3pl": "roedden nhw'n casáu" }
+      },
+      "south": {
+        "formal":   { "1sg": "caswn i", "2sg": "caset ti", "3sg_m": "casai ef", "3sg_f": "casai hi", "1pl": "casem ni", "2pl": "casech chi", "3pl": "casent hwy" },
+        "informal": { "1sg": "ro'n i'n casáu", "2sg": "ro't ti'n casáu", "3sg_m": "roedd e'n casáu", "3sg_f": "roedd hi'n casáu", "1pl": "roedden ni'n casáu", "2pl": "roeddech chi'n casáu", "3pl": "roedden nhw'n casáu" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "casâf i", "2sg": "casei di", "3sg_m": "casâ ef", "3sg_f": "casâ hi", "1pl": "caswn ni", "2pl": "caswch chi", "3pl": "casânt hwy" },
+        "informal": { "1sg": "bydda i'n casáu", "2sg": "byddi di'n casáu", "3sg_m": "bydd o'n casáu", "3sg_f": "bydd hi'n casáu", "1pl": "byddwn ni'n casáu", "2pl": "byddwch chi'n casáu", "3pl": "byddan nhw'n casáu" }
+      },
+      "south": {
+        "formal":   { "1sg": "casâf i", "2sg": "casei di", "3sg_m": "casâ ef", "3sg_f": "casâ hi", "1pl": "caswn ni", "2pl": "caswch chi", "3pl": "casânt hwy" },
+        "informal": { "1sg": "bydda i'n casáu", "2sg": "byddi di'n casáu", "3sg_m": "bydd e'n casáu", "3sg_f": "bydd hi'n casáu", "1pl": "byddwn ni'n casáu", "2pl": "byddwch chi'n casáu", "3pl": "byddan nhw'n casáu" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "caswn i", "2sg": "caset ti", "3sg_m": "casai ef", "3sg_f": "casai hi", "1pl": "casem ni", "2pl": "casech chi", "3pl": "casent hwy" },
+        "informal": { "1sg": "baswn i'n casáu", "2sg": "baset ti'n casáu", "3sg_m": "basai fo'n casáu", "3sg_f": "basai hi'n casáu", "1pl": "basen ni'n casáu", "2pl": "basech chi'n casáu", "3pl": "basen nhw'n casáu" }
+      },
+      "south": {
+        "formal":   { "1sg": "caswn i", "2sg": "caset ti", "3sg_m": "casai ef", "3sg_f": "casai hi", "1pl": "casem ni", "2pl": "casech chi", "3pl": "casent hwy" },
+        "informal": { "1sg": "byddwn i'n casáu", "2sg": "byddet ti'n casáu", "3sg_m": "byddai fe'n casáu", "3sg_f": "byddai hi'n casáu", "1pl": "bydden ni'n casáu", "2pl": "byddech chi'n casáu", "3pl": "bydden nhw'n casáu" }
+      }
+    }
+  }
+}

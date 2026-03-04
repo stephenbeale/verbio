@@ -1,0 +1,66 @@
+{
+  "id": "meddwl",
+  "infinitive": "meddwl",
+  "meaning": "to think",
+  "type": "irregular",
+  "tags": ["common"],
+  "notes": "The verboun is 'meddwl' but inflected forms use the stem 'meddyli-'. Also means 'to mean' (in the sense of intending): 'beth wyt ti'n feddwl?' (what do you mean / what do you think?).",
+  "mutations": { "soft": "feddwl", "nasal": "meddwl", "aspirate": null },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "meddyliaf i", "2sg": "meddyli di", "3sg_m": "meddylia ef", "3sg_f": "meddylia hi", "1pl": "meddyliwn ni", "2pl": "meddyliwch chi", "3pl": "meddyliant hwy" },
+        "informal": { "1sg": "dw i'n meddwl", "2sg": "ti'n meddwl", "3sg_m": "mae o'n meddwl", "3sg_f": "mae hi'n meddwl", "1pl": "dan ni'n meddwl", "2pl": "dach chi'n meddwl", "3pl": "maen nhw'n meddwl" }
+      },
+      "south": {
+        "formal":   { "1sg": "meddyliaf i", "2sg": "meddyli di", "3sg_m": "meddylia ef", "3sg_f": "meddylia hi", "1pl": "meddyliwn ni", "2pl": "meddyliwch chi", "3pl": "meddyliant hwy" },
+        "informal": { "1sg": "dw i'n meddwl", "2sg": "rwyt ti'n meddwl", "3sg_m": "mae e'n meddwl", "3sg_f": "mae hi'n meddwl", "1pl": "r'yn ni'n meddwl", "2pl": "r'ych chi'n meddwl", "3pl": "maen nhw'n meddwl" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "meddyliais i", "2sg": "meddyliaist ti", "3sg_m": "meddyliodd ef", "3sg_f": "meddyliodd hi", "1pl": "meddyliom ni", "2pl": "meddylioch chi", "3pl": "meddyliont hwy" },
+        "informal": { "1sg": "meddyliais i / nes i feddwl", "2sg": "meddyliaist ti", "3sg_m": "meddyliodd o", "3sg_f": "meddyliodd hi", "1pl": "meddylion ni", "2pl": "meddylioch chi", "3pl": "meddylion nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "meddyliais i", "2sg": "meddyliaist ti", "3sg_m": "meddyliodd ef", "3sg_f": "meddyliodd hi", "1pl": "meddyliom ni", "2pl": "meddylioch chi", "3pl": "meddyliont hwy" },
+        "informal": { "1sg": "meddylies i / nethes i feddwl", "2sg": "meddyliest ti", "3sg_m": "meddyliodd e", "3sg_f": "meddyliodd hi", "1pl": "meddylion ni", "2pl": "meddylioch chi", "3pl": "meddylion nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "meddyliwn i", "2sg": "meddyliet ti", "3sg_m": "meddyliai ef", "3sg_f": "meddyliai hi", "1pl": "meddyliem ni", "2pl": "meddyliech chi", "3pl": "meddylient hwy" },
+        "informal": { "1sg": "ro'n i'n meddwl", "2sg": "ro't ti'n meddwl", "3sg_m": "roedd o'n meddwl", "3sg_f": "roedd hi'n meddwl", "1pl": "roedden ni'n meddwl", "2pl": "roeddech chi'n meddwl", "3pl": "roedden nhw'n meddwl" }
+      },
+      "south": {
+        "formal":   { "1sg": "meddyliwn i", "2sg": "meddyliet ti", "3sg_m": "meddyliai ef", "3sg_f": "meddyliai hi", "1pl": "meddyliem ni", "2pl": "meddyliech chi", "3pl": "meddylient hwy" },
+        "informal": { "1sg": "ro'n i'n meddwl", "2sg": "ro't ti'n meddwl", "3sg_m": "roedd e'n meddwl", "3sg_f": "roedd hi'n meddwl", "1pl": "roedden ni'n meddwl", "2pl": "roeddech chi'n meddwl", "3pl": "roedden nhw'n meddwl" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "meddyliaf i", "2sg": "meddyli di", "3sg_m": "meddylia ef", "3sg_f": "meddylia hi", "1pl": "meddyliwn ni", "2pl": "meddyliwch chi", "3pl": "meddyliant hwy" },
+        "informal": { "1sg": "bydda i'n meddwl", "2sg": "byddi di'n meddwl", "3sg_m": "bydd o'n meddwl", "3sg_f": "bydd hi'n meddwl", "1pl": "byddwn ni'n meddwl", "2pl": "byddwch chi'n meddwl", "3pl": "byddan nhw'n meddwl" }
+      },
+      "south": {
+        "formal":   { "1sg": "meddyliaf i", "2sg": "meddyli di", "3sg_m": "meddylia ef", "3sg_f": "meddylia hi", "1pl": "meddyliwn ni", "2pl": "meddyliwch chi", "3pl": "meddyliant hwy" },
+        "informal": { "1sg": "bydda i'n meddwl", "2sg": "byddi di'n meddwl", "3sg_m": "bydd e'n meddwl", "3sg_f": "bydd hi'n meddwl", "1pl": "byddwn ni'n meddwl", "2pl": "byddwch chi'n meddwl", "3pl": "byddan nhw'n meddwl" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "meddyliwn i", "2sg": "meddyliet ti", "3sg_m": "meddyliai ef", "3sg_f": "meddyliai hi", "1pl": "meddyliem ni", "2pl": "meddyliech chi", "3pl": "meddylient hwy" },
+        "informal": { "1sg": "baswn i'n meddwl", "2sg": "baset ti'n meddwl", "3sg_m": "basai fo'n meddwl", "3sg_f": "basai hi'n meddwl", "1pl": "basen ni'n meddwl", "2pl": "basech chi'n meddwl", "3pl": "basen nhw'n meddwl" }
+      },
+      "south": {
+        "formal":   { "1sg": "meddyliwn i", "2sg": "meddyliet ti", "3sg_m": "meddyliai ef", "3sg_f": "meddyliai hi", "1pl": "meddyliem ni", "2pl": "meddyliech chi", "3pl": "meddylient hwy" },
+        "informal": { "1sg": "byddwn i'n meddwl", "2sg": "byddet ti'n meddwl", "3sg_m": "byddai fe'n meddwl", "3sg_f": "byddai hi'n meddwl", "1pl": "bydden ni'n meddwl", "2pl": "byddech chi'n meddwl", "3pl": "bydden nhw'n meddwl" }
+      }
+    }
+  }
+}

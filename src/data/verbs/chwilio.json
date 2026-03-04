@@ -1,0 +1,66 @@
+{
+  "id": "chwilio",
+  "infinitive": "chwilio",
+  "meaning": "to search",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: chwili-. Used with 'am' for searching for something: 'chwilio am waith' (searching for work), 'chwilio am y goriad' (searching for the key). Common in everyday speech.",
+  "mutations": { "soft": "chwilio", "nasal": "chwilio", "aspirate": "chwilio" },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "chwiliaf i", "2sg": "chwili di", "3sg_m": "chwilia ef", "3sg_f": "chwilia hi", "1pl": "chwIliwn ni", "2pl": "chwIliwch chi", "3pl": "chwiliant hwy" },
+        "informal": { "1sg": "dw i'n chwilio", "2sg": "ti'n chwilio", "3sg_m": "mae o'n chwilio", "3sg_f": "mae hi'n chwilio", "1pl": "dan ni'n chwilio", "2pl": "dach chi'n chwilio", "3pl": "maen nhw'n chwilio" }
+      },
+      "south": {
+        "formal":   { "1sg": "chwiliaf i", "2sg": "chwili di", "3sg_m": "chwilia ef", "3sg_f": "chwilia hi", "1pl": "chwIliwn ni", "2pl": "chwIliwch chi", "3pl": "chwiliant hwy" },
+        "informal": { "1sg": "dw i'n chwilio", "2sg": "rwyt ti'n chwilio", "3sg_m": "mae e'n chwilio", "3sg_f": "mae hi'n chwilio", "1pl": "r'yn ni'n chwilio", "2pl": "r'ych chi'n chwilio", "3pl": "maen nhw'n chwilio" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "chwiliais i", "2sg": "chwiliaist ti", "3sg_m": "chwiliodd ef", "3sg_f": "chwiliodd hi", "1pl": "chwiliom ni", "2pl": "chwilioch chi", "3pl": "chwiliont hwy" },
+        "informal": { "1sg": "chwiliais i", "2sg": "chwiliaist ti", "3sg_m": "chwiliodd o", "3sg_f": "chwiliodd hi", "1pl": "chwilion ni", "2pl": "chwilioch chi", "3pl": "chwilion nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "chwiliais i", "2sg": "chwiliaist ti", "3sg_m": "chwiliodd ef", "3sg_f": "chwiliodd hi", "1pl": "chwiliom ni", "2pl": "chwilioch chi", "3pl": "chwiliont hwy" },
+        "informal": { "1sg": "chwilies i", "2sg": "chwiliest ti", "3sg_m": "chwiliodd e", "3sg_f": "chwiliodd hi", "1pl": "chwilion ni", "2pl": "chwilioch chi", "3pl": "chwilion nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "chwIliwn i", "2sg": "chwiliet ti", "3sg_m": "chwiliai ef", "3sg_f": "chwiliai hi", "1pl": "chwiliem ni", "2pl": "chwiliech chi", "3pl": "chwiliEnt hwy" },
+        "informal": { "1sg": "ro'n i'n chwilio", "2sg": "ro't ti'n chwilio", "3sg_m": "roedd o'n chwilio", "3sg_f": "roedd hi'n chwilio", "1pl": "roedden ni'n chwilio", "2pl": "roeddech chi'n chwilio", "3pl": "roedden nhw'n chwilio" }
+      },
+      "south": {
+        "formal":   { "1sg": "chwIliwn i", "2sg": "chwiliet ti", "3sg_m": "chwiliai ef", "3sg_f": "chwiliai hi", "1pl": "chwiliem ni", "2pl": "chwiliech chi", "3pl": "chwiliEnt hwy" },
+        "informal": { "1sg": "ro'n i'n chwilio", "2sg": "ro't ti'n chwilio", "3sg_m": "roedd e'n chwilio", "3sg_f": "roedd hi'n chwilio", "1pl": "roedden ni'n chwilio", "2pl": "roeddech chi'n chwilio", "3pl": "roedden nhw'n chwilio" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "chwiliaf i", "2sg": "chwili di", "3sg_m": "chwilia ef", "3sg_f": "chwilia hi", "1pl": "chwIliwn ni", "2pl": "chwIliwch chi", "3pl": "chwiliant hwy" },
+        "informal": { "1sg": "bydda i'n chwilio", "2sg": "byddi di'n chwilio", "3sg_m": "bydd o'n chwilio", "3sg_f": "bydd hi'n chwilio", "1pl": "byddwn ni'n chwilio", "2pl": "byddwch chi'n chwilio", "3pl": "byddan nhw'n chwilio" }
+      },
+      "south": {
+        "formal":   { "1sg": "chwiliaf i", "2sg": "chwili di", "3sg_m": "chwilia ef", "3sg_f": "chwilia hi", "1pl": "chwIliwn ni", "2pl": "chwIliwch chi", "3pl": "chwiliant hwy" },
+        "informal": { "1sg": "bydda i'n chwilio", "2sg": "byddi di'n chwilio", "3sg_m": "bydd e'n chwilio", "3sg_f": "bydd hi'n chwilio", "1pl": "byddwn ni'n chwilio", "2pl": "byddwch chi'n chwilio", "3pl": "byddan nhw'n chwilio" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "chwIliwn i", "2sg": "chwiliet ti", "3sg_m": "chwiliai ef", "3sg_f": "chwiliai hi", "1pl": "chwiliem ni", "2pl": "chwiliech chi", "3pl": "chwiliEnt hwy" },
+        "informal": { "1sg": "baswn i'n chwilio", "2sg": "baset ti'n chwilio", "3sg_m": "basai fo'n chwilio", "3sg_f": "basai hi'n chwilio", "1pl": "basen ni'n chwilio", "2pl": "basech chi'n chwilio", "3pl": "basen nhw'n chwilio" }
+      },
+      "south": {
+        "formal":   { "1sg": "chwIliwn i", "2sg": "chwiliet ti", "3sg_m": "chwiliai ef", "3sg_f": "chwiliai hi", "1pl": "chwiliem ni", "2pl": "chwiliech chi", "3pl": "chwiliEnt hwy" },
+        "informal": { "1sg": "byddwn i'n chwilio", "2sg": "byddet ti'n chwilio", "3sg_m": "byddai fe'n chwilio", "3sg_f": "byddai hi'n chwilio", "1pl": "bydden ni'n chwilio", "2pl": "byddech chi'n chwilio", "3pl": "bydden nhw'n chwilio" }
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "ennill",
+  "infinitive": "ennill",
+  "meaning": "to win / to earn",
+  "type": "regular",
+  "tags": ["common"],
+  "notes": "Regular verb. Stem: ennill-/enill-. Has two core meanings: to win (a competition) and to earn (money): 'ennill y gêm' (to win the game), 'ennill cyflog' (to earn a wage).",
+  "mutations": { "soft": "ennill", "nasal": "ennill", "aspirate": "ennill" },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "enillaf i", "2sg": "enilli di", "3sg_m": "enill ef", "3sg_f": "enill hi", "1pl": "enillwn ni", "2pl": "enillwch chi", "3pl": "enillant hwy" },
+        "informal": { "1sg": "dw i'n ennill", "2sg": "ti'n ennill", "3sg_m": "mae o'n ennill", "3sg_f": "mae hi'n ennill", "1pl": "dan ni'n ennill", "2pl": "dach chi'n ennill", "3pl": "maen nhw'n ennill" }
+      },
+      "south": {
+        "formal":   { "1sg": "enillaf i", "2sg": "enilli di", "3sg_m": "enill ef", "3sg_f": "enill hi", "1pl": "enillwn ni", "2pl": "enillwch chi", "3pl": "enillant hwy" },
+        "informal": { "1sg": "dw i'n ennill", "2sg": "rwyt ti'n ennill", "3sg_m": "mae e'n ennill", "3sg_f": "mae hi'n ennill", "1pl": "r'yn ni'n ennill", "2pl": "r'ych chi'n ennill", "3pl": "maen nhw'n ennill" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "enillais i", "2sg": "enillaist ti", "3sg_m": "enillodd ef", "3sg_f": "enillodd hi", "1pl": "enillom ni", "2pl": "enilloch chi", "3pl": "enillont hwy" },
+        "informal": { "1sg": "enillais i", "2sg": "enillaist ti", "3sg_m": "enillodd o", "3sg_f": "enillodd hi", "1pl": "enillon ni", "2pl": "enilloch chi", "3pl": "enillon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "enillais i", "2sg": "enillaist ti", "3sg_m": "enillodd ef", "3sg_f": "enillodd hi", "1pl": "enillom ni", "2pl": "enilloch chi", "3pl": "enillont hwy" },
+        "informal": { "1sg": "enilles i", "2sg": "enillest ti", "3sg_m": "enillodd e", "3sg_f": "enillodd hi", "1pl": "enillon ni", "2pl": "enilloch chi", "3pl": "enillon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "enillwn i", "2sg": "enillet ti", "3sg_m": "enillai ef", "3sg_f": "enillai hi", "1pl": "enillem ni", "2pl": "enillech chi", "3pl": "enillent hwy" },
+        "informal": { "1sg": "ro'n i'n ennill", "2sg": "ro't ti'n ennill", "3sg_m": "roedd o'n ennill", "3sg_f": "roedd hi'n ennill", "1pl": "roedden ni'n ennill", "2pl": "roeddech chi'n ennill", "3pl": "roedden nhw'n ennill" }
+      },
+      "south": {
+        "formal":   { "1sg": "enillwn i", "2sg": "enillet ti", "3sg_m": "enillai ef", "3sg_f": "enillai hi", "1pl": "enillem ni", "2pl": "enillech chi", "3pl": "enillent hwy" },
+        "informal": { "1sg": "ro'n i'n ennill", "2sg": "ro't ti'n ennill", "3sg_m": "roedd e'n ennill", "3sg_f": "roedd hi'n ennill", "1pl": "roedden ni'n ennill", "2pl": "roeddech chi'n ennill", "3pl": "roedden nhw'n ennill" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "enillaf i", "2sg": "enilli di", "3sg_m": "enill ef", "3sg_f": "enill hi", "1pl": "enillwn ni", "2pl": "enillwch chi", "3pl": "enillant hwy" },
+        "informal": { "1sg": "bydda i'n ennill", "2sg": "byddi di'n ennill", "3sg_m": "bydd o'n ennill", "3sg_f": "bydd hi'n ennill", "1pl": "byddwn ni'n ennill", "2pl": "byddwch chi'n ennill", "3pl": "byddan nhw'n ennill" }
+      },
+      "south": {
+        "formal":   { "1sg": "enillaf i", "2sg": "enilli di", "3sg_m": "enill ef", "3sg_f": "enill hi", "1pl": "enillwn ni", "2pl": "enillwch chi", "3pl": "enillant hwy" },
+        "informal": { "1sg": "bydda i'n ennill", "2sg": "byddi di'n ennill", "3sg_m": "bydd e'n ennill", "3sg_f": "bydd hi'n ennill", "1pl": "byddwn ni'n ennill", "2pl": "byddwch chi'n ennill", "3pl": "byddan nhw'n ennill" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "enillwn i", "2sg": "enillet ti", "3sg_m": "enillai ef", "3sg_f": "enillai hi", "1pl": "enillem ni", "2pl": "enillech chi", "3pl": "enillent hwy" },
+        "informal": { "1sg": "baswn i'n ennill", "2sg": "baset ti'n ennill", "3sg_m": "basai fo'n ennill", "3sg_f": "basai hi'n ennill", "1pl": "basen ni'n ennill", "2pl": "basech chi'n ennill", "3pl": "basen nhw'n ennill" }
+      },
+      "south": {
+        "formal":   { "1sg": "enillwn i", "2sg": "enillet ti", "3sg_m": "enillai ef", "3sg_f": "enillai hi", "1pl": "enillem ni", "2pl": "enillech chi", "3pl": "enillent hwy" },
+        "informal": { "1sg": "byddwn i'n ennill", "2sg": "byddet ti'n ennill", "3sg_m": "byddai fe'n ennill", "3sg_f": "byddai hi'n ennill", "1pl": "bydden ni'n ennill", "2pl": "byddech chi'n ennill", "3pl": "bydden nhw'n ennill" }
+      }
+    }
+  }
+}

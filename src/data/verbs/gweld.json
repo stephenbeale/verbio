@@ -1,0 +1,66 @@
+{
+  "id": "gweld",
+  "infinitive": "gweld",
+  "meaning": "to see",
+  "type": "regular",
+  "tags": ["essential", "common"],
+  "notes": "Regular verb. Stem: gwel-. 3sg present has a circumflex: gwêl. Also used figuratively: 'gweld eisiau' (to miss someone/something, literally 'to see the want').",
+  "mutations": { "soft": "weld", "nasal": "ngweld", "aspirate": null },
+  "tenses": {
+    "present": {
+      "label": "Present", "label_cy": "Presennol",
+      "north": {
+        "formal":   { "1sg": "gwelaf i", "2sg": "gweli di", "3sg_m": "gwêl ef", "3sg_f": "gwêl hi", "1pl": "gwelwn ni", "2pl": "gwelwch chi", "3pl": "gwelant hwy" },
+        "informal": { "1sg": "dw i'n gweld", "2sg": "ti'n gweld", "3sg_m": "mae o'n gweld", "3sg_f": "mae hi'n gweld", "1pl": "dan ni'n gweld", "2pl": "dach chi'n gweld", "3pl": "maen nhw'n gweld" }
+      },
+      "south": {
+        "formal":   { "1sg": "gwelaf i", "2sg": "gweli di", "3sg_m": "gwêl ef", "3sg_f": "gwêl hi", "1pl": "gwelwn ni", "2pl": "gwelwch chi", "3pl": "gwelant hwy" },
+        "informal": { "1sg": "dw i'n gweld", "2sg": "rwyt ti'n gweld", "3sg_m": "mae e'n gweld", "3sg_f": "mae hi'n gweld", "1pl": "r'yn ni'n gweld", "2pl": "r'ych chi'n gweld", "3pl": "maen nhw'n gweld" }
+      }
+    },
+    "past": {
+      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "north": {
+        "formal":   { "1sg": "gwelais i", "2sg": "gwelaist ti", "3sg_m": "gwelodd ef", "3sg_f": "gwelodd hi", "1pl": "gwelom ni", "2pl": "gweloch chi", "3pl": "gwelsant hwy" },
+        "informal": { "1sg": "gwelais i / nes i weld", "2sg": "gwelaist ti", "3sg_m": "gwelodd o", "3sg_f": "gwelodd hi", "1pl": "gwelon ni", "2pl": "gweloch chi", "3pl": "gwelon nhw" }
+      },
+      "south": {
+        "formal":   { "1sg": "gwelais i", "2sg": "gwelaist ti", "3sg_m": "gwelodd ef", "3sg_f": "gwelodd hi", "1pl": "gwelom ni", "2pl": "gweloch chi", "3pl": "gwelsant hwy" },
+        "informal": { "1sg": "gweles i / nethes i weld", "2sg": "gwelest ti", "3sg_m": "gwelodd e", "3sg_f": "gwelodd hi", "1pl": "gwelon ni", "2pl": "gweloch chi", "3pl": "gwelon nhw" }
+      }
+    },
+    "imperfect": {
+      "label": "Imperfect", "label_cy": "Amherffaith",
+      "north": {
+        "formal":   { "1sg": "gwelwn i", "2sg": "gwelet ti", "3sg_m": "gwelai ef", "3sg_f": "gwelai hi", "1pl": "gwelem ni", "2pl": "gwelech chi", "3pl": "gwelent hwy" },
+        "informal": { "1sg": "ro'n i'n gweld", "2sg": "ro't ti'n gweld", "3sg_m": "roedd o'n gweld", "3sg_f": "roedd hi'n gweld", "1pl": "roedden ni'n gweld", "2pl": "roeddech chi'n gweld", "3pl": "roedden nhw'n gweld" }
+      },
+      "south": {
+        "formal":   { "1sg": "gwelwn i", "2sg": "gwelet ti", "3sg_m": "gwelai ef", "3sg_f": "gwelai hi", "1pl": "gwelem ni", "2pl": "gwelech chi", "3pl": "gwelent hwy" },
+        "informal": { "1sg": "ro'n i'n gweld", "2sg": "ro't ti'n gweld", "3sg_m": "roedd e'n gweld", "3sg_f": "roedd hi'n gweld", "1pl": "roedden ni'n gweld", "2pl": "roeddech chi'n gweld", "3pl": "roedden nhw'n gweld" }
+      }
+    },
+    "future": {
+      "label": "Future", "label_cy": "Dyfodol",
+      "north": {
+        "formal":   { "1sg": "gwelaf i", "2sg": "gweli di", "3sg_m": "gwêl ef", "3sg_f": "gwêl hi", "1pl": "gwelwn ni", "2pl": "gwelwch chi", "3pl": "gwelant hwy" },
+        "informal": { "1sg": "bydda i'n gweld", "2sg": "byddi di'n gweld", "3sg_m": "bydd o'n gweld", "3sg_f": "bydd hi'n gweld", "1pl": "byddwn ni'n gweld", "2pl": "byddwch chi'n gweld", "3pl": "byddan nhw'n gweld" }
+      },
+      "south": {
+        "formal":   { "1sg": "gwelaf i", "2sg": "gweli di", "3sg_m": "gwêl ef", "3sg_f": "gwêl hi", "1pl": "gwelwn ni", "2pl": "gwelwch chi", "3pl": "gwelant hwy" },
+        "informal": { "1sg": "bydda i'n gweld", "2sg": "byddi di'n gweld", "3sg_m": "bydd e'n gweld", "3sg_f": "bydd hi'n gweld", "1pl": "byddwn ni'n gweld", "2pl": "byddwch chi'n gweld", "3pl": "byddan nhw'n gweld" }
+      }
+    },
+    "conditional": {
+      "label": "Conditional", "label_cy": "Amodol",
+      "north": {
+        "formal":   { "1sg": "gwelwn i", "2sg": "gwelet ti", "3sg_m": "gwelai ef", "3sg_f": "gwelai hi", "1pl": "gwelem ni", "2pl": "gwelech chi", "3pl": "gwelent hwy" },
+        "informal": { "1sg": "baswn i'n gweld", "2sg": "baset ti'n gweld", "3sg_m": "basai fo'n gweld", "3sg_f": "basai hi'n gweld", "1pl": "basen ni'n gweld", "2pl": "basech chi'n gweld", "3pl": "basen nhw'n gweld" }
+      },
+      "south": {
+        "formal":   { "1sg": "gwelwn i", "2sg": "gwelet ti", "3sg_m": "gwelai ef", "3sg_f": "gwelai hi", "1pl": "gwelem ni", "2pl": "gwelech chi", "3pl": "gwelent hwy" },
+        "informal": { "1sg": "byddwn i'n gweld", "2sg": "byddet ti'n gweld", "3sg_m": "byddai fe'n gweld", "3sg_f": "byddai hi'n gweld", "1pl": "bydden ni'n gweld", "2pl": "byddech chi'n gweld", "3pl": "bydden nhw'n gweld" }
+      }
+    }
+  }
+}
