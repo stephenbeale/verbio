@@ -92,6 +92,19 @@ export function Home() {
           ))}
         </div>
       </main>
+
+      <footer className="border-t border-slate-700 text-center px-4 py-6 text-xs text-slate-500">
+        Verbio is free and open source.{' '}
+        <a href="https://buymeacoffee.com/stephenbeale" target="_blank" rel="noopener noreferrer" className="text-amber-400 hover:text-amber-300 no-underline">
+          Buy me a coffee
+        </a>
+        {' · '}
+        Practising with a native speaker?{' '}
+        <a href="LEBARA_REFERRAL_URL" target="_blank" rel="noopener noreferrer" className="text-slate-400 underline hover:text-slate-300">
+          Lebara
+        </a>
+        {' '}has cheap international calls.
+      </footer>
     </div>
   )
 }
