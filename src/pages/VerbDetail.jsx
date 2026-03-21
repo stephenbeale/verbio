@@ -2,7 +2,7 @@ import { useParams, Link } from 'react-router-dom'
 import { verbs } from '../data/index.js'
 import { useFilters } from '../hooks/useFilters.js'
 import { TenseNav } from '../components/TenseNav.jsx'
-import { ToggleGroup } from '../components/ToggleGroup.jsx'
+import { DialectSwitch, RegisterSwitch, ShowAllToggle } from '../components/ToggleGroup.jsx'
 import { ConjugationTable } from '../components/ConjugationTable.jsx'
 import { MutationBadges } from '../components/MutationBadges.jsx'
 
@@ -71,27 +71,15 @@ export function VerbDetail() {
           <TenseNav verb={verb} activeTense={tense} onChange={setTense} />
         </section>
 
-        {/* Dialect & Register toggles */}
-        <div className="grid grid-cols-2 gap-4">
-          <ToggleGroup
-            label="Dialect"
-            value={dialect}
-            onChange={setDialect}
-            options={[
-              { value: 'north', label: 'N' },
-              { value: 'south', label: 'S' },
-              { value: 'both',  label: 'Both' },
-            ]}
-          />
-          <ToggleGroup
-            label="Register"
-            value={register}
-            onChange={setRegister}
-            options={[
-              { value: 'formal',   label: 'Formal' },
-              { value: 'informal', label: 'Informal' },
-              { value: 'both',     label: 'Both' },
-            ]}
+        {/* Dialect & Register controls */}
+        <div className="flex flex-wrap items-center gap-4">
+          <DialectSwitch value={dialect} onChange={setDialect} />
+          <RegisterSwitch value={register} onChange={setRegister} />
+          <ShowAllToggle
+            dialect={dialect}
+            register={register}
+            onDialectChange={setDialect}
+            onRegisterChange={setRegister}
           />
         </div>
 
