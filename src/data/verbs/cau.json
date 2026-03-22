@@ -3,63 +3,234 @@
   "infinitive": "cau",
   "meaning": "to close / to shut",
   "type": "regular",
-  "tags": ["common"],
+  "tags": [
+    "common"
+  ],
   "notes": "Regular verb. Stem: cae-. The verboun 'cau' has stem 'cae-' in inflected forms.",
-  "mutations": { "soft": "gau", "nasal": "ngau", "aspirate": "chau" },
+  "mutations": {
+    "soft": "gau",
+    "nasal": "ngau",
+    "aspirate": "chau"
+  },
   "tenses": {
     "present": {
-      "label": "Present", "label_cy": "Presennol",
+      "label": "Present",
+      "label_cy": "Presennol",
       "north": {
-        "formal":   { "1sg": "caeaf i", "2sg": "caei di", "3sg_m": "cae ef", "3sg_f": "cae hi", "1pl": "caewn ni", "2pl": "caewch chi", "3pl": "caeant hwy" },
-        "informal": { "1sg": "dw i'n cau", "2sg": "ti'n cau", "3sg_m": "mae o'n cau", "3sg_f": "mae hi'n cau", "1pl": "dan ni'n cau", "2pl": "dach chi'n cau", "3pl": "maen nhw'n cau" }
+        "formal": {
+          "1sg": "caeaf i",
+          "2sg": "caei di",
+          "3sg_m": "cae ef",
+          "3sg_f": "cae hi",
+          "1pl": "caewn ni",
+          "2pl": "caewch chi",
+          "3pl": "caeant hwy"
+        },
+        "informal": {
+          "1sg": "dw i'n cau",
+          "2sg": "ti'n cau",
+          "3sg_m": "mae o'n cau",
+          "3sg_f": "mae hi'n cau",
+          "1pl": "dan ni'n cau",
+          "2pl": "dach chi'n cau",
+          "3pl": "maen nhw'n cau"
+        }
       },
       "south": {
-        "formal":   { "1sg": "caeaf i", "2sg": "caei di", "3sg_m": "cae ef", "3sg_f": "cae hi", "1pl": "caewn ni", "2pl": "caewch chi", "3pl": "caeant hwy" },
-        "informal": { "1sg": "dw i'n cau", "2sg": "rwyt ti'n cau", "3sg_m": "mae e'n cau", "3sg_f": "mae hi'n cau", "1pl": "r'yn ni'n cau", "2pl": "r'ych chi'n cau", "3pl": "maen nhw'n cau" }
+        "formal": {
+          "1sg": "caeaf i",
+          "2sg": "caei di",
+          "3sg_m": "cae ef",
+          "3sg_f": "cae hi",
+          "1pl": "caewn ni",
+          "2pl": "caewch chi",
+          "3pl": "caeant hwy"
+        },
+        "informal": {
+          "1sg": "dw i'n cau",
+          "2sg": "rwyt ti'n cau",
+          "3sg_m": "mae e'n cau",
+          "3sg_f": "mae hi'n cau",
+          "1pl": "r'yn ni'n cau",
+          "2pl": "r'ych chi'n cau",
+          "3pl": "maen nhw'n cau"
+        }
       }
     },
     "past": {
-      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "label": "Past (Short Form)",
+      "label_cy": "Gorffennol",
       "north": {
-        "formal":   { "1sg": "caeais i", "2sg": "caeaist ti", "3sg_m": "caodd ef", "3sg_f": "caodd hi", "1pl": "caeom ni", "2pl": "caeoch chi", "3pl": "caeont hwy" },
-        "informal": { "1sg": "caeais i / nes i gau", "2sg": "caeaist ti", "3sg_m": "caodd o", "3sg_f": "caodd hi", "1pl": "caeon ni", "2pl": "caeoch chi", "3pl": "caeon nhw" }
+        "formal": {
+          "1sg": "caeais i",
+          "2sg": "caeaist ti",
+          "3sg_m": "caodd ef",
+          "3sg_f": "caodd hi",
+          "1pl": "caeom ni",
+          "2pl": "caeoch chi",
+          "3pl": "caeont hwy"
+        },
+        "informal": {
+          "1sg": "caeais i / nes i gau",
+          "2sg": "caeaist ti",
+          "3sg_m": "caodd o",
+          "3sg_f": "caodd hi",
+          "1pl": "caeon ni",
+          "2pl": "caeoch chi",
+          "3pl": "caeon nhw"
+        }
       },
       "south": {
-        "formal":   { "1sg": "caeais i", "2sg": "caeaist ti", "3sg_m": "caodd ef", "3sg_f": "caodd hi", "1pl": "caeom ni", "2pl": "caeoch chi", "3pl": "caeont hwy" },
-        "informal": { "1sg": "caees i / nethes i gau", "2sg": "caeest ti", "3sg_m": "caodd e", "3sg_f": "caodd hi", "1pl": "caeon ni", "2pl": "caeoch chi", "3pl": "caeon nhw" }
+        "formal": {
+          "1sg": "caeais i",
+          "2sg": "caeaist ti",
+          "3sg_m": "caodd ef",
+          "3sg_f": "caodd hi",
+          "1pl": "caeom ni",
+          "2pl": "caeoch chi",
+          "3pl": "caeont hwy"
+        },
+        "informal": {
+          "1sg": "caees i / nethes i gau",
+          "2sg": "caeest ti",
+          "3sg_m": "caodd e",
+          "3sg_f": "caodd hi",
+          "1pl": "caeon ni",
+          "2pl": "caeoch chi",
+          "3pl": "caeon nhw"
+        }
       }
     },
     "imperfect": {
-      "label": "Imperfect", "label_cy": "Amherffaith",
+      "label": "Imperfect",
+      "label_cy": "Amherffaith",
       "north": {
-        "formal":   { "1sg": "caewn i", "2sg": "caeet ti", "3sg_m": "caeai ef", "3sg_f": "caeai hi", "1pl": "caeEm ni", "2pl": "caeech chi", "3pl": "caeent hwy" },
-        "informal": { "1sg": "ro'n i'n cau", "2sg": "ro't ti'n cau", "3sg_m": "roedd o'n cau", "3sg_f": "roedd hi'n cau", "1pl": "roedden ni'n cau", "2pl": "roeddech chi'n cau", "3pl": "roedden nhw'n cau" }
+        "formal": {
+          "1sg": "caewn i",
+          "2sg": "caeet ti",
+          "3sg_m": "caeai ef",
+          "3sg_f": "caeai hi",
+          "1pl": "caeem ni",
+          "2pl": "caeech chi",
+          "3pl": "caeent hwy"
+        },
+        "informal": {
+          "1sg": "ro'n i'n cau",
+          "2sg": "ro't ti'n cau",
+          "3sg_m": "roedd o'n cau",
+          "3sg_f": "roedd hi'n cau",
+          "1pl": "roedden ni'n cau",
+          "2pl": "roeddech chi'n cau",
+          "3pl": "roedden nhw'n cau"
+        }
       },
       "south": {
-        "formal":   { "1sg": "caewn i", "2sg": "caeet ti", "3sg_m": "caeai ef", "3sg_f": "caeai hi", "1pl": "caeEm ni", "2pl": "caeech chi", "3pl": "caeent hwy" },
-        "informal": { "1sg": "ro'n i'n cau", "2sg": "ro't ti'n cau", "3sg_m": "roedd e'n cau", "3sg_f": "roedd hi'n cau", "1pl": "roedden ni'n cau", "2pl": "roeddech chi'n cau", "3pl": "roedden nhw'n cau" }
+        "formal": {
+          "1sg": "caewn i",
+          "2sg": "caeet ti",
+          "3sg_m": "caeai ef",
+          "3sg_f": "caeai hi",
+          "1pl": "caeem ni",
+          "2pl": "caeech chi",
+          "3pl": "caeent hwy"
+        },
+        "informal": {
+          "1sg": "ro'n i'n cau",
+          "2sg": "ro't ti'n cau",
+          "3sg_m": "roedd e'n cau",
+          "3sg_f": "roedd hi'n cau",
+          "1pl": "roedden ni'n cau",
+          "2pl": "roeddech chi'n cau",
+          "3pl": "roedden nhw'n cau"
+        }
       }
     },
     "future": {
-      "label": "Future", "label_cy": "Dyfodol",
+      "label": "Future",
+      "label_cy": "Dyfodol",
       "north": {
-        "formal":   { "1sg": "caeaf i", "2sg": "caei di", "3sg_m": "cae ef", "3sg_f": "cae hi", "1pl": "caewn ni", "2pl": "caewch chi", "3pl": "caeant hwy" },
-        "informal": { "1sg": "bydda i'n cau", "2sg": "byddi di'n cau", "3sg_m": "bydd o'n cau", "3sg_f": "bydd hi'n cau", "1pl": "byddwn ni'n cau", "2pl": "byddwch chi'n cau", "3pl": "byddan nhw'n cau" }
+        "formal": {
+          "1sg": "caeaf i",
+          "2sg": "caei di",
+          "3sg_m": "cae ef",
+          "3sg_f": "cae hi",
+          "1pl": "caewn ni",
+          "2pl": "caewch chi",
+          "3pl": "caeant hwy"
+        },
+        "informal": {
+          "1sg": "bydda i'n cau",
+          "2sg": "byddi di'n cau",
+          "3sg_m": "bydd o'n cau",
+          "3sg_f": "bydd hi'n cau",
+          "1pl": "byddwn ni'n cau",
+          "2pl": "byddwch chi'n cau",
+          "3pl": "byddan nhw'n cau"
+        }
       },
       "south": {
-        "formal":   { "1sg": "caeaf i", "2sg": "caei di", "3sg_m": "cae ef", "3sg_f": "cae hi", "1pl": "caewn ni", "2pl": "caewch chi", "3pl": "caeant hwy" },
-        "informal": { "1sg": "bydda i'n cau", "2sg": "byddi di'n cau", "3sg_m": "bydd e'n cau", "3sg_f": "bydd hi'n cau", "1pl": "byddwn ni'n cau", "2pl": "byddwch chi'n cau", "3pl": "byddan nhw'n cau" }
+        "formal": {
+          "1sg": "caeaf i",
+          "2sg": "caei di",
+          "3sg_m": "cae ef",
+          "3sg_f": "cae hi",
+          "1pl": "caewn ni",
+          "2pl": "caewch chi",
+          "3pl": "caeant hwy"
+        },
+        "informal": {
+          "1sg": "bydda i'n cau",
+          "2sg": "byddi di'n cau",
+          "3sg_m": "bydd e'n cau",
+          "3sg_f": "bydd hi'n cau",
+          "1pl": "byddwn ni'n cau",
+          "2pl": "byddwch chi'n cau",
+          "3pl": "byddan nhw'n cau"
+        }
       }
     },
     "conditional": {
-      "label": "Conditional", "label_cy": "Amodol",
+      "label": "Conditional",
+      "label_cy": "Amodol",
       "north": {
-        "formal":   { "1sg": "caewn i", "2sg": "caeet ti", "3sg_m": "caeai ef", "3sg_f": "caeai hi", "1pl": "caeEm ni", "2pl": "caeech chi", "3pl": "caeent hwy" },
-        "informal": { "1sg": "baswn i'n cau", "2sg": "baset ti'n cau", "3sg_m": "basai fo'n cau", "3sg_f": "basai hi'n cau", "1pl": "basen ni'n cau", "2pl": "basech chi'n cau", "3pl": "basen nhw'n cau" }
+        "formal": {
+          "1sg": "caewn i",
+          "2sg": "caeet ti",
+          "3sg_m": "caeai ef",
+          "3sg_f": "caeai hi",
+          "1pl": "caeem ni",
+          "2pl": "caeech chi",
+          "3pl": "caeent hwy"
+        },
+        "informal": {
+          "1sg": "baswn i'n cau",
+          "2sg": "baset ti'n cau",
+          "3sg_m": "basai fo'n cau",
+          "3sg_f": "basai hi'n cau",
+          "1pl": "basen ni'n cau",
+          "2pl": "basech chi'n cau",
+          "3pl": "basen nhw'n cau"
+        }
       },
       "south": {
-        "formal":   { "1sg": "caewn i", "2sg": "caeet ti", "3sg_m": "caeai ef", "3sg_f": "caeai hi", "1pl": "caeEm ni", "2pl": "caeech chi", "3pl": "caeent hwy" },
-        "informal": { "1sg": "byddwn i'n cau", "2sg": "byddet ti'n cau", "3sg_m": "byddai fe'n cau", "3sg_f": "byddai hi'n cau", "1pl": "bydden ni'n cau", "2pl": "byddech chi'n cau", "3pl": "bydden nhw'n cau" }
+        "formal": {
+          "1sg": "caewn i",
+          "2sg": "caeet ti",
+          "3sg_m": "caeai ef",
+          "3sg_f": "caeai hi",
+          "1pl": "caeem ni",
+          "2pl": "caeech chi",
+          "3pl": "caeent hwy"
+        },
+        "informal": {
+          "1sg": "byddwn i'n cau",
+          "2sg": "byddet ti'n cau",
+          "3sg_m": "byddai fe'n cau",
+          "3sg_f": "byddai hi'n cau",
+          "1pl": "bydden ni'n cau",
+          "2pl": "byddech chi'n cau",
+          "3pl": "bydden nhw'n cau"
+        }
       }
     }
   }

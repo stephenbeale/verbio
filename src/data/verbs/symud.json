@@ -3,63 +3,234 @@
   "infinitive": "symud",
   "meaning": "to move",
   "type": "regular",
-  "tags": ["common"],
+  "tags": [
+    "common"
+  ],
   "notes": "Regular verb. Stem: symud-. Used both transitively (to move something) and intransitively (to move, relocate): 'symud tŷ' (to move house).",
-  "mutations": { "soft": "symud", "nasal": "symud", "aspirate": "symud" },
+  "mutations": {
+    "soft": "symud",
+    "nasal": "symud",
+    "aspirate": "symud"
+  },
   "tenses": {
     "present": {
-      "label": "Present", "label_cy": "Presennol",
+      "label": "Present",
+      "label_cy": "Presennol",
       "north": {
-        "formal":   { "1sg": "symudaf i", "2sg": "symudi di", "3sg_m": "symud ef", "3sg_f": "symud hi", "1pl": "symudwn ni", "2pl": "symudwch chi", "3pl": "symudant hwy" },
-        "informal": { "1sg": "dw i'n symud", "2sg": "ti'n symud", "3sg_m": "mae o'n symud", "3sg_f": "mae hi'n symud", "1pl": "dan ni'n symud", "2pl": "dach chi'n symud", "3pl": "maen nhw'n symud" }
+        "formal": {
+          "1sg": "symudaf i",
+          "2sg": "symudi di",
+          "3sg_m": "symud ef",
+          "3sg_f": "symud hi",
+          "1pl": "symudwn ni",
+          "2pl": "symudwch chi",
+          "3pl": "symudant hwy"
+        },
+        "informal": {
+          "1sg": "dw i'n symud",
+          "2sg": "ti'n symud",
+          "3sg_m": "mae o'n symud",
+          "3sg_f": "mae hi'n symud",
+          "1pl": "dan ni'n symud",
+          "2pl": "dach chi'n symud",
+          "3pl": "maen nhw'n symud"
+        }
       },
       "south": {
-        "formal":   { "1sg": "symudaf i", "2sg": "symudi di", "3sg_m": "symud ef", "3sg_f": "symud hi", "1pl": "symudwn ni", "2pl": "symudwch chi", "3pl": "symudant hwy" },
-        "informal": { "1sg": "dw i'n symud", "2sg": "rwyt ti'n symud", "3sg_m": "mae e'n symud", "3sg_f": "mae hi'n symud", "1pl": "r'yn ni'n symud", "2pl": "r'ych chi'n symud", "3pl": "maen nhw'n symud" }
+        "formal": {
+          "1sg": "symudaf i",
+          "2sg": "symudi di",
+          "3sg_m": "symud ef",
+          "3sg_f": "symud hi",
+          "1pl": "symudwn ni",
+          "2pl": "symudwch chi",
+          "3pl": "symudant hwy"
+        },
+        "informal": {
+          "1sg": "dw i'n symud",
+          "2sg": "rwyt ti'n symud",
+          "3sg_m": "mae e'n symud",
+          "3sg_f": "mae hi'n symud",
+          "1pl": "r'yn ni'n symud",
+          "2pl": "r'ych chi'n symud",
+          "3pl": "maen nhw'n symud"
+        }
       }
     },
     "past": {
-      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "label": "Past (Short Form)",
+      "label_cy": "Gorffennol",
       "north": {
-        "formal":   { "1sg": "symudais i", "2sg": "symudaist ti", "3sg_m": "symuDodd ef", "3sg_f": "symuDodd hi", "1pl": "symudom ni", "2pl": "symudoch chi", "3pl": "symudont hwy" },
-        "informal": { "1sg": "symudais i", "2sg": "symudaist ti", "3sg_m": "symuDodd o", "3sg_f": "symuDodd hi", "1pl": "symudon ni", "2pl": "symudoch chi", "3pl": "symudon nhw" }
+        "formal": {
+          "1sg": "symudais i",
+          "2sg": "symudaist ti",
+          "3sg_m": "symudodd ef",
+          "3sg_f": "symudodd hi",
+          "1pl": "symudom ni",
+          "2pl": "symudoch chi",
+          "3pl": "symudont hwy"
+        },
+        "informal": {
+          "1sg": "symudais i",
+          "2sg": "symudaist ti",
+          "3sg_m": "symudodd o",
+          "3sg_f": "symudodd hi",
+          "1pl": "symudon ni",
+          "2pl": "symudoch chi",
+          "3pl": "symudon nhw"
+        }
       },
       "south": {
-        "formal":   { "1sg": "symudais i", "2sg": "symudaist ti", "3sg_m": "symuDodd ef", "3sg_f": "symuDodd hi", "1pl": "symudom ni", "2pl": "symudoch chi", "3pl": "symudont hwy" },
-        "informal": { "1sg": "symudes i", "2sg": "symudest ti", "3sg_m": "symuDodd e", "3sg_f": "symuDodd hi", "1pl": "symudon ni", "2pl": "symudoch chi", "3pl": "symudon nhw" }
+        "formal": {
+          "1sg": "symudais i",
+          "2sg": "symudaist ti",
+          "3sg_m": "symudodd ef",
+          "3sg_f": "symudodd hi",
+          "1pl": "symudom ni",
+          "2pl": "symudoch chi",
+          "3pl": "symudont hwy"
+        },
+        "informal": {
+          "1sg": "symudes i",
+          "2sg": "symudest ti",
+          "3sg_m": "symudodd e",
+          "3sg_f": "symudodd hi",
+          "1pl": "symudon ni",
+          "2pl": "symudoch chi",
+          "3pl": "symudon nhw"
+        }
       }
     },
     "imperfect": {
-      "label": "Imperfect", "label_cy": "Amherffaith",
+      "label": "Imperfect",
+      "label_cy": "Amherffaith",
       "north": {
-        "formal":   { "1sg": "symudwn i", "2sg": "symudet ti", "3sg_m": "symudai ef", "3sg_f": "symudai hi", "1pl": "symudem ni", "2pl": "symudech chi", "3pl": "symudent hwy" },
-        "informal": { "1sg": "ro'n i'n symud", "2sg": "ro't ti'n symud", "3sg_m": "roedd o'n symud", "3sg_f": "roedd hi'n symud", "1pl": "roedden ni'n symud", "2pl": "roeddech chi'n symud", "3pl": "roedden nhw'n symud" }
+        "formal": {
+          "1sg": "symudwn i",
+          "2sg": "symudet ti",
+          "3sg_m": "symudai ef",
+          "3sg_f": "symudai hi",
+          "1pl": "symudem ni",
+          "2pl": "symudech chi",
+          "3pl": "symudent hwy"
+        },
+        "informal": {
+          "1sg": "ro'n i'n symud",
+          "2sg": "ro't ti'n symud",
+          "3sg_m": "roedd o'n symud",
+          "3sg_f": "roedd hi'n symud",
+          "1pl": "roedden ni'n symud",
+          "2pl": "roeddech chi'n symud",
+          "3pl": "roedden nhw'n symud"
+        }
       },
       "south": {
-        "formal":   { "1sg": "symudwn i", "2sg": "symudet ti", "3sg_m": "symudai ef", "3sg_f": "symudai hi", "1pl": "symudem ni", "2pl": "symudech chi", "3pl": "symudent hwy" },
-        "informal": { "1sg": "ro'n i'n symud", "2sg": "ro't ti'n symud", "3sg_m": "roedd e'n symud", "3sg_f": "roedd hi'n symud", "1pl": "roedden ni'n symud", "2pl": "roeddech chi'n symud", "3pl": "roedden nhw'n symud" }
+        "formal": {
+          "1sg": "symudwn i",
+          "2sg": "symudet ti",
+          "3sg_m": "symudai ef",
+          "3sg_f": "symudai hi",
+          "1pl": "symudem ni",
+          "2pl": "symudech chi",
+          "3pl": "symudent hwy"
+        },
+        "informal": {
+          "1sg": "ro'n i'n symud",
+          "2sg": "ro't ti'n symud",
+          "3sg_m": "roedd e'n symud",
+          "3sg_f": "roedd hi'n symud",
+          "1pl": "roedden ni'n symud",
+          "2pl": "roeddech chi'n symud",
+          "3pl": "roedden nhw'n symud"
+        }
       }
     },
     "future": {
-      "label": "Future", "label_cy": "Dyfodol",
+      "label": "Future",
+      "label_cy": "Dyfodol",
       "north": {
-        "formal":   { "1sg": "symudaf i", "2sg": "symudi di", "3sg_m": "symud ef", "3sg_f": "symud hi", "1pl": "symudwn ni", "2pl": "symudwch chi", "3pl": "symudant hwy" },
-        "informal": { "1sg": "bydda i'n symud", "2sg": "byddi di'n symud", "3sg_m": "bydd o'n symud", "3sg_f": "bydd hi'n symud", "1pl": "byddwn ni'n symud", "2pl": "byddwch chi'n symud", "3pl": "byddan nhw'n symud" }
+        "formal": {
+          "1sg": "symudaf i",
+          "2sg": "symudi di",
+          "3sg_m": "symud ef",
+          "3sg_f": "symud hi",
+          "1pl": "symudwn ni",
+          "2pl": "symudwch chi",
+          "3pl": "symudant hwy"
+        },
+        "informal": {
+          "1sg": "bydda i'n symud",
+          "2sg": "byddi di'n symud",
+          "3sg_m": "bydd o'n symud",
+          "3sg_f": "bydd hi'n symud",
+          "1pl": "byddwn ni'n symud",
+          "2pl": "byddwch chi'n symud",
+          "3pl": "byddan nhw'n symud"
+        }
       },
       "south": {
-        "formal":   { "1sg": "symudaf i", "2sg": "symudi di", "3sg_m": "symud ef", "3sg_f": "symud hi", "1pl": "symudwn ni", "2pl": "symudwch chi", "3pl": "symudant hwy" },
-        "informal": { "1sg": "bydda i'n symud", "2sg": "byddi di'n symud", "3sg_m": "bydd e'n symud", "3sg_f": "bydd hi'n symud", "1pl": "byddwn ni'n symud", "2pl": "byddwch chi'n symud", "3pl": "byddan nhw'n symud" }
+        "formal": {
+          "1sg": "symudaf i",
+          "2sg": "symudi di",
+          "3sg_m": "symud ef",
+          "3sg_f": "symud hi",
+          "1pl": "symudwn ni",
+          "2pl": "symudwch chi",
+          "3pl": "symudant hwy"
+        },
+        "informal": {
+          "1sg": "bydda i'n symud",
+          "2sg": "byddi di'n symud",
+          "3sg_m": "bydd e'n symud",
+          "3sg_f": "bydd hi'n symud",
+          "1pl": "byddwn ni'n symud",
+          "2pl": "byddwch chi'n symud",
+          "3pl": "byddan nhw'n symud"
+        }
       }
     },
     "conditional": {
-      "label": "Conditional", "label_cy": "Amodol",
+      "label": "Conditional",
+      "label_cy": "Amodol",
       "north": {
-        "formal":   { "1sg": "symudwn i", "2sg": "symudet ti", "3sg_m": "symudai ef", "3sg_f": "symudai hi", "1pl": "symudem ni", "2pl": "symudech chi", "3pl": "symudent hwy" },
-        "informal": { "1sg": "baswn i'n symud", "2sg": "baset ti'n symud", "3sg_m": "basai fo'n symud", "3sg_f": "basai hi'n symud", "1pl": "basen ni'n symud", "2pl": "basech chi'n symud", "3pl": "basen nhw'n symud" }
+        "formal": {
+          "1sg": "symudwn i",
+          "2sg": "symudet ti",
+          "3sg_m": "symudai ef",
+          "3sg_f": "symudai hi",
+          "1pl": "symudem ni",
+          "2pl": "symudech chi",
+          "3pl": "symudent hwy"
+        },
+        "informal": {
+          "1sg": "baswn i'n symud",
+          "2sg": "baset ti'n symud",
+          "3sg_m": "basai fo'n symud",
+          "3sg_f": "basai hi'n symud",
+          "1pl": "basen ni'n symud",
+          "2pl": "basech chi'n symud",
+          "3pl": "basen nhw'n symud"
+        }
       },
       "south": {
-        "formal":   { "1sg": "symudwn i", "2sg": "symudet ti", "3sg_m": "symudai ef", "3sg_f": "symudai hi", "1pl": "symudem ni", "2pl": "symudech chi", "3pl": "symudent hwy" },
-        "informal": { "1sg": "byddwn i'n symud", "2sg": "byddet ti'n symud", "3sg_m": "byddai fe'n symud", "3sg_f": "byddai hi'n symud", "1pl": "bydden ni'n symud", "2pl": "byddech chi'n symud", "3pl": "bydden nhw'n symud" }
+        "formal": {
+          "1sg": "symudwn i",
+          "2sg": "symudet ti",
+          "3sg_m": "symudai ef",
+          "3sg_f": "symudai hi",
+          "1pl": "symudem ni",
+          "2pl": "symudech chi",
+          "3pl": "symudent hwy"
+        },
+        "informal": {
+          "1sg": "byddwn i'n symud",
+          "2sg": "byddet ti'n symud",
+          "3sg_m": "byddai fe'n symud",
+          "3sg_f": "byddai hi'n symud",
+          "1pl": "bydden ni'n symud",
+          "2pl": "byddech chi'n symud",
+          "3pl": "bydden nhw'n symud"
+        }
       }
     }
   }

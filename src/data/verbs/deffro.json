@@ -3,63 +3,234 @@
   "infinitive": "deffro",
   "meaning": "to wake up",
   "type": "regular",
-  "tags": ["common"],
+  "tags": [
+    "common"
+  ],
   "notes": "Regular verb. Stem: deffr-. Used both transitively (to wake someone) and intransitively (to wake up): 'deffrais i am saith' (I woke up at seven).",
-  "mutations": { "soft": "ddeffro", "nasal": "ndeffro", "aspirate": null },
+  "mutations": {
+    "soft": "ddeffro",
+    "nasal": "ndeffro",
+    "aspirate": null
+  },
   "tenses": {
     "present": {
-      "label": "Present", "label_cy": "Presennol",
+      "label": "Present",
+      "label_cy": "Presennol",
       "north": {
-        "formal":   { "1sg": "deffraf i", "2sg": "deffri di", "3sg_m": "deffra ef", "3sg_f": "deffra hi", "1pl": "deffrwn ni", "2pl": "deffrwch chi", "3pl": "deffrant hwy" },
-        "informal": { "1sg": "dw i'n deffro", "2sg": "ti'n deffro", "3sg_m": "mae o'n deffro", "3sg_f": "mae hi'n deffro", "1pl": "dan ni'n deffro", "2pl": "dach chi'n deffro", "3pl": "maen nhw'n deffro" }
+        "formal": {
+          "1sg": "deffraf i",
+          "2sg": "deffri di",
+          "3sg_m": "deffra ef",
+          "3sg_f": "deffra hi",
+          "1pl": "deffrwn ni",
+          "2pl": "deffrwch chi",
+          "3pl": "deffrant hwy"
+        },
+        "informal": {
+          "1sg": "dw i'n deffro",
+          "2sg": "ti'n deffro",
+          "3sg_m": "mae o'n deffro",
+          "3sg_f": "mae hi'n deffro",
+          "1pl": "dan ni'n deffro",
+          "2pl": "dach chi'n deffro",
+          "3pl": "maen nhw'n deffro"
+        }
       },
       "south": {
-        "formal":   { "1sg": "deffraf i", "2sg": "deffri di", "3sg_m": "deffra ef", "3sg_f": "deffra hi", "1pl": "deffrwn ni", "2pl": "deffrwch chi", "3pl": "deffrant hwy" },
-        "informal": { "1sg": "dw i'n deffro", "2sg": "rwyt ti'n deffro", "3sg_m": "mae e'n deffro", "3sg_f": "mae hi'n deffro", "1pl": "r'yn ni'n deffro", "2pl": "r'ych chi'n deffro", "3pl": "maen nhw'n deffro" }
+        "formal": {
+          "1sg": "deffraf i",
+          "2sg": "deffri di",
+          "3sg_m": "deffra ef",
+          "3sg_f": "deffra hi",
+          "1pl": "deffrwn ni",
+          "2pl": "deffrwch chi",
+          "3pl": "deffrant hwy"
+        },
+        "informal": {
+          "1sg": "dw i'n deffro",
+          "2sg": "rwyt ti'n deffro",
+          "3sg_m": "mae e'n deffro",
+          "3sg_f": "mae hi'n deffro",
+          "1pl": "r'yn ni'n deffro",
+          "2pl": "r'ych chi'n deffro",
+          "3pl": "maen nhw'n deffro"
+        }
       }
     },
     "past": {
-      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "label": "Past (Short Form)",
+      "label_cy": "Gorffennol",
       "north": {
-        "formal":   { "1sg": "deffrais i", "2sg": "deffraist ti", "3sg_m": "deffrOdd ef", "3sg_f": "deffrOdd hi", "1pl": "deffrom ni", "2pl": "deffroch chi", "3pl": "deffROnt hwy" },
-        "informal": { "1sg": "deffrais i", "2sg": "deffraist ti", "3sg_m": "deffrOdd o", "3sg_f": "deffrOdd hi", "1pl": "deffron ni", "2pl": "deffroch chi", "3pl": "deffron nhw" }
+        "formal": {
+          "1sg": "deffrais i",
+          "2sg": "deffraist ti",
+          "3sg_m": "deffrodd ef",
+          "3sg_f": "deffrodd hi",
+          "1pl": "deffrom ni",
+          "2pl": "deffroch chi",
+          "3pl": "deffront hwy"
+        },
+        "informal": {
+          "1sg": "deffrais i",
+          "2sg": "deffraist ti",
+          "3sg_m": "deffrodd o",
+          "3sg_f": "deffrodd hi",
+          "1pl": "deffron ni",
+          "2pl": "deffroch chi",
+          "3pl": "deffron nhw"
+        }
       },
       "south": {
-        "formal":   { "1sg": "deffrais i", "2sg": "deffraist ti", "3sg_m": "deffrOdd ef", "3sg_f": "deffrOdd hi", "1pl": "deffrom ni", "2pl": "deffroch chi", "3pl": "deffront hwy" },
-        "informal": { "1sg": "deffres i", "2sg": "deffrest ti", "3sg_m": "deffrOdd e", "3sg_f": "deffrOdd hi", "1pl": "deffron ni", "2pl": "deffroch chi", "3pl": "deffron nhw" }
+        "formal": {
+          "1sg": "deffrais i",
+          "2sg": "deffraist ti",
+          "3sg_m": "deffrodd ef",
+          "3sg_f": "deffrodd hi",
+          "1pl": "deffrom ni",
+          "2pl": "deffroch chi",
+          "3pl": "deffront hwy"
+        },
+        "informal": {
+          "1sg": "deffres i",
+          "2sg": "deffrest ti",
+          "3sg_m": "deffrodd e",
+          "3sg_f": "deffrodd hi",
+          "1pl": "deffron ni",
+          "2pl": "deffroch chi",
+          "3pl": "deffron nhw"
+        }
       }
     },
     "imperfect": {
-      "label": "Imperfect", "label_cy": "Amherffaith",
+      "label": "Imperfect",
+      "label_cy": "Amherffaith",
       "north": {
-        "formal":   { "1sg": "deffrwn i", "2sg": "deffret ti", "3sg_m": "deffrai ef", "3sg_f": "deffrai hi", "1pl": "deffrem ni", "2pl": "deffrech chi", "3pl": "deffrent hwy" },
-        "informal": { "1sg": "ro'n i'n deffro", "2sg": "ro't ti'n deffro", "3sg_m": "roedd o'n deffro", "3sg_f": "roedd hi'n deffro", "1pl": "roedden ni'n deffro", "2pl": "roeddech chi'n deffro", "3pl": "roedden nhw'n deffro" }
+        "formal": {
+          "1sg": "deffrwn i",
+          "2sg": "deffret ti",
+          "3sg_m": "deffrai ef",
+          "3sg_f": "deffrai hi",
+          "1pl": "deffrem ni",
+          "2pl": "deffrech chi",
+          "3pl": "deffrent hwy"
+        },
+        "informal": {
+          "1sg": "ro'n i'n deffro",
+          "2sg": "ro't ti'n deffro",
+          "3sg_m": "roedd o'n deffro",
+          "3sg_f": "roedd hi'n deffro",
+          "1pl": "roedden ni'n deffro",
+          "2pl": "roeddech chi'n deffro",
+          "3pl": "roedden nhw'n deffro"
+        }
       },
       "south": {
-        "formal":   { "1sg": "deffrwn i", "2sg": "deffret ti", "3sg_m": "deffrai ef", "3sg_f": "deffrai hi", "1pl": "deffrem ni", "2pl": "deffrech chi", "3pl": "deffrent hwy" },
-        "informal": { "1sg": "ro'n i'n deffro", "2sg": "ro't ti'n deffro", "3sg_m": "roedd e'n deffro", "3sg_f": "roedd hi'n deffro", "1pl": "roedden ni'n deffro", "2pl": "roeddech chi'n deffro", "3pl": "roedden nhw'n deffro" }
+        "formal": {
+          "1sg": "deffrwn i",
+          "2sg": "deffret ti",
+          "3sg_m": "deffrai ef",
+          "3sg_f": "deffrai hi",
+          "1pl": "deffrem ni",
+          "2pl": "deffrech chi",
+          "3pl": "deffrent hwy"
+        },
+        "informal": {
+          "1sg": "ro'n i'n deffro",
+          "2sg": "ro't ti'n deffro",
+          "3sg_m": "roedd e'n deffro",
+          "3sg_f": "roedd hi'n deffro",
+          "1pl": "roedden ni'n deffro",
+          "2pl": "roeddech chi'n deffro",
+          "3pl": "roedden nhw'n deffro"
+        }
       }
     },
     "future": {
-      "label": "Future", "label_cy": "Dyfodol",
+      "label": "Future",
+      "label_cy": "Dyfodol",
       "north": {
-        "formal":   { "1sg": "deffraf i", "2sg": "deffri di", "3sg_m": "deffra ef", "3sg_f": "deffra hi", "1pl": "deffrwn ni", "2pl": "deffrwch chi", "3pl": "deffrant hwy" },
-        "informal": { "1sg": "bydda i'n deffro", "2sg": "byddi di'n deffro", "3sg_m": "bydd o'n deffro", "3sg_f": "bydd hi'n deffro", "1pl": "byddwn ni'n deffro", "2pl": "byddwch chi'n deffro", "3pl": "byddan nhw'n deffro" }
+        "formal": {
+          "1sg": "deffraf i",
+          "2sg": "deffri di",
+          "3sg_m": "deffra ef",
+          "3sg_f": "deffra hi",
+          "1pl": "deffrwn ni",
+          "2pl": "deffrwch chi",
+          "3pl": "deffrant hwy"
+        },
+        "informal": {
+          "1sg": "bydda i'n deffro",
+          "2sg": "byddi di'n deffro",
+          "3sg_m": "bydd o'n deffro",
+          "3sg_f": "bydd hi'n deffro",
+          "1pl": "byddwn ni'n deffro",
+          "2pl": "byddwch chi'n deffro",
+          "3pl": "byddan nhw'n deffro"
+        }
       },
       "south": {
-        "formal":   { "1sg": "deffraf i", "2sg": "deffri di", "3sg_m": "deffra ef", "3sg_f": "deffra hi", "1pl": "deffrwn ni", "2pl": "deffrwch chi", "3pl": "deffrant hwy" },
-        "informal": { "1sg": "bydda i'n deffro", "2sg": "byddi di'n deffro", "3sg_m": "bydd e'n deffro", "3sg_f": "bydd hi'n deffro", "1pl": "byddwn ni'n deffro", "2pl": "byddwch chi'n deffro", "3pl": "byddan nhw'n deffro" }
+        "formal": {
+          "1sg": "deffraf i",
+          "2sg": "deffri di",
+          "3sg_m": "deffra ef",
+          "3sg_f": "deffra hi",
+          "1pl": "deffrwn ni",
+          "2pl": "deffrwch chi",
+          "3pl": "deffrant hwy"
+        },
+        "informal": {
+          "1sg": "bydda i'n deffro",
+          "2sg": "byddi di'n deffro",
+          "3sg_m": "bydd e'n deffro",
+          "3sg_f": "bydd hi'n deffro",
+          "1pl": "byddwn ni'n deffro",
+          "2pl": "byddwch chi'n deffro",
+          "3pl": "byddan nhw'n deffro"
+        }
       }
     },
     "conditional": {
-      "label": "Conditional", "label_cy": "Amodol",
+      "label": "Conditional",
+      "label_cy": "Amodol",
       "north": {
-        "formal":   { "1sg": "deffrwn i", "2sg": "deffret ti", "3sg_m": "deffrai ef", "3sg_f": "deffrai hi", "1pl": "deffrem ni", "2pl": "deffrech chi", "3pl": "deffrent hwy" },
-        "informal": { "1sg": "baswn i'n deffro", "2sg": "baset ti'n deffro", "3sg_m": "basai fo'n deffro", "3sg_f": "basai hi'n deffro", "1pl": "basen ni'n deffro", "2pl": "basech chi'n deffro", "3pl": "basen nhw'n deffro" }
+        "formal": {
+          "1sg": "deffrwn i",
+          "2sg": "deffret ti",
+          "3sg_m": "deffrai ef",
+          "3sg_f": "deffrai hi",
+          "1pl": "deffrem ni",
+          "2pl": "deffrech chi",
+          "3pl": "deffrent hwy"
+        },
+        "informal": {
+          "1sg": "baswn i'n deffro",
+          "2sg": "baset ti'n deffro",
+          "3sg_m": "basai fo'n deffro",
+          "3sg_f": "basai hi'n deffro",
+          "1pl": "basen ni'n deffro",
+          "2pl": "basech chi'n deffro",
+          "3pl": "basen nhw'n deffro"
+        }
       },
       "south": {
-        "formal":   { "1sg": "deffrwn i", "2sg": "deffret ti", "3sg_m": "deffrai ef", "3sg_f": "deffrai hi", "1pl": "deffrem ni", "2pl": "deffrech chi", "3pl": "deffrent hwy" },
-        "informal": { "1sg": "byddwn i'n deffro", "2sg": "byddet ti'n deffro", "3sg_m": "byddai fe'n deffro", "3sg_f": "byddai hi'n deffro", "1pl": "bydden ni'n deffro", "2pl": "byddech chi'n deffro", "3pl": "bydden nhw'n deffro" }
+        "formal": {
+          "1sg": "deffrwn i",
+          "2sg": "deffret ti",
+          "3sg_m": "deffrai ef",
+          "3sg_f": "deffrai hi",
+          "1pl": "deffrem ni",
+          "2pl": "deffrech chi",
+          "3pl": "deffrent hwy"
+        },
+        "informal": {
+          "1sg": "byddwn i'n deffro",
+          "2sg": "byddet ti'n deffro",
+          "3sg_m": "byddai fe'n deffro",
+          "3sg_f": "byddai hi'n deffro",
+          "1pl": "bydden ni'n deffro",
+          "2pl": "byddech chi'n deffro",
+          "3pl": "bydden nhw'n deffro"
+        }
       }
     }
   }

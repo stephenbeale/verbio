@@ -3,63 +3,234 @@
   "infinitive": "newid",
   "meaning": "to change",
   "type": "regular",
-  "tags": ["common"],
+  "tags": [
+    "common"
+  ],
   "notes": "Regular verb. Stem: newid-. Used both transitively (to change something) and intransitively (to change, as in things changing): 'mae popeth yn newid' (everything is changing).",
-  "mutations": { "soft": "newid", "nasal": "newid", "aspirate": "newid" },
+  "mutations": {
+    "soft": "newid",
+    "nasal": "newid",
+    "aspirate": "newid"
+  },
   "tenses": {
     "present": {
-      "label": "Present", "label_cy": "Presennol",
+      "label": "Present",
+      "label_cy": "Presennol",
       "north": {
-        "formal":   { "1sg": "newidaf i", "2sg": "newidi di", "3sg_m": "newid ef", "3sg_f": "newid hi", "1pl": "newidwn ni", "2pl": "newidwch chi", "3pl": "newidant hwy" },
-        "informal": { "1sg": "dw i'n newid", "2sg": "ti'n newid", "3sg_m": "mae o'n newid", "3sg_f": "mae hi'n newid", "1pl": "dan ni'n newid", "2pl": "dach chi'n newid", "3pl": "maen nhw'n newid" }
+        "formal": {
+          "1sg": "newidaf i",
+          "2sg": "newidi di",
+          "3sg_m": "newid ef",
+          "3sg_f": "newid hi",
+          "1pl": "newidwn ni",
+          "2pl": "newidwch chi",
+          "3pl": "newidant hwy"
+        },
+        "informal": {
+          "1sg": "dw i'n newid",
+          "2sg": "ti'n newid",
+          "3sg_m": "mae o'n newid",
+          "3sg_f": "mae hi'n newid",
+          "1pl": "dan ni'n newid",
+          "2pl": "dach chi'n newid",
+          "3pl": "maen nhw'n newid"
+        }
       },
       "south": {
-        "formal":   { "1sg": "newidaf i", "2sg": "newidi di", "3sg_m": "newid ef", "3sg_f": "newid hi", "1pl": "newidwn ni", "2pl": "newidwch chi", "3pl": "newidant hwy" },
-        "informal": { "1sg": "dw i'n newid", "2sg": "rwyt ti'n newid", "3sg_m": "mae e'n newid", "3sg_f": "mae hi'n newid", "1pl": "r'yn ni'n newid", "2pl": "r'ych chi'n newid", "3pl": "maen nhw'n newid" }
+        "formal": {
+          "1sg": "newidaf i",
+          "2sg": "newidi di",
+          "3sg_m": "newid ef",
+          "3sg_f": "newid hi",
+          "1pl": "newidwn ni",
+          "2pl": "newidwch chi",
+          "3pl": "newidant hwy"
+        },
+        "informal": {
+          "1sg": "dw i'n newid",
+          "2sg": "rwyt ti'n newid",
+          "3sg_m": "mae e'n newid",
+          "3sg_f": "mae hi'n newid",
+          "1pl": "r'yn ni'n newid",
+          "2pl": "r'ych chi'n newid",
+          "3pl": "maen nhw'n newid"
+        }
       }
     },
     "past": {
-      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "label": "Past (Short Form)",
+      "label_cy": "Gorffennol",
       "north": {
-        "formal":   { "1sg": "newidais i", "2sg": "newidaist ti", "3sg_m": "newidodd ef", "3sg_f": "newidodd hi", "1pl": "newidom ni", "2pl": "newidoch chi", "3pl": "newidont hwy" },
-        "informal": { "1sg": "newidais i", "2sg": "newidaist ti", "3sg_m": "newidodd o", "3sg_f": "newidodd hi", "1pl": "newidon ni", "2pl": "newidoch chi", "3pl": "newidon nhw" }
+        "formal": {
+          "1sg": "newidais i",
+          "2sg": "newidaist ti",
+          "3sg_m": "newidodd ef",
+          "3sg_f": "newidodd hi",
+          "1pl": "newidom ni",
+          "2pl": "newidoch chi",
+          "3pl": "newidont hwy"
+        },
+        "informal": {
+          "1sg": "newidais i",
+          "2sg": "newidaist ti",
+          "3sg_m": "newidodd o",
+          "3sg_f": "newidodd hi",
+          "1pl": "newidon ni",
+          "2pl": "newidoch chi",
+          "3pl": "newidon nhw"
+        }
       },
       "south": {
-        "formal":   { "1sg": "newidais i", "2sg": "newidaist ti", "3sg_m": "newidodd ef", "3sg_f": "newidodd hi", "1pl": "newidom ni", "2pl": "newidoch chi", "3pl": "newidont hwy" },
-        "informal": { "1sg": "newides i", "2sg": "newidest ti", "3sg_m": "newidodd e", "3sg_f": "newidodd hi", "1pl": "newidon ni", "2pl": "newidoch chi", "3pl": "newidon nhw" }
+        "formal": {
+          "1sg": "newidais i",
+          "2sg": "newidaist ti",
+          "3sg_m": "newidodd ef",
+          "3sg_f": "newidodd hi",
+          "1pl": "newidom ni",
+          "2pl": "newidoch chi",
+          "3pl": "newidont hwy"
+        },
+        "informal": {
+          "1sg": "newides i",
+          "2sg": "newidest ti",
+          "3sg_m": "newidodd e",
+          "3sg_f": "newidodd hi",
+          "1pl": "newidon ni",
+          "2pl": "newidoch chi",
+          "3pl": "newidon nhw"
+        }
       }
     },
     "imperfect": {
-      "label": "Imperfect", "label_cy": "Amherffaith",
+      "label": "Imperfect",
+      "label_cy": "Amherffaith",
       "north": {
-        "formal":   { "1sg": "newidwn i", "2sg": "newidet ti", "3sg_m": "newidai ef", "3sg_f": "newidai hi", "1pl": "newidem ni", "2pl": "newidech chi", "3pl": "newidENT hwy" },
-        "informal": { "1sg": "ro'n i'n newid", "2sg": "ro't ti'n newid", "3sg_m": "roedd o'n newid", "3sg_f": "roedd hi'n newid", "1pl": "roedden ni'n newid", "2pl": "roeddech chi'n newid", "3pl": "roedden nhw'n newid" }
+        "formal": {
+          "1sg": "newidwn i",
+          "2sg": "newidet ti",
+          "3sg_m": "newidai ef",
+          "3sg_f": "newidai hi",
+          "1pl": "newidem ni",
+          "2pl": "newidech chi",
+          "3pl": "newident hwy"
+        },
+        "informal": {
+          "1sg": "ro'n i'n newid",
+          "2sg": "ro't ti'n newid",
+          "3sg_m": "roedd o'n newid",
+          "3sg_f": "roedd hi'n newid",
+          "1pl": "roedden ni'n newid",
+          "2pl": "roeddech chi'n newid",
+          "3pl": "roedden nhw'n newid"
+        }
       },
       "south": {
-        "formal":   { "1sg": "newidwn i", "2sg": "newidet ti", "3sg_m": "newidai ef", "3sg_f": "newidai hi", "1pl": "newidem ni", "2pl": "newidech chi", "3pl": "newidENT hwy" },
-        "informal": { "1sg": "ro'n i'n newid", "2sg": "ro't ti'n newid", "3sg_m": "roedd e'n newid", "3sg_f": "roedd hi'n newid", "1pl": "roedden ni'n newid", "2pl": "roeddech chi'n newid", "3pl": "roedden nhw'n newid" }
+        "formal": {
+          "1sg": "newidwn i",
+          "2sg": "newidet ti",
+          "3sg_m": "newidai ef",
+          "3sg_f": "newidai hi",
+          "1pl": "newidem ni",
+          "2pl": "newidech chi",
+          "3pl": "newident hwy"
+        },
+        "informal": {
+          "1sg": "ro'n i'n newid",
+          "2sg": "ro't ti'n newid",
+          "3sg_m": "roedd e'n newid",
+          "3sg_f": "roedd hi'n newid",
+          "1pl": "roedden ni'n newid",
+          "2pl": "roeddech chi'n newid",
+          "3pl": "roedden nhw'n newid"
+        }
       }
     },
     "future": {
-      "label": "Future", "label_cy": "Dyfodol",
+      "label": "Future",
+      "label_cy": "Dyfodol",
       "north": {
-        "formal":   { "1sg": "newidaf i", "2sg": "newidi di", "3sg_m": "newid ef", "3sg_f": "newid hi", "1pl": "newidwn ni", "2pl": "newidwch chi", "3pl": "newidant hwy" },
-        "informal": { "1sg": "bydda i'n newid", "2sg": "byddi di'n newid", "3sg_m": "bydd o'n newid", "3sg_f": "bydd hi'n newid", "1pl": "byddwn ni'n newid", "2pl": "byddwch chi'n newid", "3pl": "byddan nhw'n newid" }
+        "formal": {
+          "1sg": "newidaf i",
+          "2sg": "newidi di",
+          "3sg_m": "newid ef",
+          "3sg_f": "newid hi",
+          "1pl": "newidwn ni",
+          "2pl": "newidwch chi",
+          "3pl": "newidant hwy"
+        },
+        "informal": {
+          "1sg": "bydda i'n newid",
+          "2sg": "byddi di'n newid",
+          "3sg_m": "bydd o'n newid",
+          "3sg_f": "bydd hi'n newid",
+          "1pl": "byddwn ni'n newid",
+          "2pl": "byddwch chi'n newid",
+          "3pl": "byddan nhw'n newid"
+        }
       },
       "south": {
-        "formal":   { "1sg": "newidaf i", "2sg": "newidi di", "3sg_m": "newid ef", "3sg_f": "newid hi", "1pl": "newidwn ni", "2pl": "newidwch chi", "3pl": "newidant hwy" },
-        "informal": { "1sg": "bydda i'n newid", "2sg": "byddi di'n newid", "3sg_m": "bydd e'n newid", "3sg_f": "bydd hi'n newid", "1pl": "byddwn ni'n newid", "2pl": "byddwch chi'n newid", "3pl": "byddan nhw'n newid" }
+        "formal": {
+          "1sg": "newidaf i",
+          "2sg": "newidi di",
+          "3sg_m": "newid ef",
+          "3sg_f": "newid hi",
+          "1pl": "newidwn ni",
+          "2pl": "newidwch chi",
+          "3pl": "newidant hwy"
+        },
+        "informal": {
+          "1sg": "bydda i'n newid",
+          "2sg": "byddi di'n newid",
+          "3sg_m": "bydd e'n newid",
+          "3sg_f": "bydd hi'n newid",
+          "1pl": "byddwn ni'n newid",
+          "2pl": "byddwch chi'n newid",
+          "3pl": "byddan nhw'n newid"
+        }
       }
     },
     "conditional": {
-      "label": "Conditional", "label_cy": "Amodol",
+      "label": "Conditional",
+      "label_cy": "Amodol",
       "north": {
-        "formal":   { "1sg": "newidwn i", "2sg": "newidet ti", "3sg_m": "newidai ef", "3sg_f": "newidai hi", "1pl": "newidem ni", "2pl": "newidech chi", "3pl": "newidENT hwy" },
-        "informal": { "1sg": "baswn i'n newid", "2sg": "baset ti'n newid", "3sg_m": "basai fo'n newid", "3sg_f": "basai hi'n newid", "1pl": "basen ni'n newid", "2pl": "basech chi'n newid", "3pl": "basen nhw'n newid" }
+        "formal": {
+          "1sg": "newidwn i",
+          "2sg": "newidet ti",
+          "3sg_m": "newidai ef",
+          "3sg_f": "newidai hi",
+          "1pl": "newidem ni",
+          "2pl": "newidech chi",
+          "3pl": "newident hwy"
+        },
+        "informal": {
+          "1sg": "baswn i'n newid",
+          "2sg": "baset ti'n newid",
+          "3sg_m": "basai fo'n newid",
+          "3sg_f": "basai hi'n newid",
+          "1pl": "basen ni'n newid",
+          "2pl": "basech chi'n newid",
+          "3pl": "basen nhw'n newid"
+        }
       },
       "south": {
-        "formal":   { "1sg": "newidwn i", "2sg": "newidet ti", "3sg_m": "newidai ef", "3sg_f": "newidai hi", "1pl": "newidem ni", "2pl": "newidech chi", "3pl": "newidENT hwy" },
-        "informal": { "1sg": "byddwn i'n newid", "2sg": "byddet ti'n newid", "3sg_m": "byddai fe'n newid", "3sg_f": "byddai hi'n newid", "1pl": "bydden ni'n newid", "2pl": "byddech chi'n newid", "3pl": "bydden nhw'n newid" }
+        "formal": {
+          "1sg": "newidwn i",
+          "2sg": "newidet ti",
+          "3sg_m": "newidai ef",
+          "3sg_f": "newidai hi",
+          "1pl": "newidem ni",
+          "2pl": "newidech chi",
+          "3pl": "newident hwy"
+        },
+        "informal": {
+          "1sg": "byddwn i'n newid",
+          "2sg": "byddet ti'n newid",
+          "3sg_m": "byddai fe'n newid",
+          "3sg_f": "byddai hi'n newid",
+          "1pl": "bydden ni'n newid",
+          "2pl": "byddech chi'n newid",
+          "3pl": "bydden nhw'n newid"
+        }
       }
     }
   }

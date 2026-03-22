@@ -3,63 +3,234 @@
   "infinitive": "cymryd",
   "meaning": "to take",
   "type": "irregular",
-  "tags": ["common"],
+  "tags": [
+    "common"
+  ],
   "notes": "Irregular verb. Stem: cymer-. The 2pl imperative 'cymerwch' is commonly heard. Note that 'cymryd' also means 'to assume' in expressions like 'cymerwch yn ganiataol' (take for granted).",
-  "mutations": { "soft": "gymryd", "nasal": "ngymryd", "aspirate": null },
+  "mutations": {
+    "soft": "gymryd",
+    "nasal": "ngymryd",
+    "aspirate": null
+  },
   "tenses": {
     "present": {
-      "label": "Present", "label_cy": "Presennol",
+      "label": "Present",
+      "label_cy": "Presennol",
       "north": {
-        "formal":   { "1sg": "cymeraf i", "2sg": "cymeri di", "3sg_m": "cymer ef", "3sg_f": "cymer hi", "1pl": "cymerwn ni", "2pl": "cymerwch chi", "3pl": "cymerant hwy" },
-        "informal": { "1sg": "dw i'n cymryd", "2sg": "ti'n cymryd", "3sg_m": "mae o'n cymryd", "3sg_f": "mae hi'n cymryd", "1pl": "dan ni'n cymryd", "2pl": "dach chi'n cymryd", "3pl": "maen nhw'n cymryd" }
+        "formal": {
+          "1sg": "cymeraf i",
+          "2sg": "cymeri di",
+          "3sg_m": "cymer ef",
+          "3sg_f": "cymer hi",
+          "1pl": "cymerwn ni",
+          "2pl": "cymerwch chi",
+          "3pl": "cymerant hwy"
+        },
+        "informal": {
+          "1sg": "dw i'n cymryd",
+          "2sg": "ti'n cymryd",
+          "3sg_m": "mae o'n cymryd",
+          "3sg_f": "mae hi'n cymryd",
+          "1pl": "dan ni'n cymryd",
+          "2pl": "dach chi'n cymryd",
+          "3pl": "maen nhw'n cymryd"
+        }
       },
       "south": {
-        "formal":   { "1sg": "cymeraf i", "2sg": "cymeri di", "3sg_m": "cymer ef", "3sg_f": "cymer hi", "1pl": "cymerwn ni", "2pl": "cymerwch chi", "3pl": "cymerant hwy" },
-        "informal": { "1sg": "dw i'n cymryd", "2sg": "rwyt ti'n cymryd", "3sg_m": "mae e'n cymryd", "3sg_f": "mae hi'n cymryd", "1pl": "r'yn ni'n cymryd", "2pl": "r'ych chi'n cymryd", "3pl": "maen nhw'n cymryd" }
+        "formal": {
+          "1sg": "cymeraf i",
+          "2sg": "cymeri di",
+          "3sg_m": "cymer ef",
+          "3sg_f": "cymer hi",
+          "1pl": "cymerwn ni",
+          "2pl": "cymerwch chi",
+          "3pl": "cymerant hwy"
+        },
+        "informal": {
+          "1sg": "dw i'n cymryd",
+          "2sg": "rwyt ti'n cymryd",
+          "3sg_m": "mae e'n cymryd",
+          "3sg_f": "mae hi'n cymryd",
+          "1pl": "r'yn ni'n cymryd",
+          "2pl": "r'ych chi'n cymryd",
+          "3pl": "maen nhw'n cymryd"
+        }
       }
     },
     "past": {
-      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "label": "Past (Short Form)",
+      "label_cy": "Gorffennol",
       "north": {
-        "formal":   { "1sg": "cymerais i", "2sg": "cymerodd ti", "3sg_m": "cymerodd ef", "3sg_f": "cymerodd hi", "1pl": "cymeron ni", "2pl": "cymeroch chi", "3pl": "cymeron hwy" },
-        "informal": { "1sg": "cymerais i / nes i gymryd", "2sg": "cymerodd ti", "3sg_m": "cymerodd o", "3sg_f": "cymerodd hi", "1pl": "cymeron ni", "2pl": "cymeroch chi", "3pl": "cymeron nhw" }
+        "formal": {
+          "1sg": "cymerais i",
+          "2sg": "cymerodd ti",
+          "3sg_m": "cymerodd ef",
+          "3sg_f": "cymerodd hi",
+          "1pl": "cymeron ni",
+          "2pl": "cymeroch chi",
+          "3pl": "cymeron hwy"
+        },
+        "informal": {
+          "1sg": "cymerais i / nes i gymryd",
+          "2sg": "cymerodd ti",
+          "3sg_m": "cymerodd o",
+          "3sg_f": "cymerodd hi",
+          "1pl": "cymeron ni",
+          "2pl": "cymeroch chi",
+          "3pl": "cymeron nhw"
+        }
       },
       "south": {
-        "formal":   { "1sg": "cymerais i", "2sg": "cymerodd ti", "3sg_m": "cymerodd ef", "3sg_f": "cymerodd hi", "1pl": "cymeron ni", "2pl": "cymeroch chi", "3pl": "cymeron hwy" },
-        "informal": { "1sg": "cymeres i / nethes i gymryd", "2sg": "cymerodd ti", "3sg_m": "cymerodd e", "3sg_f": "cymerodd hi", "1pl": "cymeron ni", "2pl": "cymeroch chi", "3pl": "cymeron nhw" }
+        "formal": {
+          "1sg": "cymerais i",
+          "2sg": "cymerodd ti",
+          "3sg_m": "cymerodd ef",
+          "3sg_f": "cymerodd hi",
+          "1pl": "cymeron ni",
+          "2pl": "cymeroch chi",
+          "3pl": "cymeron hwy"
+        },
+        "informal": {
+          "1sg": "cymeres i / nethes i gymryd",
+          "2sg": "cymerodd ti",
+          "3sg_m": "cymerodd e",
+          "3sg_f": "cymerodd hi",
+          "1pl": "cymeron ni",
+          "2pl": "cymeroch chi",
+          "3pl": "cymeron nhw"
+        }
       }
     },
     "imperfect": {
-      "label": "Imperfect", "label_cy": "Amherffaith",
+      "label": "Imperfect",
+      "label_cy": "Amherffaith",
       "north": {
-        "formal":   { "1sg": "cymerwn i", "2sg": "cymeret ti", "3sg_m": "cymerai ef", "3sg_f": "cymerai hi", "1pl": "cymErem ni", "2pl": "cymerech chi", "3pl": "cymerent hwy" },
-        "informal": { "1sg": "ro'n i'n cymryd", "2sg": "ro't ti'n cymryd", "3sg_m": "roedd o'n cymryd", "3sg_f": "roedd hi'n cymryd", "1pl": "roedden ni'n cymryd", "2pl": "roeddech chi'n cymryd", "3pl": "roedden nhw'n cymryd" }
+        "formal": {
+          "1sg": "cymerwn i",
+          "2sg": "cymeret ti",
+          "3sg_m": "cymerai ef",
+          "3sg_f": "cymerai hi",
+          "1pl": "cymerem ni",
+          "2pl": "cymerech chi",
+          "3pl": "cymerent hwy"
+        },
+        "informal": {
+          "1sg": "ro'n i'n cymryd",
+          "2sg": "ro't ti'n cymryd",
+          "3sg_m": "roedd o'n cymryd",
+          "3sg_f": "roedd hi'n cymryd",
+          "1pl": "roedden ni'n cymryd",
+          "2pl": "roeddech chi'n cymryd",
+          "3pl": "roedden nhw'n cymryd"
+        }
       },
       "south": {
-        "formal":   { "1sg": "cymerwn i", "2sg": "cymeret ti", "3sg_m": "cymerai ef", "3sg_f": "cymerai hi", "1pl": "cymErem ni", "2pl": "cymerech chi", "3pl": "cymerent hwy" },
-        "informal": { "1sg": "ro'n i'n cymryd", "2sg": "ro't ti'n cymryd", "3sg_m": "roedd e'n cymryd", "3sg_f": "roedd hi'n cymryd", "1pl": "roedden ni'n cymryd", "2pl": "roeddech chi'n cymryd", "3pl": "roedden nhw'n cymryd" }
+        "formal": {
+          "1sg": "cymerwn i",
+          "2sg": "cymeret ti",
+          "3sg_m": "cymerai ef",
+          "3sg_f": "cymerai hi",
+          "1pl": "cymerem ni",
+          "2pl": "cymerech chi",
+          "3pl": "cymerent hwy"
+        },
+        "informal": {
+          "1sg": "ro'n i'n cymryd",
+          "2sg": "ro't ti'n cymryd",
+          "3sg_m": "roedd e'n cymryd",
+          "3sg_f": "roedd hi'n cymryd",
+          "1pl": "roedden ni'n cymryd",
+          "2pl": "roeddech chi'n cymryd",
+          "3pl": "roedden nhw'n cymryd"
+        }
       }
     },
     "future": {
-      "label": "Future", "label_cy": "Dyfodol",
+      "label": "Future",
+      "label_cy": "Dyfodol",
       "north": {
-        "formal":   { "1sg": "cymeraf i", "2sg": "cymeri di", "3sg_m": "cymer ef", "3sg_f": "cymer hi", "1pl": "cymerwn ni", "2pl": "cymerwch chi", "3pl": "cymerant hwy" },
-        "informal": { "1sg": "bydda i'n cymryd", "2sg": "byddi di'n cymryd", "3sg_m": "bydd o'n cymryd", "3sg_f": "bydd hi'n cymryd", "1pl": "byddwn ni'n cymryd", "2pl": "byddwch chi'n cymryd", "3pl": "byddan nhw'n cymryd" }
+        "formal": {
+          "1sg": "cymeraf i",
+          "2sg": "cymeri di",
+          "3sg_m": "cymer ef",
+          "3sg_f": "cymer hi",
+          "1pl": "cymerwn ni",
+          "2pl": "cymerwch chi",
+          "3pl": "cymerant hwy"
+        },
+        "informal": {
+          "1sg": "bydda i'n cymryd",
+          "2sg": "byddi di'n cymryd",
+          "3sg_m": "bydd o'n cymryd",
+          "3sg_f": "bydd hi'n cymryd",
+          "1pl": "byddwn ni'n cymryd",
+          "2pl": "byddwch chi'n cymryd",
+          "3pl": "byddan nhw'n cymryd"
+        }
       },
       "south": {
-        "formal":   { "1sg": "cymeraf i", "2sg": "cymeri di", "3sg_m": "cymer ef", "3sg_f": "cymer hi", "1pl": "cymerwn ni", "2pl": "cymerwch chi", "3pl": "cymerant hwy" },
-        "informal": { "1sg": "bydda i'n cymryd", "2sg": "byddi di'n cymryd", "3sg_m": "bydd e'n cymryd", "3sg_f": "bydd hi'n cymryd", "1pl": "byddwn ni'n cymryd", "2pl": "byddwch chi'n cymryd", "3pl": "byddan nhw'n cymryd" }
+        "formal": {
+          "1sg": "cymeraf i",
+          "2sg": "cymeri di",
+          "3sg_m": "cymer ef",
+          "3sg_f": "cymer hi",
+          "1pl": "cymerwn ni",
+          "2pl": "cymerwch chi",
+          "3pl": "cymerant hwy"
+        },
+        "informal": {
+          "1sg": "bydda i'n cymryd",
+          "2sg": "byddi di'n cymryd",
+          "3sg_m": "bydd e'n cymryd",
+          "3sg_f": "bydd hi'n cymryd",
+          "1pl": "byddwn ni'n cymryd",
+          "2pl": "byddwch chi'n cymryd",
+          "3pl": "byddan nhw'n cymryd"
+        }
       }
     },
     "conditional": {
-      "label": "Conditional", "label_cy": "Amodol",
+      "label": "Conditional",
+      "label_cy": "Amodol",
       "north": {
-        "formal":   { "1sg": "cymerwn i", "2sg": "cymeret ti", "3sg_m": "cymerai ef", "3sg_f": "cymerai hi", "1pl": "cymErem ni", "2pl": "cymerech chi", "3pl": "cymerent hwy" },
-        "informal": { "1sg": "baswn i'n cymryd", "2sg": "baset ti'n cymryd", "3sg_m": "basai fo'n cymryd", "3sg_f": "basai hi'n cymryd", "1pl": "basen ni'n cymryd", "2pl": "basech chi'n cymryd", "3pl": "basen nhw'n cymryd" }
+        "formal": {
+          "1sg": "cymerwn i",
+          "2sg": "cymeret ti",
+          "3sg_m": "cymerai ef",
+          "3sg_f": "cymerai hi",
+          "1pl": "cymerem ni",
+          "2pl": "cymerech chi",
+          "3pl": "cymerent hwy"
+        },
+        "informal": {
+          "1sg": "baswn i'n cymryd",
+          "2sg": "baset ti'n cymryd",
+          "3sg_m": "basai fo'n cymryd",
+          "3sg_f": "basai hi'n cymryd",
+          "1pl": "basen ni'n cymryd",
+          "2pl": "basech chi'n cymryd",
+          "3pl": "basen nhw'n cymryd"
+        }
       },
       "south": {
-        "formal":   { "1sg": "cymerwn i", "2sg": "cymeret ti", "3sg_m": "cymerai ef", "3sg_f": "cymerai hi", "1pl": "cymErem ni", "2pl": "cymerech chi", "3pl": "cymerent hwy" },
-        "informal": { "1sg": "byddwn i'n cymryd", "2sg": "byddet ti'n cymryd", "3sg_m": "byddai fe'n cymryd", "3sg_f": "byddai hi'n cymryd", "1pl": "bydden ni'n cymryd", "2pl": "byddech chi'n cymryd", "3pl": "bydden nhw'n cymryd" }
+        "formal": {
+          "1sg": "cymerwn i",
+          "2sg": "cymeret ti",
+          "3sg_m": "cymerai ef",
+          "3sg_f": "cymerai hi",
+          "1pl": "cymerem ni",
+          "2pl": "cymerech chi",
+          "3pl": "cymerent hwy"
+        },
+        "informal": {
+          "1sg": "byddwn i'n cymryd",
+          "2sg": "byddet ti'n cymryd",
+          "3sg_m": "byddai fe'n cymryd",
+          "3sg_f": "byddai hi'n cymryd",
+          "1pl": "bydden ni'n cymryd",
+          "2pl": "byddech chi'n cymryd",
+          "3pl": "bydden nhw'n cymryd"
+        }
       }
     }
   }
