@@ -3,63 +3,234 @@
   "infinitive": "chwarae",
   "meaning": "to play",
   "type": "regular",
-  "tags": ["common"],
+  "tags": [
+    "common"
+  ],
   "notes": "Regular verb. Stem: chwarae-. Note: the infinitive itself begins with 'ch' (aspirate mutation form of 'gwarae'). Used for playing games, sports, and musical instruments: 'chwarae pêl-droed' (to play football), 'chwarae'r piano' (to play the piano).",
-  "mutations": { "soft": "chwarae", "nasal": "chwarae", "aspirate": "chwarae" },
+  "mutations": {
+    "soft": "chwarae",
+    "nasal": "chwarae",
+    "aspirate": "chwarae"
+  },
   "tenses": {
     "present": {
-      "label": "Present", "label_cy": "Presennol",
+      "label": "Present",
+      "label_cy": "Presennol",
       "north": {
-        "formal":   { "1sg": "chwaraeaf i", "2sg": "chwaraei di", "3sg_m": "chwaraee ef", "3sg_f": "chwaraee hi", "1pl": "chwaraeWN ni", "2pl": "chwaraeWCH chi", "3pl": "chwaraeant hwy" },
-        "informal": { "1sg": "dw i'n chwarae", "2sg": "ti'n chwarae", "3sg_m": "mae o'n chwarae", "3sg_f": "mae hi'n chwarae", "1pl": "dan ni'n chwarae", "2pl": "dach chi'n chwarae", "3pl": "maen nhw'n chwarae" }
+        "formal": {
+          "1sg": "chwaraeaf i",
+          "2sg": "chwaraei di",
+          "3sg_m": "chwaraee ef",
+          "3sg_f": "chwaraee hi",
+          "1pl": "chwaraewn ni",
+          "2pl": "chwaraewch chi",
+          "3pl": "chwaraeant hwy"
+        },
+        "informal": {
+          "1sg": "dw i'n chwarae",
+          "2sg": "ti'n chwarae",
+          "3sg_m": "mae o'n chwarae",
+          "3sg_f": "mae hi'n chwarae",
+          "1pl": "dan ni'n chwarae",
+          "2pl": "dach chi'n chwarae",
+          "3pl": "maen nhw'n chwarae"
+        }
       },
       "south": {
-        "formal":   { "1sg": "chwaraeaf i", "2sg": "chwaraei di", "3sg_m": "chwaraee ef", "3sg_f": "chwaraee hi", "1pl": "chwaraeWN ni", "2pl": "chwaraeWCH chi", "3pl": "chwaraeant hwy" },
-        "informal": { "1sg": "dw i'n chwarae", "2sg": "rwyt ti'n chwarae", "3sg_m": "mae e'n chwarae", "3sg_f": "mae hi'n chwarae", "1pl": "r'yn ni'n chwarae", "2pl": "r'ych chi'n chwarae", "3pl": "maen nhw'n chwarae" }
+        "formal": {
+          "1sg": "chwaraeaf i",
+          "2sg": "chwaraei di",
+          "3sg_m": "chwaraee ef",
+          "3sg_f": "chwaraee hi",
+          "1pl": "chwaraewn ni",
+          "2pl": "chwaraewch chi",
+          "3pl": "chwaraeant hwy"
+        },
+        "informal": {
+          "1sg": "dw i'n chwarae",
+          "2sg": "rwyt ti'n chwarae",
+          "3sg_m": "mae e'n chwarae",
+          "3sg_f": "mae hi'n chwarae",
+          "1pl": "r'yn ni'n chwarae",
+          "2pl": "r'ych chi'n chwarae",
+          "3pl": "maen nhw'n chwarae"
+        }
       }
     },
     "past": {
-      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "label": "Past (Short Form)",
+      "label_cy": "Gorffennol",
       "north": {
-        "formal":   { "1sg": "chwaraeais i", "2sg": "chwaraeaist ti", "3sg_m": "chwaraeodd ef", "3sg_f": "chwaraeodd hi", "1pl": "chwaraEom ni", "2pl": "chwaraeoch chi", "3pl": "chwaraEont hwy" },
-        "informal": { "1sg": "chwaraeais i", "2sg": "chwaraeaist ti", "3sg_m": "chwaraeodd o", "3sg_f": "chwaraeodd hi", "1pl": "chwaraeon ni", "2pl": "chwaraeoch chi", "3pl": "chwaraeon nhw" }
+        "formal": {
+          "1sg": "chwaraeais i",
+          "2sg": "chwaraeaist ti",
+          "3sg_m": "chwaraeodd ef",
+          "3sg_f": "chwaraeodd hi",
+          "1pl": "chwaraeom ni",
+          "2pl": "chwaraeoch chi",
+          "3pl": "chwaraeont hwy"
+        },
+        "informal": {
+          "1sg": "chwaraeais i",
+          "2sg": "chwaraeaist ti",
+          "3sg_m": "chwaraeodd o",
+          "3sg_f": "chwaraeodd hi",
+          "1pl": "chwaraeon ni",
+          "2pl": "chwaraeoch chi",
+          "3pl": "chwaraeon nhw"
+        }
       },
       "south": {
-        "formal":   { "1sg": "chwaraeais i", "2sg": "chwaraeaist ti", "3sg_m": "chwaraeodd ef", "3sg_f": "chwaraeodd hi", "1pl": "chwaraEom ni", "2pl": "chwaraeoch chi", "3pl": "chwaraEont hwy" },
-        "informal": { "1sg": "chwaraees i", "2sg": "chwaraeest ti", "3sg_m": "chwaraeodd e", "3sg_f": "chwaraeodd hi", "1pl": "chwaraeon ni", "2pl": "chwaraeoch chi", "3pl": "chwaraeon nhw" }
+        "formal": {
+          "1sg": "chwaraeais i",
+          "2sg": "chwaraeaist ti",
+          "3sg_m": "chwaraeodd ef",
+          "3sg_f": "chwaraeodd hi",
+          "1pl": "chwaraeom ni",
+          "2pl": "chwaraeoch chi",
+          "3pl": "chwaraeont hwy"
+        },
+        "informal": {
+          "1sg": "chwaraees i",
+          "2sg": "chwaraeest ti",
+          "3sg_m": "chwaraeodd e",
+          "3sg_f": "chwaraeodd hi",
+          "1pl": "chwaraeon ni",
+          "2pl": "chwaraeoch chi",
+          "3pl": "chwaraeon nhw"
+        }
       }
     },
     "imperfect": {
-      "label": "Imperfect", "label_cy": "Amherffaith",
+      "label": "Imperfect",
+      "label_cy": "Amherffaith",
       "north": {
-        "formal":   { "1sg": "chwaraeWN i", "2sg": "chwaraeEt ti", "3sg_m": "chwaraeAi ef", "3sg_f": "chwaraeAi hi", "1pl": "chwaraeEm ni", "2pl": "chwaraeEch chi", "3pl": "chwaraeEnt hwy" },
-        "informal": { "1sg": "ro'n i'n chwarae", "2sg": "ro't ti'n chwarae", "3sg_m": "roedd o'n chwarae", "3sg_f": "roedd hi'n chwarae", "1pl": "roedden ni'n chwarae", "2pl": "roeddech chi'n chwarae", "3pl": "roedden nhw'n chwarae" }
+        "formal": {
+          "1sg": "chwaraewn i",
+          "2sg": "chwaraeet ti",
+          "3sg_m": "chwaraeai ef",
+          "3sg_f": "chwaraeai hi",
+          "1pl": "chwaraeem ni",
+          "2pl": "chwaraeech chi",
+          "3pl": "chwaraeent hwy"
+        },
+        "informal": {
+          "1sg": "ro'n i'n chwarae",
+          "2sg": "ro't ti'n chwarae",
+          "3sg_m": "roedd o'n chwarae",
+          "3sg_f": "roedd hi'n chwarae",
+          "1pl": "roedden ni'n chwarae",
+          "2pl": "roeddech chi'n chwarae",
+          "3pl": "roedden nhw'n chwarae"
+        }
       },
       "south": {
-        "formal":   { "1sg": "chwaraeWN i", "2sg": "chwaraeEt ti", "3sg_m": "chwaraeAi ef", "3sg_f": "chwaraeAi hi", "1pl": "chwaraeEm ni", "2pl": "chwaraeEch chi", "3pl": "chwaraeEnt hwy" },
-        "informal": { "1sg": "ro'n i'n chwarae", "2sg": "ro't ti'n chwarae", "3sg_m": "roedd e'n chwarae", "3sg_f": "roedd hi'n chwarae", "1pl": "roedden ni'n chwarae", "2pl": "roeddech chi'n chwarae", "3pl": "roedden nhw'n chwarae" }
+        "formal": {
+          "1sg": "chwaraewn i",
+          "2sg": "chwaraeet ti",
+          "3sg_m": "chwaraeai ef",
+          "3sg_f": "chwaraeai hi",
+          "1pl": "chwaraeem ni",
+          "2pl": "chwaraeech chi",
+          "3pl": "chwaraeent hwy"
+        },
+        "informal": {
+          "1sg": "ro'n i'n chwarae",
+          "2sg": "ro't ti'n chwarae",
+          "3sg_m": "roedd e'n chwarae",
+          "3sg_f": "roedd hi'n chwarae",
+          "1pl": "roedden ni'n chwarae",
+          "2pl": "roeddech chi'n chwarae",
+          "3pl": "roedden nhw'n chwarae"
+        }
       }
     },
     "future": {
-      "label": "Future", "label_cy": "Dyfodol",
+      "label": "Future",
+      "label_cy": "Dyfodol",
       "north": {
-        "formal":   { "1sg": "chwaraeaf i", "2sg": "chwaraei di", "3sg_m": "chwaraee ef", "3sg_f": "chwaraee hi", "1pl": "chwaraeWN ni", "2pl": "chwaraeWCH chi", "3pl": "chwaraeant hwy" },
-        "informal": { "1sg": "bydda i'n chwarae", "2sg": "byddi di'n chwarae", "3sg_m": "bydd o'n chwarae", "3sg_f": "bydd hi'n chwarae", "1pl": "byddwn ni'n chwarae", "2pl": "byddwch chi'n chwarae", "3pl": "byddan nhw'n chwarae" }
+        "formal": {
+          "1sg": "chwaraeaf i",
+          "2sg": "chwaraei di",
+          "3sg_m": "chwaraee ef",
+          "3sg_f": "chwaraee hi",
+          "1pl": "chwaraewn ni",
+          "2pl": "chwaraewch chi",
+          "3pl": "chwaraeant hwy"
+        },
+        "informal": {
+          "1sg": "bydda i'n chwarae",
+          "2sg": "byddi di'n chwarae",
+          "3sg_m": "bydd o'n chwarae",
+          "3sg_f": "bydd hi'n chwarae",
+          "1pl": "byddwn ni'n chwarae",
+          "2pl": "byddwch chi'n chwarae",
+          "3pl": "byddan nhw'n chwarae"
+        }
       },
       "south": {
-        "formal":   { "1sg": "chwaraeaf i", "2sg": "chwaraei di", "3sg_m": "chwaraee ef", "3sg_f": "chwaraee hi", "1pl": "chwaraeWN ni", "2pl": "chwaraeWCH chi", "3pl": "chwaraeant hwy" },
-        "informal": { "1sg": "bydda i'n chwarae", "2sg": "byddi di'n chwarae", "3sg_m": "bydd e'n chwarae", "3sg_f": "bydd hi'n chwarae", "1pl": "byddwn ni'n chwarae", "2pl": "byddwch chi'n chwarae", "3pl": "byddan nhw'n chwarae" }
+        "formal": {
+          "1sg": "chwaraeaf i",
+          "2sg": "chwaraei di",
+          "3sg_m": "chwaraee ef",
+          "3sg_f": "chwaraee hi",
+          "1pl": "chwaraewn ni",
+          "2pl": "chwaraewch chi",
+          "3pl": "chwaraeant hwy"
+        },
+        "informal": {
+          "1sg": "bydda i'n chwarae",
+          "2sg": "byddi di'n chwarae",
+          "3sg_m": "bydd e'n chwarae",
+          "3sg_f": "bydd hi'n chwarae",
+          "1pl": "byddwn ni'n chwarae",
+          "2pl": "byddwch chi'n chwarae",
+          "3pl": "byddan nhw'n chwarae"
+        }
       }
     },
     "conditional": {
-      "label": "Conditional", "label_cy": "Amodol",
+      "label": "Conditional",
+      "label_cy": "Amodol",
       "north": {
-        "formal":   { "1sg": "chwaraeWN i", "2sg": "chwaraeEt ti", "3sg_m": "chwaraeAi ef", "3sg_f": "chwaraeAi hi", "1pl": "chwaraeEm ni", "2pl": "chwaraeEch chi", "3pl": "chwaraeEnt hwy" },
-        "informal": { "1sg": "baswn i'n chwarae", "2sg": "baset ti'n chwarae", "3sg_m": "basai fo'n chwarae", "3sg_f": "basai hi'n chwarae", "1pl": "basen ni'n chwarae", "2pl": "basech chi'n chwarae", "3pl": "basen nhw'n chwarae" }
+        "formal": {
+          "1sg": "chwaraewn i",
+          "2sg": "chwaraeet ti",
+          "3sg_m": "chwaraeai ef",
+          "3sg_f": "chwaraeai hi",
+          "1pl": "chwaraeem ni",
+          "2pl": "chwaraeech chi",
+          "3pl": "chwaraeent hwy"
+        },
+        "informal": {
+          "1sg": "baswn i'n chwarae",
+          "2sg": "baset ti'n chwarae",
+          "3sg_m": "basai fo'n chwarae",
+          "3sg_f": "basai hi'n chwarae",
+          "1pl": "basen ni'n chwarae",
+          "2pl": "basech chi'n chwarae",
+          "3pl": "basen nhw'n chwarae"
+        }
       },
       "south": {
-        "formal":   { "1sg": "chwaraeWN i", "2sg": "chwaraeEt ti", "3sg_m": "chwaraeAi ef", "3sg_f": "chwaraeAi hi", "1pl": "chwaraeEm ni", "2pl": "chwaraeEch chi", "3pl": "chwaraeEnt hwy" },
-        "informal": { "1sg": "byddwn i'n chwarae", "2sg": "byddet ti'n chwarae", "3sg_m": "byddai fe'n chwarae", "3sg_f": "byddai hi'n chwarae", "1pl": "bydden ni'n chwarae", "2pl": "byddech chi'n chwarae", "3pl": "bydden nhw'n chwarae" }
+        "formal": {
+          "1sg": "chwaraewn i",
+          "2sg": "chwaraeet ti",
+          "3sg_m": "chwaraeai ef",
+          "3sg_f": "chwaraeai hi",
+          "1pl": "chwaraeem ni",
+          "2pl": "chwaraeech chi",
+          "3pl": "chwaraeent hwy"
+        },
+        "informal": {
+          "1sg": "byddwn i'n chwarae",
+          "2sg": "byddet ti'n chwarae",
+          "3sg_m": "byddai fe'n chwarae",
+          "3sg_f": "byddai hi'n chwarae",
+          "1pl": "bydden ni'n chwarae",
+          "2pl": "byddech chi'n chwarae",
+          "3pl": "bydden nhw'n chwarae"
+        }
       }
     }
   }

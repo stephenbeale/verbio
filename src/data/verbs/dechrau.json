@@ -3,63 +3,234 @@
   "infinitive": "dechrau",
   "meaning": "to start / to begin",
   "type": "regular",
-  "tags": ["common"],
+  "tags": [
+    "common"
+  ],
   "notes": "Regular verb. Stem: dechre-. Note the stem vowel changes in inflected forms.",
-  "mutations": { "soft": "ddechrau", "nasal": "ndechrau", "aspirate": null },
+  "mutations": {
+    "soft": "ddechrau",
+    "nasal": "ndechrau",
+    "aspirate": null
+  },
   "tenses": {
     "present": {
-      "label": "Present", "label_cy": "Presennol",
+      "label": "Present",
+      "label_cy": "Presennol",
       "north": {
-        "formal":   { "1sg": "dechreuaf i", "2sg": "dechrewi di", "3sg_m": "dechreua ef", "3sg_f": "dechreua hi", "1pl": "dechreuWN ni", "2pl": "dechrewch chi", "3pl": "dechreuant hwy" },
-        "informal": { "1sg": "dw i'n dechrau", "2sg": "ti'n dechrau", "3sg_m": "mae o'n dechrau", "3sg_f": "mae hi'n dechrau", "1pl": "dan ni'n dechrau", "2pl": "dach chi'n dechrau", "3pl": "maen nhw'n dechrau" }
+        "formal": {
+          "1sg": "dechreuaf i",
+          "2sg": "dechrewi di",
+          "3sg_m": "dechreua ef",
+          "3sg_f": "dechreua hi",
+          "1pl": "dechreuwn ni",
+          "2pl": "dechrewch chi",
+          "3pl": "dechreuant hwy"
+        },
+        "informal": {
+          "1sg": "dw i'n dechrau",
+          "2sg": "ti'n dechrau",
+          "3sg_m": "mae o'n dechrau",
+          "3sg_f": "mae hi'n dechrau",
+          "1pl": "dan ni'n dechrau",
+          "2pl": "dach chi'n dechrau",
+          "3pl": "maen nhw'n dechrau"
+        }
       },
       "south": {
-        "formal":   { "1sg": "dechreuaf i", "2sg": "dechrewi di", "3sg_m": "dechreua ef", "3sg_f": "dechreua hi", "1pl": "dechreuWN ni", "2pl": "dechrewch chi", "3pl": "dechreuant hwy" },
-        "informal": { "1sg": "dw i'n dechrau", "2sg": "rwyt ti'n dechrau", "3sg_m": "mae e'n dechrau", "3sg_f": "mae hi'n dechrau", "1pl": "r'yn ni'n dechrau", "2pl": "r'ych chi'n dechrau", "3pl": "maen nhw'n dechrau" }
+        "formal": {
+          "1sg": "dechreuaf i",
+          "2sg": "dechrewi di",
+          "3sg_m": "dechreua ef",
+          "3sg_f": "dechreua hi",
+          "1pl": "dechreuwn ni",
+          "2pl": "dechrewch chi",
+          "3pl": "dechreuant hwy"
+        },
+        "informal": {
+          "1sg": "dw i'n dechrau",
+          "2sg": "rwyt ti'n dechrau",
+          "3sg_m": "mae e'n dechrau",
+          "3sg_f": "mae hi'n dechrau",
+          "1pl": "r'yn ni'n dechrau",
+          "2pl": "r'ych chi'n dechrau",
+          "3pl": "maen nhw'n dechrau"
+        }
       }
     },
     "past": {
-      "label": "Past (Short Form)", "label_cy": "Gorffennol",
+      "label": "Past (Short Form)",
+      "label_cy": "Gorffennol",
       "north": {
-        "formal":   { "1sg": "dechreuais i", "2sg": "dechreUaist ti", "3sg_m": "dECHREUodd ef", "3sg_f": "dechreUodd hi", "1pl": "dechreuOM ni", "2pl": "dechreUOCH chi", "3pl": "dechreUONT hwy" },
-        "informal": { "1sg": "dechreuais i", "2sg": "dechreUaist ti", "3sg_m": "dechreUodd o", "3sg_f": "dechreUodd hi", "1pl": "dechreUon ni", "2pl": "dechreUoch chi", "3pl": "dechreUon nhw" }
+        "formal": {
+          "1sg": "dechreuais i",
+          "2sg": "dechreuaist ti",
+          "3sg_m": "dechreuodd ef",
+          "3sg_f": "dechreuodd hi",
+          "1pl": "dechreuom ni",
+          "2pl": "dechreuoch chi",
+          "3pl": "dechreuont hwy"
+        },
+        "informal": {
+          "1sg": "dechreuais i",
+          "2sg": "dechreuaist ti",
+          "3sg_m": "dechreuodd o",
+          "3sg_f": "dechreuodd hi",
+          "1pl": "dechreuon ni",
+          "2pl": "dechreuoch chi",
+          "3pl": "dechreuon nhw"
+        }
       },
       "south": {
-        "formal":   { "1sg": "dechreuais i", "2sg": "dechreUaist ti", "3sg_m": "dECHREUodd ef", "3sg_f": "dechreUodd hi", "1pl": "dechreuOM ni", "2pl": "dechreUOCH chi", "3pl": "dechreUONT hwy" },
-        "informal": { "1sg": "dechreuEs i", "2sg": "dechreUest ti", "3sg_m": "dechreUodd e", "3sg_f": "dechreUodd hi", "1pl": "dechreUon ni", "2pl": "dechreUoch chi", "3pl": "dechreUon nhw" }
+        "formal": {
+          "1sg": "dechreuais i",
+          "2sg": "dechreuaist ti",
+          "3sg_m": "dechreuodd ef",
+          "3sg_f": "dechreuodd hi",
+          "1pl": "dechreuom ni",
+          "2pl": "dechreuoch chi",
+          "3pl": "dechreuont hwy"
+        },
+        "informal": {
+          "1sg": "dechreues i",
+          "2sg": "dechreuest ti",
+          "3sg_m": "dechreuodd e",
+          "3sg_f": "dechreuodd hi",
+          "1pl": "dechreuon ni",
+          "2pl": "dechreuoch chi",
+          "3pl": "dechreuon nhw"
+        }
       }
     },
     "imperfect": {
-      "label": "Imperfect", "label_cy": "Amherffaith",
+      "label": "Imperfect",
+      "label_cy": "Amherffaith",
       "north": {
-        "formal":   { "1sg": "dechreuWN i", "2sg": "dechreUet ti", "3sg_m": "dechreUai ef", "3sg_f": "dechreUai hi", "1pl": "dechreUem ni", "2pl": "dechreUech chi", "3pl": "dechreUent hwy" },
-        "informal": { "1sg": "ro'n i'n dechrau", "2sg": "ro't ti'n dechrau", "3sg_m": "roedd o'n dechrau", "3sg_f": "roedd hi'n dechrau", "1pl": "roedden ni'n dechrau", "2pl": "roeddech chi'n dechrau", "3pl": "roedden nhw'n dechrau" }
+        "formal": {
+          "1sg": "dechreuwn i",
+          "2sg": "dechreuet ti",
+          "3sg_m": "dechreuai ef",
+          "3sg_f": "dechreuai hi",
+          "1pl": "dechreuem ni",
+          "2pl": "dechreuech chi",
+          "3pl": "dechreuent hwy"
+        },
+        "informal": {
+          "1sg": "ro'n i'n dechrau",
+          "2sg": "ro't ti'n dechrau",
+          "3sg_m": "roedd o'n dechrau",
+          "3sg_f": "roedd hi'n dechrau",
+          "1pl": "roedden ni'n dechrau",
+          "2pl": "roeddech chi'n dechrau",
+          "3pl": "roedden nhw'n dechrau"
+        }
       },
       "south": {
-        "formal":   { "1sg": "dechreuWN i", "2sg": "dechreUet ti", "3sg_m": "dechreUai ef", "3sg_f": "dechreUai hi", "1pl": "dechreUem ni", "2pl": "dechreUech chi", "3pl": "dechreUent hwy" },
-        "informal": { "1sg": "ro'n i'n dechrau", "2sg": "ro't ti'n dechrau", "3sg_m": "roedd e'n dechrau", "3sg_f": "roedd hi'n dechrau", "1pl": "roedden ni'n dechrau", "2pl": "roeddech chi'n dechrau", "3pl": "roedden nhw'n dechrau" }
+        "formal": {
+          "1sg": "dechreuwn i",
+          "2sg": "dechreuet ti",
+          "3sg_m": "dechreuai ef",
+          "3sg_f": "dechreuai hi",
+          "1pl": "dechreuem ni",
+          "2pl": "dechreuech chi",
+          "3pl": "dechreuent hwy"
+        },
+        "informal": {
+          "1sg": "ro'n i'n dechrau",
+          "2sg": "ro't ti'n dechrau",
+          "3sg_m": "roedd e'n dechrau",
+          "3sg_f": "roedd hi'n dechrau",
+          "1pl": "roedden ni'n dechrau",
+          "2pl": "roeddech chi'n dechrau",
+          "3pl": "roedden nhw'n dechrau"
+        }
       }
     },
     "future": {
-      "label": "Future", "label_cy": "Dyfodol",
+      "label": "Future",
+      "label_cy": "Dyfodol",
       "north": {
-        "formal":   { "1sg": "dechreuaf i", "2sg": "dechrewi di", "3sg_m": "dechreua ef", "3sg_f": "dechreua hi", "1pl": "dechreuWN ni", "2pl": "dechrewch chi", "3pl": "dechreuant hwy" },
-        "informal": { "1sg": "bydda i'n dechrau", "2sg": "byddi di'n dechrau", "3sg_m": "bydd o'n dechrau", "3sg_f": "bydd hi'n dechrau", "1pl": "byddwn ni'n dechrau", "2pl": "byddwch chi'n dechrau", "3pl": "byddan nhw'n dechrau" }
+        "formal": {
+          "1sg": "dechreuaf i",
+          "2sg": "dechrewi di",
+          "3sg_m": "dechreua ef",
+          "3sg_f": "dechreua hi",
+          "1pl": "dechreuwn ni",
+          "2pl": "dechrewch chi",
+          "3pl": "dechreuant hwy"
+        },
+        "informal": {
+          "1sg": "bydda i'n dechrau",
+          "2sg": "byddi di'n dechrau",
+          "3sg_m": "bydd o'n dechrau",
+          "3sg_f": "bydd hi'n dechrau",
+          "1pl": "byddwn ni'n dechrau",
+          "2pl": "byddwch chi'n dechrau",
+          "3pl": "byddan nhw'n dechrau"
+        }
       },
       "south": {
-        "formal":   { "1sg": "dechreuaf i", "2sg": "dechrewi di", "3sg_m": "dechreua ef", "3sg_f": "dechreua hi", "1pl": "dechreuWN ni", "2pl": "dechrewch chi", "3pl": "dechreuant hwy" },
-        "informal": { "1sg": "bydda i'n dechrau", "2sg": "byddi di'n dechrau", "3sg_m": "bydd e'n dechrau", "3sg_f": "bydd hi'n dechrau", "1pl": "byddwn ni'n dechrau", "2pl": "byddwch chi'n dechrau", "3pl": "byddan nhw'n dechrau" }
+        "formal": {
+          "1sg": "dechreuaf i",
+          "2sg": "dechrewi di",
+          "3sg_m": "dechreua ef",
+          "3sg_f": "dechreua hi",
+          "1pl": "dechreuwn ni",
+          "2pl": "dechrewch chi",
+          "3pl": "dechreuant hwy"
+        },
+        "informal": {
+          "1sg": "bydda i'n dechrau",
+          "2sg": "byddi di'n dechrau",
+          "3sg_m": "bydd e'n dechrau",
+          "3sg_f": "bydd hi'n dechrau",
+          "1pl": "byddwn ni'n dechrau",
+          "2pl": "byddwch chi'n dechrau",
+          "3pl": "byddan nhw'n dechrau"
+        }
       }
     },
     "conditional": {
-      "label": "Conditional", "label_cy": "Amodol",
+      "label": "Conditional",
+      "label_cy": "Amodol",
       "north": {
-        "formal":   { "1sg": "dechreuWN i", "2sg": "dechreUet ti", "3sg_m": "dechreUai ef", "3sg_f": "dechreUai hi", "1pl": "dechreUem ni", "2pl": "dechreUech chi", "3pl": "dechreUent hwy" },
-        "informal": { "1sg": "baswn i'n dechrau", "2sg": "baset ti'n dechrau", "3sg_m": "basai fo'n dechrau", "3sg_f": "basai hi'n dechrau", "1pl": "basen ni'n dechrau", "2pl": "basech chi'n dechrau", "3pl": "basen nhw'n dechrau" }
+        "formal": {
+          "1sg": "dechreuwn i",
+          "2sg": "dechreuet ti",
+          "3sg_m": "dechreuai ef",
+          "3sg_f": "dechreuai hi",
+          "1pl": "dechreuem ni",
+          "2pl": "dechreuech chi",
+          "3pl": "dechreuent hwy"
+        },
+        "informal": {
+          "1sg": "baswn i'n dechrau",
+          "2sg": "baset ti'n dechrau",
+          "3sg_m": "basai fo'n dechrau",
+          "3sg_f": "basai hi'n dechrau",
+          "1pl": "basen ni'n dechrau",
+          "2pl": "basech chi'n dechrau",
+          "3pl": "basen nhw'n dechrau"
+        }
       },
       "south": {
-        "formal":   { "1sg": "dechreuWN i", "2sg": "dechreUet ti", "3sg_m": "dechreUai ef", "3sg_f": "dechreUai hi", "1pl": "dechreUem ni", "2pl": "dechreUech chi", "3pl": "dechreUent hwy" },
-        "informal": { "1sg": "byddwn i'n dechrau", "2sg": "byddet ti'n dechrau", "3sg_m": "byddai fe'n dechrau", "3sg_f": "byddai hi'n dechrau", "1pl": "bydden ni'n dechrau", "2pl": "byddech chi'n dechrau", "3pl": "bydden nhw'n dechrau" }
+        "formal": {
+          "1sg": "dechreuwn i",
+          "2sg": "dechreuet ti",
+          "3sg_m": "dechreuai ef",
+          "3sg_f": "dechreuai hi",
+          "1pl": "dechreuem ni",
+          "2pl": "dechreuech chi",
+          "3pl": "dechreuent hwy"
+        },
+        "informal": {
+          "1sg": "byddwn i'n dechrau",
+          "2sg": "byddet ti'n dechrau",
+          "3sg_m": "byddai fe'n dechrau",
+          "3sg_f": "byddai hi'n dechrau",
+          "1pl": "bydden ni'n dechrau",
+          "2pl": "byddech chi'n dechrau",
+          "3pl": "bydden nhw'n dechrau"
+        }
       }
     }
   }
